@@ -15,7 +15,7 @@
 	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
 	- 
 
-Wissensdateien getrennt von Systemen und verknüpft
+Wissensdateien sind getrennt von Systemen und verknüpft
 für Ideen, die später mal getestet werden können, eigene Datei wo jede Idee ein block ist und mit dem Wissen verlinkt wird oder zitiert wird
 andere Art von Dateien 
 - Tag: \z/irgendwannTesten

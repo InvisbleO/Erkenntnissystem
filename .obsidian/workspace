@@ -17,6 +17,7 @@
       {
         "id": "8167eccb212f87c9",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -28,7 +29,6 @@
       {
         "id": "c2c39066dd3efaf4",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Gedanken/Ideaspace/Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Gedanken/Ideaspace/Systeme.md"
               }
             }
           },
@@ -154,10 +154,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Todo.md",
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace/Systeme.md",
+    "Todo.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
     "Systeme.md",
     "System/Vorlagen/Vorlage Tagesnotizen.md",
