@@ -18,7 +18,7 @@
 				- Erinnerungen
 			- Gedanken aus Quick capture werden regelmäßig analysiert und in passende Notizen eingeordnet, aber sie bleiben auch unverändert in der Tagesnotiz stehen, damit ich später sehen kann, wie sich mein Denkensprozess verändert hat etc.
 			- Sollen als Dokumentation meines Lebens dienen
-			- Vorlage: [[Vorlage Tagesnotizen]]
+			- Vorlage: [[Vorlage Tagesnotizen]]( #v/zinf )
 		- **Weltbild**: alle Erkenntnisse von Grund auf, Logiksystem
 	-   **Hintergrunddaten**: alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
 	-   **System**: Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
@@ -28,7 +28,7 @@
 -   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
 	-   Wenn der gleiche Begriff genutzt wird, dann ist das der Link, wenn ein anderer Begriff genutzt wird, dann ist dieser entweder ein alias oder wird verlinkt)
 	-   Links befinden sind immer bei dem Ziel einer Verknüpfung, bei der Voraussetzung können sie unter Backlinks nachgeschaut werden
-	-   Hinter jedem normalen Link steht ein Tag der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#Informationsquelle)
+	-   Hinter jedem normalen Link steht ein Tag, der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#Informationsquelle)
 -   Embedded Link bedeutet, dass der Inhalt einer anderen Datei in der aktuellen Datei inhaltlich genutzt wird, z.B. bei Schlussfolgerungen - es ist egal wo der Ursprung der Datei/des Blocks ist (also wo das Original gespeichert ist)
 -   Unmentioned Links sind irrelevant für Verständnis
 
