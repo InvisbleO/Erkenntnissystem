@@ -1,33 +1,38 @@
 
 # Aufbau + Workflow Logik-&Wissenssystem
 
-## Aufbau des Systems+ Grundprinzipien
+## Aufbau des Systems + Grundprinzipien
 
 ### Kategorisierung und Einordnung von Daten
--   **Ordner** - wird angesehen als eine zusätzliche Möglichkeit Daten zu sortieren einfach grundsätzlich verwenden für Einordnung von Dateien, falls ich eine bestimmte Art von Datei suche kann es behilflich sein, ansonsten aber unwichtig
+#### Ordner
+-   wird angesehen als eine zusätzliche Möglichkeit Daten zu sortieren einfach grundsätzlich verwenden für Einordnung von Dateien, falls ich eine bestimmte Art von Datei suche kann es behilflich sein, ansonsten aber unwichtig
 	-   Nachteil dass Rüberspringen zu Nachbardateien in Primärstruktur nicht so einfach ist, falls dass ein großes Hindernis ist, dann Eltern- und Kinderdateien in einer Datei verlinken, aber vorerst nicht erwartet dass es nötig sein wird
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
--   **Links**
-	-   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
-		-   Wenn der gleiche Begriff genutzt wird, dann ist das der Link, wenn ein anderer Begriff genutzt wird, dann ist dieser entweder ein alias oder wird verlinkt)
-		-   Links befinden sind immer bei dem Ziel einer Verknüpfung, bei der Voraussetzung können sie unter Backlinks nachgeschaut werden
-		-   Hinter jedem normalen Link steht ein Tag der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#Informationsquelle)
-	-   Embedded Link bedeutet, dass der Inhalt einer anderen Datei in der aktuellen Datei inhaltlich genutzt wird, z.B. bei Schlussfolgerungen - es ist egal wo der Ursprung der Datei/des Blocks ist (also wo das Original gespeichert ist)
-	-   Unmentioned Links sind irrelevant für Verständnis
--   **Tags**
-	-   \#v Bestimmung der Art einer Verknüpfung
-		-   \#v/log
-		-   \#v/abl
-		-   \#v/def
-		-   \#v/infq
-		-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
-		-   \#v/sek Für Themenbereiche/Sekundärstruktur einzelne verschiedene Tags, z.B. \#v/sek, \#v/sek/Neurologie… - Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
-	-   \#z Zustand einer Notiz/eines Blocks - einfache Attribute
-		-   \#z/testen - Aussage muss geprüft werden durch Testen und dann bestätigt oder korrigiert werden
-		-   \#z/todo - Signal, dass eine Stelle nicht als fertig bearbeitet angesehen wird und es wird auf eine Voraussetzung gewartet, damit das gemacht werden kann
-			-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren - dieser Tag erscheint in der Notiz "Todo" - in dieser wird regelmäßig geprüft, ob für ein todo neue Informationen vorhanden sind, wann es erledigt werden kann - wenn ja, dann dieses Datum planen und wenn es erledigt ist, dann einfach den tag \#z/todo aus der Stelle, die unvollständig war, entfernen
--   Codezeichen im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
-	-   Vorerst nicht, nur bei Bedarf
+
+#### Links
+-   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
+	-   Wenn der gleiche Begriff genutzt wird, dann ist das der Link, wenn ein anderer Begriff genutzt wird, dann ist dieser entweder ein alias oder wird verlinkt)
+	-   Links befinden sind immer bei dem Ziel einer Verknüpfung, bei der Voraussetzung können sie unter Backlinks nachgeschaut werden
+	-   Hinter jedem normalen Link steht ein Tag der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#Informationsquelle)
+-   Embedded Link bedeutet, dass der Inhalt einer anderen Datei in der aktuellen Datei inhaltlich genutzt wird, z.B. bei Schlussfolgerungen - es ist egal wo der Ursprung der Datei/des Blocks ist (also wo das Original gespeichert ist)
+-   Unmentioned Links sind irrelevant für Verständnis
+
+#### Tags
+-   \#v Bestimmung der Art einer Verknüpfung
+	-   \#v/log
+	-   \#v/abl
+	-   \#v/def
+	-   \#v/infq
+	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
+	-   \#v/sek Für Themenbereiche/Sekundärstruktur einzelne verschiedene Tags, z.B. \#v/sek, \#v/sek/Neurologie… - Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
+-   \#z Zustand einer Notiz/eines Blocks - einfache Attribute
+	-   \#z/testen - Aussage muss geprüft werden durch Testen und dann bestätigt oder korrigiert werden
+	-   \#z/todo - Signal, dass eine Stelle nicht als fertig bearbeitet angesehen wird und es wird auf eine Voraussetzung gewartet, damit das gemacht werden kann
+		-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren - dieser Tag erscheint in der Notiz "Todo" - in dieser wird regelmäßig geprüft, ob für ein todo neue Informationen vorhanden sind, wann es erledigt werden kann - wenn ja, dann dieses Datum planen und wenn es erledigt ist, dann einfach den tag \#z/todo aus der Stelle, die unvollständig war, entfernen
+
+#### Codezeichen
+-    im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
+-   Vorerst nicht, nur bei Bedarf
 
 ### Tagesnotizen
 - sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse, die keine genaue Unterteilung in einzelne Blöcke erfordern

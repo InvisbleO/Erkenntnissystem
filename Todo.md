@@ -14,6 +14,7 @@ Workspace Workflow
 Allgemeiner Workflow (Tagesnotiz > ToDo > Workspace > Sorted)
 
 besser unterteilte Workflow Notiz, die alle Systeme für Arbeit enthält und überall an den entsprechenden Stellen verlinkt werden kann
+- wo kommen die Verlinkungen in die Dateien hin
 
 
 **Ziel für heute: Obsidian Setup abschließen (mobile und Computer Workflow, Drafts, Daily, Vorlage), dann Notizen sortieren und bis auf Nachdenknotizen alle übertragen** 
