@@ -17,6 +17,7 @@
       {
         "id": "8167eccb212f87c9",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -28,7 +29,6 @@
       {
         "id": "0502b85d1d0e68e8",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Wörterbuch",
+                "query": "tag:#z/todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "caf7acf733fb51c7",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
               }
             }
           },
@@ -167,8 +166,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Wörterbuch.md",
     "Todo.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",

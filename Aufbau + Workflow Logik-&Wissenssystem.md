@@ -13,8 +13,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 -   wichtige Ordner erklärt:
 ##### 1 Gedanken
 ![[Ordnung von Gedanken (Ordner)#^01f23c]]
-###### 1.1 Ideaspace 
-Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[Aufbau + Workflow Logik-&Wissenssystem#Ideaspace]]( #v/zinf)
+###### 1.1 Ideaspace [[]]
 
 ###### 1.2 Systeme
 ![[Ordnung von Gedanken (Ordner)#^9fafbe]]
@@ -95,9 +94,7 @@ Grundprinzip: Die konkretesten Dateien sind nach Möglichkeit immer die Quelle v
 - Wenn ein Block bearbeitet wird, der verlinkt ist, und der Block mit einem unteren Block verbunden wird, dann muss die Block-ID manuell an das Ende des neu entstandenen Blocks kopiert werden, damit die Verlinkung noch funktioniert
 
 ### Ideaspace
-- [[Aufbau + Workflow Logik-&Wissenssystem#Ordner]]( #v/def)
-- #z/testen/wennNachdenknotizenAnalyse
-- fertige Dateien oder Blöcke werden in einen der anderen Ordner eingeordnet
+- ![[Ordnung von Gedanken (Ordner)#Workflow]]
 
 ### Shortcuts
 -   Notizen immer wenn möglich in Bearbeitungsmodus ansehen

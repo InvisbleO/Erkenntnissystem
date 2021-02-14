@@ -8,6 +8,11 @@
  Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten ^01f23c
  
 ## Ideaspace
+Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)
+
+### Workflow
+- #z/testen/wennNachdenknotizenAnalyse
+- fertige Dateien oder Blöcke werden in einen der anderen Ordner eingeordnet
 
 ## Systeme
  
@@ -29,3 +34,6 @@
 ## Weltbild
 Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
 -> Wissen + Erkenntnisse
+
+## Tagesnotizen
+#z/todo
