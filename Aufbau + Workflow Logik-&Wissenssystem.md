@@ -10,7 +10,8 @@
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
 -   Ordnerstruktur erklärt:
 	-   **Gedanken**: Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten
-		-   **Ideaspace**: Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[#Ideaspace]](#v/def))
+		-   **Ideaspace**: Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[#Ideaspace]]( #v/def)
+		-   ****
 #z/todo/WorkflowVerknüpfenUndWeiterarbeiten
 	-   Hintergrunddaten
 	-   Systemdaten

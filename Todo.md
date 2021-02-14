@@ -8,6 +8,8 @@ tag: #z/todo
 ````
 
 Dateiattribute? - in Vorlagen am Dateianfang nach bestimmter Form eintragen, sodass mit Suchbegriff danach gesucht werden kann, Tags sind nicht nötig
+ 
+def und zusatzinfo unterscheiden
 
 Tag Workflow für Verkn, weitere Tags?
 Workspace Workflow
@@ -23,4 +25,4 @@ Schlafzeit: 22 Uhr Wecker auf 6.30 Uhr, da immer normaler Rhythmus gewesen und i
 
 ---
 
-(Workflow: [[Aufbau + Workflow Logik-&Wissenssystem#Tags]](#v/def))
+(Workflow: [[Aufbau + Workflow Logik-&Wissenssystem#Tags]]( #v/def))
