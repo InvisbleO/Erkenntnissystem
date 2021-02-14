@@ -15,7 +15,7 @@
  Da eine Situationserkennung aktuell zu kompliziert ist, ist die beste Annäherung, dass ich Situationen selber erkennen können muss, und dann möglichst schnell auf das situationsgebundene System zugreifen können muss.
  
  ### Ordnerstruktur
- - **Später Testen**
+ - **Systeme - Später Testen**: Gedanken zu möglichen Systemen/Handlungen (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Aufbau + Workflow Logik-&Wissenssystem#Ideaspace|Ideaspace]] ( #v/)
 - \#v Tags für Zustände
 	- \#v/testen
 	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
