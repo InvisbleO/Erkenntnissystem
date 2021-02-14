@@ -65,7 +65,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 	-  Wenn keine Hierarchie möglich ist, sondern es eine kausale Kette ist, dann diese als Folge von Blöcken, die voneinander getrennt sind, von denen jeder vermutlich nicht mehr aufgeteilt wird
 		-  Vorteil davon ist auch, dass im Gegenzug zu einer Kausalkette als Liste andere Blöcke relativ nahtlos zitiert werden können
 - Regeln:
-	- entsprechend des [[#^1dbf82|Zweck des Systems]]( #v/def) keine spezifischen Regeln für Sprache, außer dass alle Stellen so formuliert sein müssen, dass ich sie jederzeit verstehen kann
+	- entsprechend des [[#^1dbf82|Zweck des Systems]] keine spezifischen Regeln für Sprache, außer dass alle Stellen so formuliert sein müssen, dass ich sie jederzeit verstehen kann
 		- Beispiele sind hilfreich um sich in den Gedanken hineinzuversetzen, ausreichend erklären
 	- Sprache (Wortwahl, etc.) #z/testen 
 

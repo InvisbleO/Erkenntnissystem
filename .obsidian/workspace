@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#v/zinf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -144,9 +145,9 @@
   },
   "lastOpenFiles": [
     "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Todo.md",
     "System/Vorlagen/Vorlage Tagesnotizen.md",
     "System/Vorlagen/Hauptvorlage.md",
-    "Todo.md",
     "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
     "Prin.md",
