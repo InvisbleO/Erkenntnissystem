@@ -35,7 +35,7 @@
 #### Tags
 -   \#v Bestimmung der Art einer Verknüpfung (wird in Klammern hinter einen Link geschrieben)
 	-   \#v/log - logische Verknüpfung
-	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nicht sicher zu dem abgeleiteten Ergebnis führen muss)
+	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nur prinzipiell/qualitativ zu dem abgeleiteten Ergebnis führen muss, quantitativ kann das Ergebnis abweichen)
 	-   \#v/def - Defintion (verlinkt von einem Begriff zu seiner Definition)
 	-   \#v/zinf - unkategorisierte Zusatzinformation, ungerichtet
 	-   \#v/infq - #z/testen ob nötig anstatt /zinf
