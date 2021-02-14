@@ -59,7 +59,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 ## Dateiformatierung
 - Dateiname: #z/testen
 - Struktur: #z/testen
-	- Tags
+	- dateispezifische Tags, Attribute und Links stehen für jede Datei identisch nach dem festen Muster einer [[Allgemeine Dateivorlage]] an einer Stelle der Datei
 	- wenn möglich überschriften für Primärstruktur nutzen, da sie Verlinkung von Blöcken ermöglichen
 	- Listen mit Anstrichen oder Nummerierung für alles, was keine weitere Unterteilung in Blöcke erfordert 
 	-  Wenn keine Hierarchie möglich ist, sondern es eine kausale Kette ist, dann diese als Folge von Blöcken, die voneinander getrennt sind, von denen jeder vermutlich nicht mehr aufgeteilt wird
