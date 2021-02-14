@@ -1,7 +1,7 @@
 
 # Aufbau + Workflow Logik-&Wissenssystem
 
-Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speichern, sodass ich sie barrierelos verstehen kann, sowie ein Ideen zu sein. ^1dbf82
+Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speichern, sodass ich sie barrierelos verstehen kann, sowie ein Werkzeug für neue Ideen zu sein. ^1dbf82
 
 ## Aufbau des Systems + Grundprinzipien
 

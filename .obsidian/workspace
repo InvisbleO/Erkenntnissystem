@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systeme.md",
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
                 "mode": "source"
               }
             }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "allgemein datei",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systeme.md",
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systeme.md"
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
               }
             }
           },
@@ -161,15 +161,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
     "Systeme.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
     "System/Vorlagen/Vorlage Tagesnotizen.md",
     "Grundprinzpien für Systeme.md",
     "Untitled.md",
     "Todo.md",
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Testen und Updaten!.md",
-    "Wörterbuch.md",
-    "Gedanken/Ideaspace/Ideensammlung.md"
+    "Wörterbuch.md"
   ]
 }
