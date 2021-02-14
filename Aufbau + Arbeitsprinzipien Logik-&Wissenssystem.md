@@ -71,5 +71,6 @@ Wenn ein Block bearbeitet wird, der verlinkt ist, und der Block mit einem untere
 - manuelle Suche
 
 ## Weiteres
-- Versionierung und Autobackup
+- Versionierung und Autobackup geschieht über GitHub (alle 30 min)
+	- Setup: https://medium.com/analytics-vidhya/how-i-put-my-mind-under-version-control-24caea37b8a5 + external Obsidian plugin für Git
 
