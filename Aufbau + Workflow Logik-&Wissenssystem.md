@@ -10,7 +10,8 @@
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
 -   Ordnerstruktur erklärt:
 	-   Gedanken: Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten
-		-   Ideaspace: Ort für Informationen, an denen ich gerade arbeite [[]]
+		-   Ideaspace: Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)
+#z/todo/WorkflowVerknüpfenUndWeiterarbeiten
 	-   Hintergrunddaten
 	-   Systemdaten
 	-   [Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten]
@@ -60,9 +61,11 @@
 	- z.B. rechtschreibung, Sprache
 
 ## Workflow
-
+### Ideaspace
+- 
 Wenn ein Block bearbeitet wird, der verlinkt ist, und der Block mit einem unteren Block verbunden wird, dann muss die Block-ID manuell an das Ende des neu entstandenen Blocks kopiert werden, damit die Verlinkung noch funktioniert
 
+### Shortcuts
 -   Notizen immer wenn möglich in Bearbeitungsmodus ansehen
 -   CMD-O Quick Switcher
 -   CMD-Shift-F: Suche
