@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+            "file": "Todo.md",
             "mode": "source"
           }
         }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -143,15 +143,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Todo.md",
+    "Testen und Updaten!.md",
     "Wörterbuch.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace/Ideensammlung.md",
     "System/Vorlagen/Allgemeine Dateivorlage.md",
     "Untitled.md",
     "Ideensammlung.md",
     "Untitled 1.md",
-    "Wörterbuch^dateispezifisch.md",
-    "dateispezifisch.md"
+    "Wörterbuch^dateispezifisch.md"
   ]
 }
