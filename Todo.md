@@ -13,6 +13,13 @@ tag: #z/todo
  
 **Ziel für heute: dann Notizen sortieren und bis auf Nachdenknotizen alle übertragen**
 
+Inspiration für Systemorganisation:
+- Arbeitsordner oder -tag, u.a. für aktuelle projekte
+- vllt Systeme und Prinzipien aufteilen?
+	- Prinzipien sind Erkenntnisse, Systeme sind Anwendung von Erkenntnissen
+	- Prinzipien können beste Option für Anwendung von Erkenntnissen sein, aber man kann sie nicht trennen von Erkenntnissen + meistens gehören noch Rahmeninformationen dazu
+	- 
+
 Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts, Tagesnotiz, Sorted, Ideensammlungsdatei, Ideaspace
 - Siri Shortcut öffne Tagesnotiz für iPhone? nicht wichtig, wenn ich ganze Zeit Markdown App in Cache habe
 
