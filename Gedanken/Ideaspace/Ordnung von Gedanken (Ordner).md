@@ -36,4 +36,9 @@ Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
 -> Wissen + Erkenntnisse ^542e31
 
 ## Tagesnotizen
-#z/todo
+sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse
+		- Traumjournal, andere Journale
+		- Erinnerungen
+	- Alle Inhalte der Tagesnotizen werden regelmäßig analysiert und falls nötig (z.B. wenn es Erkenntnisse sind) in passende Dateien eingeordnet, aber sie bleiben auch unverändert in der Tagesnotiz stehen, denn:
+	- **Sollen als Dokumentation meines Lebens dienen**
+- Vorlage: [[Vorlage Tagesnotizen]]( #v/zinf )

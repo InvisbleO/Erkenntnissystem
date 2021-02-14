@@ -12,7 +12,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
 -   wichtige Ordner erklärt:
 ##### 1 Gedanken
-![[Ordnung von Gedanken (Ordner)#^01f23c]
+![[Ordnung von Gedanken (Ordner)#^01f23c]]
 ##### 2 Hintergrunddaten
 alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
 ##### 3 Systemrelevante Daten (Obsidian + Erkenntnissystem)

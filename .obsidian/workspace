@@ -15,25 +15,25 @@
         }
       },
       {
-        "id": "8167eccb212f87c9",
+        "id": "2fe8cdf3540aa20d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+            "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "0502b85d1d0e68e8",
+        "id": "8167eccb212f87c9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-            "mode": "source"
+            "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+            "mode": "preview"
           }
         }
       },
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
               }
             }
           },
@@ -166,15 +165,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+    "Gedanken/Tagesnotizen/2021-02-14.md",
+    "Informationseinheiten.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Wörterbuch.md",
     "Todo.md",
-    "Gedanken/Tagesnotizen/2021-02-14.md",
     "Gedanken/Ideaspace/Systeme.md",
     "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
     "Systeme.md",
-    "System/Vorlagen/Vorlage Tagesnotizen.md",
-    "Grundprinzpien für Systeme.md"
+    "System/Vorlagen/Vorlage Tagesnotizen.md"
   ]
 }
