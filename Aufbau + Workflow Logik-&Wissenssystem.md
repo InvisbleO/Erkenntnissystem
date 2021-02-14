@@ -1,6 +1,8 @@
 
 # Aufbau + Workflow Logik-&Wissenssystem
 
+Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speichern, sodass ich sie barrierelos verstehen kann, sowie ein Ideen zu sein.
+
 ## Aufbau des Systems + Grundprinzipien
 
 ### Kategorisierung und Einordnung von Daten
@@ -62,7 +64,7 @@
 	-  Wenn keine Hierarchie möglich ist, sondern es eine kausale Kette ist, dann diese als Folge von Blöcken, die voneinander getrennt sind, von denen jeder vermutlich nicht mehr aufgeteilt wird
 		-  Vorteil davon ist auch, dass im Gegenzug zu einer Kausalkette als Liste andere Blöcke relativ nahtlos zitiert werden können
 - Regeln: #z/todo
-	- z.B. rechtschreibung
+	- entsprechend 
 	- Sprache (Wortwahl, etc.) #z/testen 
 
 ## Workflow
