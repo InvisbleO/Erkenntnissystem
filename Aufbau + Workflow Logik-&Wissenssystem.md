@@ -33,13 +33,16 @@ alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglich
 Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
 
 ##### 4-x Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
-**Todo**: Seite, die alle Aufgaben enthält, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden)
+**Todo**:
+Seite, die alle Aufgaben enthält, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden)
 
 **Aufbau + Workflow Logik-&Wissenssystem**: "README", enthält alle Informationen für Zurechtfindung im System
 
-**Testen und Updaten**: enthält alle aktuellen Tests (sowohl mit Datum als auch ohne) und auf welche Stellen sie sich auswirken
+**Testen und Updaten**: 
+enthält alle aktuellen Tests (sowohl mit Datum als auch ohne) und auf welche Stellen sie sich auswirken
 
-**Wörterbuch**
+**Wörterbuch**:
+für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch verbinden ^00f7b0
 
 #### Links
 -   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
@@ -71,7 +74,7 @@ Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Medi
 -   Vorerst nicht, nur bei Bedarf
 
 ### Verlinkung von Daten
-Grundprinzip: Die konkretesten Dateien sind nach Möglichkeit immer die Quelle von Informationen (d.h. sie enthalten die originalen [[^^Informationseinheiten]]). Andere Informationseinheiten, die weniger konkrete oder weniger zu dem Thema zutreffende Informationen enthalten, können die Informationseinheit mit den konkretesten Daten referenzieren
+Grundprinzip: Die konkretesten Dateien sind nach Möglichkeit immer die Quelle von Informationen (d.h. sie enthalten die originalen [[Wörterbuch#^92ddaa|Informationseinheiten]] ( #v/def)). Andere Informationseinheiten, die weniger konkrete oder weniger zu dem Thema zutreffende Informationen enthalten, können die Informationseinheit mit den konkretesten Daten referenzieren
 - Bsp.: in dieser Datei stehen Erklärungen zu den wichtigsten Ordnern des Systems, aber in den Ordnern gibt es Dateien, die die Ordnung noch konkreter erklären, daher muss auf diese referenziert/verknüpft werden
 
 ## Dateiformatierung
@@ -85,8 +88,8 @@ Grundprinzip: Die konkretesten Dateien sind nach Möglichkeit immer die Quelle v
 - Regeln:
 	- entsprechend des [[#^1dbf82|Zweck des Systems]] ( #v/def) keine spezifischen Regeln für Sprache, außer dass alle Stellen so formuliert sein müssen, dass ich sie jederzeit verstehen kann
 		- Beispiele sind hilfreich um sich in den Gedanken hineinzuversetzen, ausreichend erklären
-	- [[Wörterbuch]]( #v/def) für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch verbinden
-	- Sprache (Wortwahl, etc.) #z/testen
+	- [[#^00f7b0|Wörterbuch]] ( #v/def)
+	- Sprache (Wortwahl, etc.) #z/todo
 
 ## Workflow
 ### Allgemeingültig

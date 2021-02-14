@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: system",
+                "query": "Wörterbuch",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,9 +168,9 @@
   "lastOpenFiles": [
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Wörterbuch.md",
+    "Todo.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
-    "Todo.md",
     "Gedanken/Ideaspace/Systeme.md",
     "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
     "Systeme.md",
