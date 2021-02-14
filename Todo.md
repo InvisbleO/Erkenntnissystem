@@ -7,12 +7,10 @@
 tag: #z/todo 
 ````
 
-### Workflow
-- Wenn ein Abschnitt in einem Dokument nicht direkt beendet werden kann, sondern eine bestimmte Voraussetzung benötigt, dann an diese Stelle
 Workspace Workflow
-Wie geht rückgängig?
+Allgemeiner Workflow (Tagesnotiz > ToDo > Workspace > Sorted)
 
-besser unterteilte Workflow Notiz, die einfach alle Systeme für Arbeit enthält und überall an den entsprechenden Stellen verlinkt werden kann
+besser unterteilte Workflow Notiz, die alle Systeme für Arbeit enthält und überall an den entsprechenden Stellen verlinkt werden kann
 
 Dateiattribute? - in Vorlagen am Dateianfang nach bestimmter Form eintragen, sodass mit Suchbegriff danach gesucht werden kann, Tags sind nicht nötig
 
