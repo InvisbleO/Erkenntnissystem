@@ -1,7 +1,7 @@
 **Erstellung**: 2021-02-13  17:43
 **Tags**:
 **Links**:
-- [[Aufbau + Workflow Logik-&Wissenssystem#Ordner]]( #v/def)
+- [[Aufbau + Workflow Logik-&Wissenssystem#Ordner]] ( #v/def)
 
 ---
 
@@ -11,8 +11,6 @@
 tag: #z/todo 
 ````
  
-regeln für Dateiaufbau
-Testen Workflow
 Ideenstelle?
 Idee: Wörterbuch? vllt nicht nötig weil ich nur nutze, aber vllt beugt es Verwirrungen vor bei komplexen Begriffen, denk ist gute Idee, da Klarheit für mich
 
