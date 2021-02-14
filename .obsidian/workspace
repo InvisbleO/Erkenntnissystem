@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+            "mode": "source"
+          }
         }
       },
       {
@@ -85,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+              }
             }
           },
           {
@@ -137,10 +143,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Todo.md",
     "Wörterbuch.md",
     "Gedanken/Ideaspace/Ideensammlung.md",
-    "Todo.md",
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "System/Vorlagen/Allgemeine Dateivorlage.md",
     "Untitled.md",
     "Ideensammlung.md",

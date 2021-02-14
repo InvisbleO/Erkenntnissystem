@@ -52,6 +52,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 	-   \#z/testen - Aussage muss geprüft werden durch Testen und dann bestätigt oder korrigiert werden
 	-   \#z/todo - Signal, dass eine Stelle nicht als fertig bearbeitet angesehen wird und es wird auf eine Voraussetzung gewartet, damit das gemacht werden kann
 		-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren - dieser Tag erscheint in der Notiz "Todo" - in dieser wird regelmäßig geprüft, ob für ein todo neue Informationen vorhanden sind, wann es erledigt werden kann - wenn ja, dann dieses Datum planen und wenn es erledigt ist, dann einfach den tag \#z/todo aus der Stelle, die unvollständig war, entfernen
+	-   \#z/irgendwann - Sachen, die außerhalb meiner Kontrolle liegen, aber 
 
 #### Codezeichen
 -    im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
@@ -68,7 +69,8 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 - Regeln:
 	- entsprechend des [[#^1dbf82|Zweck des Systems]] ( #v/def) keine spezifischen Regeln für Sprache, außer dass alle Stellen so formuliert sein müssen, dass ich sie jederzeit verstehen kann
 		- Beispiele sind hilfreich um sich in den Gedanken hineinzuversetzen, ausreichend erklären
-	- Sprache (Wortwahl, etc.) #z/testen 
+	- [[Wörterbuch]]( #v/def) für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch verbinden
+	- Sprache (Wortwahl, etc.) #z/testen
 
 ## Workflow
 ### Allgemeingültig
@@ -92,7 +94,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 	-   "file:" für Dateiname, "path:" für alle Dateien in einem Ordner, 
 -   Wenn ich eine Datei löschen muss, dann idealerweise vorher alle Links dazu aufheben, indem ich an den entsprechenden Stellen die Klammern entferne
 	-   ansonsten können Links auch nachträglich aufgehoben werden
--   Bald gibt es ein Update: Wenn ein Dateiname geändert wird, dann ändert sich auch der Name im Link - gilt es dann für alle Links?
+-   Bald gibt es ein Update: Wenn ein Dateiname geändert wird, dann ändert sich auch der Name im Link - gilt es dann für alle Links? #z/irgendwann
 
 ### Mobile Workflow
 - #z/testen wird Tagesnotiz automatisch morgens erstellt? Mache ich vllt automatisch, da Traumjournal immer am Computer
