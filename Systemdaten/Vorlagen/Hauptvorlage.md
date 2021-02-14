@@ -1,4 +1,4 @@
-**Erstellung**: {{date}}{{time}}
+**Erstellung**: {{date}}  {{time}}
 **Tags**:
 
 # {{title}}

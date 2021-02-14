@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
+                "file": "Systemdaten/Vorlagen/Hauptvorlage.md",
                 "mode": "source"
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
+                "file": "Systemdaten/Vorlagen/Hauptvorlage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md"
+                "file": "Systemdaten/Vorlagen/Hauptvorlage.md"
               }
             }
           },
@@ -150,11 +150,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Systemdaten/Vorlagen/Hauptvorlage.md",
     "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
     "Todo.md",
     "Testen und Updaten!.md",
     "Untitled.md",
-    "Systemdaten/Vorlagen/Hauptvorlage.md",
     "ToDo.md",
     "Gedanken/Tagesnotizen/2021-02-13.md",
     "Systemdaten/Vorlagen/Vorlage Tagesnotizen.md",
