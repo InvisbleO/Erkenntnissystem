@@ -5,7 +5,11 @@
 ---
 # Ordnung von Gedanken (Ordner)
  
- ## Systeme
+ Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten ^01f23c
+ 
+## Ideaspace
+
+## Systeme
  
  Systeme sind alle konkreten (quantitativen), handlungsbezogenen Anweisungen. ^9fafbe
  - Eine Formel an sich ist zwar kein System, wird allerdings zu einem System sobald man sie anwendet um zu einem Ergebnis zu kommen.

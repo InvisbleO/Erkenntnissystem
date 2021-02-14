@@ -12,8 +12,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
 -   wichtige Ordner erklärt:
 ##### 1 Gedanken
--   Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten
-
+![[Ordnung von Gedanken (Ordner)#^01f23c]]
 ###### 1.1 Ideaspace 
 Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[Aufbau + Workflow Logik-&Wissenssystem#Ideaspace]]( #v/zinf)
 
@@ -33,15 +32,15 @@ alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglich
 Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
 
 ##### 4-x Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
-**Todo**:
+**[[Todo]]**:
 Seite, die alle Aufgaben enthält, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden)
 
-**Aufbau + Workflow Logik-&Wissenssystem**: "README", enthält alle Informationen für Zurechtfindung im System
+**[[Aufbau + Workflow Logik-&Wissenssystem]]**: "README", enthält alle Informationen für Zurechtfindung im System
 
-**Testen und Updaten**: 
+**[[Testen und Updaten!]]**: 
 enthält alle aktuellen Tests (sowohl mit Datum als auch ohne) und auf welche Stellen sie sich auswirken
 
-**Wörterbuch**:
+**[[Wörterbuch]]**:
 für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch verbinden ^00f7b0
 
 #### Links
