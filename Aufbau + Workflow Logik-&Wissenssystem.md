@@ -33,14 +33,15 @@
 -   Unmentioned Links sind irrelevant für Verständnis
 
 #### Tags
--   \#v Bestimmung der Art einer Verknüpfung
+-   \#v Bestimmung der Art einer Verknüpfung (wird in Klammern hinter einen Link geschrieben)
 	-   \#v/log - logische Verknüpfung
 	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nicht sicher zu dem abgeleiteten Ergebnis führen muss)
 	-   \#v/def - Defintion (verlinkt von einem Begriff zu seiner Definition)
 	-   \#v/zinf - unkategorisierte Zusatzinformation, ungerichtet
-	-   \#v/infq
+	-   \#v/infq - #z/testen ob nötig anstatt /zinf
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
-	-   \#v/sek Für Themenbereiche/Sekundärstruktur einzelne verschiedene Tags, z.B. \#v/sek, \#v/sek/Neurologie… - Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
+	-   \#v/sek - Für Themenbereiche/Sekundärstruktur einer Datei einzelne verschiedene Tags, z.B. \#v/sek/Gehirn, \#v/sek/Neurologie… 
+		-   #z/testen Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
 -   \#z Zustand einer Notiz/eines Blocks - einfache Attribute
 	-   \#z/testen - Aussage muss geprüft werden durch Testen und dann bestätigt oder korrigiert werden
 	-   \#z/todo - Signal, dass eine Stelle nicht als fertig bearbeitet angesehen wird und es wird auf eine Voraussetzung gewartet, damit das gemacht werden kann
@@ -63,6 +64,7 @@
 
 ## Workflow
 ### Ideaspace
+- Defintion: [[#Ordner]]( #v/def)
 - #z/testen
 - fertige Dateien oder Blöcke werden in einen der anderen Ordner eingeordnet
 
