@@ -17,6 +17,7 @@
       {
         "id": "8167eccb212f87c9",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -28,7 +29,6 @@
       {
         "id": "c2c39066dd3efaf4",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
               }
             }
           },
@@ -154,6 +154,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Todo.md",
     "Gedanken/Ideaspace/Systeme.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
@@ -162,7 +163,6 @@
     "Systeme.md",
     "System/Vorlagen/Vorlage Tagesnotizen.md",
     "Grundprinzpien für Systeme.md",
-    "Untitled.md",
-    "Testen und Updaten!.md"
+    "Untitled.md"
   ]
 }

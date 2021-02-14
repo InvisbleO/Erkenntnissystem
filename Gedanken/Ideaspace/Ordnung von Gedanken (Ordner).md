@@ -16,7 +16,6 @@
  
  ### Ordnerstruktur
  - **Später Testen**
- 
 - \#v Tags für Zustände
 	- \#v/testen
 	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
