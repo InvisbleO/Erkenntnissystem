@@ -9,7 +9,6 @@
 tag: #z/todo 
 ````
  
-Allgemeiner Workflow (Tagesnotiz > ToDo > Workspace > Sorted)
 regeln für Dateiaufbau
 Testen Workflow
 

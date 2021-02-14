@@ -24,7 +24,8 @@
 	-   **System**: Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
 	-   Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
 		-   **Todo**: Seite, die alle Aufgaben enthält, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden)
-		-   
+		-   **Aufbau + Workflow Logik-&Wissenssystem**: "README", enthält alle Informationen für Zurechtfindung im System
+		-   **Testen und Updaten**: enthält alle aktuellen Tests (sowohl mit Datum als auch ohne) und auf welche Stellen sie sich auswirken
 
 #### Links
 -   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
@@ -61,7 +62,8 @@
 	-  Wenn keine Hierarchie möglich ist, sondern es eine kausale Kette ist, dann diese als Folge von Blöcken, die voneinander getrennt sind, von denen jeder vermutlich nicht mehr aufgeteilt wird
 		-  Vorteil davon ist auch, dass im Gegenzug zu einer Kausalkette als Liste andere Blöcke relativ nahtlos zitiert werden können
 - Regeln: #z/todo
-	- z.B. rechtschreibung, Sprache
+	- z.B. rechtschreibung
+	- Sprache (Wortwahl, etc.) #z/testen 
 
 ## Workflow
 ### Allgemeingültig
