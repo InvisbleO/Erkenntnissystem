@@ -14,16 +14,15 @@
  
  Da eine Situationserkennung aktuell zu kompliziert ist, ist die beste Annäherung, dass ich Situationen selber erkennen können muss, und dann möglichst schnell auf das situationsgebundene System zugreifen können muss.
  
-- Tag für Zustände
-	- testen
+ ### Ordner
+ - 
+ 
+- \#v Tags für Zustände
+	- \#v/testen
 	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
 	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
-	- 
+	- \z/irgendwannTesten - für handlungsbezogene Ideen, die ich evtl. später ausprobieren möchte, aber noch ohne Zeitpunkt
 
 ## Weltbild
 Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
 -> Wissen + Erkenntnisse
-
-für Ideen, die später mal getestet werden können, eigene Datei wo jede Idee ein block ist und mit dem Wissen verlinkt wird oder zitiert wird
-andere Art von Dateien 
-- Tag: \z/irgendwannTesten
