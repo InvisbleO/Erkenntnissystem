@@ -21,6 +21,7 @@
           {
             "id": "e947baf19be5bcce",
             "type": "leaf",
+            "active": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -35,11 +36,10 @@
       {
         "id": "8167eccb212f87c9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/Vorlagen/Vorlage Tagesnotizen.md",
+            "file": "Gedanken/Tagesnotizen/2021-02-14.md",
             "mode": "source"
           }
         }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Vorlagen/Vorlage Tagesnotizen.md",
+                "file": "Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Vorlagen/Vorlage Tagesnotizen.md"
+                "file": "Systeme.md"
               }
             }
           },
@@ -161,9 +161,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "System/Vorlagen/Vorlage Tagesnotizen.md",
-    "Gedanken/Tagesnotizen/2021-02-14.md",
     "Systeme.md",
+    "Gedanken/Tagesnotizen/2021-02-14.md",
+    "System/Vorlagen/Vorlage Tagesnotizen.md",
     "Grundprinzpien für Systeme.md",
     "Untitled.md",
     "Todo.md",

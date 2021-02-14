@@ -9,7 +9,7 @@
  
  Da eine Situationserkennung aktuell zu kompliziert ist, ist die beste Annäherung, dass ich Situationen selber erkennen können muss, und dann möglichst schnell auf das situationsgebundene System zugreifen können muss
  
-- Tags für Zustand
+- Tag für Zustände
 	- testen
-	- wird gerade gelernt
+	- \#z/wirdGelernt
 	- als nächstes lernen...
