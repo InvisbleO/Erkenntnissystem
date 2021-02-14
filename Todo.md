@@ -7,7 +7,6 @@
 tag: #z/todo 
 ````
  
-Tag Workflow für Verkn, weitere Tags?
 Workspace Workflow
 Allgemeiner Workflow (Tagesnotiz > ToDo > Workspace > Sorted)
 regeln für Dateiaufbau

@@ -42,7 +42,7 @@
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
 	-   \#v/sek - Für Themenbereiche/Sekundärstruktur einer Datei einzelne verschiedene Tags, z.B. \#v/sek/Gehirn, \#v/sek/Neurologie… 
 		-   #z/testen Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
--   \#z Zustand einer Notiz/eines Blocks - einfache Attribute
+-   \#z - Zustand einer Stelle (einfaches Attribut)
 	-   \#z/testen - Aussage muss geprüft werden durch Testen und dann bestätigt oder korrigiert werden
 	-   \#z/todo - Signal, dass eine Stelle nicht als fertig bearbeitet angesehen wird und es wird auf eine Voraussetzung gewartet, damit das gemacht werden kann
 		-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren - dieser Tag erscheint in der Notiz "Todo" - in dieser wird regelmäßig geprüft, ob für ein todo neue Informationen vorhanden sind, wann es erledigt werden kann - wenn ja, dann dieses Datum planen und wenn es erledigt ist, dann einfach den tag \#z/todo aus der Stelle, die unvollständig war, entfernen
@@ -55,8 +55,7 @@
 - Dateiname: #z/testen
 - Struktur: #z/testen
 	- wenn möglich überschriften für Primärstruktur nutzen, da sie Verlinkung von Blöcken ermöglichen
-		- unter Überschrift eine Zeile Platz lassen, damit darunter ein eigenständiger Block ist
-	-	Listen mit Anstrichen oder Nummerierung für alles, was keine weitere Unterteilung in Blöcke erfordert 
+	- Listen mit Anstrichen oder Nummerierung für alles, was keine weitere Unterteilung in Blöcke erfordert 
 	-  Wenn keine Hierarchie möglich ist, sondern es eine kausale Kette ist, dann diese als Folge von Blöcken, die voneinander getrennt sind, von denen jeder vermutlich nicht mehr aufgeteilt wird
 		-  Vorteil davon ist auch, dass im Gegenzug zu einer Kausalkette als Liste andere Blöcke relativ nahtlos zitiert werden können
 - Regeln: #z/todo
@@ -64,7 +63,7 @@
 
 ## Workflow
 ### Ideaspace
-- Defintion: [[#Ordner]]( #v/def)
+- [[#Ordner]]( #v/def)
 - #z/testen
 - fertige Dateien oder Blöcke werden in einen der anderen Ordner eingeordnet
 
