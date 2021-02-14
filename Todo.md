@@ -2,13 +2,13 @@
 **Tags**:
 
 # Todo
-(Workflow siehe unten)
+
 ````query
 tag: #z/todo 
 ````
 
 ### Workflow
-- Wenn e
+- Wenn ein Abschnitt in einem Dokument nicht direkt beendet werden kann, sondern eine bestimmte Voraussetzung benötigt, dann an diese Stelle
 Workspace Workflow
 Wie geht rückgängig?
 
