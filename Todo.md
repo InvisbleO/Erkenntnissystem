@@ -1,14 +1,28 @@
-**Erstellung**: 2021-02-13  17:43
-**Tags**:
+\*\*Erstellung\*\*: 2021-02-13 17:43
+\*\*Tags\*\*:
+
+\*\*Links\*\*:
+
+\- \[\[Aufbau + Workflow Logik-&Wissenssystem#Ordner\]\] ( #v/def)
+
+  
+
+\---
 
 # Todo
 
-todo workflow
-Workspace Workflow
-Wie geht rückgängig?
+  
 
-Dateiattribute? - in Vorlagen am Dateianfang nach bestimmter Form eintragen, sodass mit Suchbegriff danach gesucht werden kann, Tags sind nicht nötig
+\`\`\`\`query
 
-Ich brauche noch einen Workspace, wo ich mit Gedanken spiele, die aus den Tagesnotizen geholt habe und analysiere, mit anderen DAten verknüpfe aber noch nicht in das größere Bild eingeordnet habe
+tag: #z/todo
 
-**Ziel für heute: Obsidian Setup abschließen (mobile und Computer Workflow), dann Notizen sortieren und bis auf Nachdenknotizen alle übertragen**
+\`\`\`\`
+
+  
+
+\*\*Ziel bis Ende von 17.2.: Komplette Vorbereitung für Nachdenkphase\*\*: alle nicht Nachdenknotizen analysieren, daraus nach bestem Wissen Systeme bauen (also wenn überhaupt nur in ganz speziellen Bereichen Systeme noch nicht machen und aufheben bis Nachdenknotizen analysiert sind); so wenig wie möglich während Nachdenkphase testen, stabiles Umfeld schaffen
+
+  
+
+Mac Dateien wo speichern?, Bilder und Dateien analysieren
