@@ -11,5 +11,9 @@
  
 - Tag für Zustände
 	- testen
-	- \#z/wirdGelernt
-	- als nächstes lernen...
+	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
+	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
+	- 
+
+andere Art von Dateien 
+- Tag: \z/irgendwannTesten
