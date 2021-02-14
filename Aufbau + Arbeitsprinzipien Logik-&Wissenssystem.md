@@ -16,16 +16,16 @@
 	-   Unmentioned Links sind irrelevant für Verständnis
 -   **Tags**
 	-   \#v Bestimmung der Art einer Verknüpfung
-		-   \#V/log
-		-   \#V/abl
-		-   \#V/def
-		-   \#V/infq
-		-   \#V/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
-		-   \#V/sek Für Themenbereiche/Sekundärstruktur einzelne verschiedene Tags, z.B. \#V/sek, \#V/sek/Neurologie… - Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
+		-   \#v/log
+		-   \#v/abl
+		-   \#v/def
+		-   \#v/infq
+		-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
+		-   \#v/sek Für Themenbereiche/Sekundärstruktur einzelne verschiedene Tags, z.B. \#v/sek, \#v/sek/Neurologie… - Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
 	-   \#z Zustand einer Notiz/eines Blocks - einfache Attribute
 		-   \#z/testen - Aussage muss geprüft werden durch Testen und dann bestätigt oder korrigiert werden
 		-   \#z/todo - Signal, dass eine Stelle nicht als fertig bearbeitet angesehen wird und es wird auf eine Voraussetzung gewartet, damit das gemacht werden kann
-			-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren
+			-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren - dieser Tag ers
 -   Codezeichen im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
 	-   Vorerst nicht, nur bei Bedarf
 
