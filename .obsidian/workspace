@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "System/Vorlagen/Allgemeine Dateivorlage.md",
-            "mode": "source"
+            "file": "Untitled.md",
+            "mode": "preview"
           }
         }
       },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System/Vorlagen/Allgemeine Dateivorlage.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System/Vorlagen/Allgemeine Dateivorlage.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -144,6 +144,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
     "System/Vorlagen/Allgemeine Dateivorlage.md",
     "Todo.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
@@ -151,8 +153,6 @@
     "dateispezifisch.md",
     "Gedanken/Tagesnotizen/2021-02-13.md",
     "System/Vorlagen/Vorlage Tagesnotizen.md",
-    "System/Vorlagen/Hauptvorlage.md",
-    "Untitled.md",
-    "Gedanken/Tagesnotizen/2021-02-14.md"
+    "System/Vorlagen/Hauptvorlage.md"
   ]
 }

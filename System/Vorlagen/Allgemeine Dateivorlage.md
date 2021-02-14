@@ -1,5 +1,5 @@
 # {{title}}
-{{tp\_cursor}}
+{{tp_cursor}}
 
 
 ---
