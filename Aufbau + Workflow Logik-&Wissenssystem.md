@@ -8,6 +8,12 @@
 -   wird angesehen als eine zusätzliche Möglichkeit Daten zu sortieren einfach grundsätzlich verwenden für Einordnung von Dateien, falls ich eine bestimmte Art von Datei suche kann es behilflich sein, ansonsten aber unwichtig
 	-   Nachteil dass Rüberspringen zu Nachbardateien in Primärstruktur nicht so einfach ist, falls dass ein großes Hindernis ist, dann Eltern- und Kinderdateien in einer Datei verlinken, aber vorerst nicht erwartet dass es nötig sein wird
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
+-   Ordnerstruktur erklärt:
+	-   Gedanken: Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten
+		-   Ideaspace: Ort für Informationen, an denen ich gerade arbeite [[]]
+	-   Hintergrunddaten
+	-   Systemdaten
+	-   [Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten]
 
 #### Links
 -   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können

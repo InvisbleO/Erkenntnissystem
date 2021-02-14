@@ -23,4 +23,4 @@ Schlafzeit: 22 Uhr Wecker auf 6.30 Uhr, da immer normaler Rhythmus gewesen und i
 
 ---
 
-(Workflow: [[Aufbau + Workflow Logik-&Wissenssystem#Kategorisierung und Einordnung von Daten]](#v/def))
+(Workflow: [[Aufbau + Workflow Logik-&Wissenssystem#Tags]](#v/def))

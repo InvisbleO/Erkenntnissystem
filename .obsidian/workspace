@@ -6,7 +6,6 @@
       {
         "id": "8167eccb212f87c9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +17,7 @@
       {
         "id": "e947baf19be5bcce",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
               }
             }
           },
@@ -143,8 +143,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Todo.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Todo.md",
     "Aufbau + Workflow Wissenssystem.md",
     "Systemdaten/Vorlagen/Hauptvorlage.md",
     "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
