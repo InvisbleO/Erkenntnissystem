@@ -10,7 +10,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 -   wird angesehen als eine zusätzliche Möglichkeit Daten zu sortieren einfach grundsätzlich verwenden für Einordnung von Dateien, falls ich eine bestimmte Art von Datei suche kann es behilflich sein, ansonsten aber unwichtig
 	-   Nachteil dass Rüberspringen zu Nachbardateien in Primärstruktur nicht so einfach ist, falls dass ein großes Hindernis ist, dann Eltern- und Kinderdateien in einer Datei verlinken, aber vorerst nicht erwartet dass es nötig sein wird
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
--   Ordnerstruktur erklärt:
+-   wichtige Ordner erklärt:
 ##### 1 Gedanken
 -   Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten
 
@@ -18,6 +18,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[Aufbau + Workflow Logik-&Wissenssystem#Ideaspace]]( #v/zinf)
 
 ###### 1.2 Systeme
+![[Ordnung von Gedanken (Ordner)#^9fafbe]]
 ###### 1.3 Weltbild
 ###### 1.4 Tagesnotizen
 -   sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse, die keine genaue Unterteilung in einzelne Blöcke erfordern
@@ -28,11 +29,17 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
 	- Vorlage: [[Vorlage Tagesnotizen]]( #v/zinf )
 ##### 2 Hintergrunddaten
 alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
-###### Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
--   Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
--   **Todo**: Seite, die alle Aufgaben enthält, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden)
--   **Aufbau + Workflow Logik-&Wissenssystem**: "README", enthält alle Informationen für Zurechtfindung im System
--   **Testen und Updaten**: enthält alle aktuellen Tests (sowohl mit Datum als auch ohne) und auf welche Stellen sie sich auswirken
+##### 3 Systemrelevante Daten (Obsidian + Erkenntnissystem)
+Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
+
+##### 4-x Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
+**Todo**: Seite, die alle Aufgaben enthält, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden)
+
+**Aufbau + Workflow Logik-&Wissenssystem**: "README", enthält alle Informationen für Zurechtfindung im System
+
+**Testen und Updaten**: enthält alle aktuellen Tests (sowohl mit Datum als auch ohne) und auf welche Stellen sie sich auswirken
+
+**Wörterbuch**
 
 #### Links
 -   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
