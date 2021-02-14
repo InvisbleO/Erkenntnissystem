@@ -11,9 +11,16 @@
 -   Ordnerstruktur erklärt:
 	-   **Gedanken**: Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten
 		-   **Ideaspace**: Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[#Ideaspace]]( #v/def)
-		-   ****
-#z/todo/WorkflowVerknüpfenUndWeiterarbeiten
-	-   Hintergrunddaten
+		-   **Prinzipien & Systeme**
+		-   **Tagesnotizen**:
+			-   sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse, die keine genaue Unterteilung in einzelne Blöcke erfordern
+				- Traumjournal, andere Journale
+				- Erinnerungen
+			- Gedanken aus Quick capture werden regelmäßig analysiert und in passende Notizen eingeordnet, aber sie bleiben auch unverändert in der Tagesnotiz stehen, damit ich später sehen kann, wie sich mein Denkensprozess verändert hat etc.
+			- Sollen als Dokumentation meines Lebens dienen
+			- Vorlage: [[Vorlage Tagesnotizen]]
+		- **Weltbild**: alle Erkenntnisse von Grund auf, Logiksystem
+	-   **Hintergrunddaten**: alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
 	-   Systemdaten
 	-   Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
 
@@ -41,14 +48,6 @@
 #### Codezeichen
 -    im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
 -   Vorerst nicht, nur bei Bedarf
-
-### Tagesnotizen
-- sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse, die keine genaue Unterteilung in einzelne Blöcke erfordern
-	- Traumjournal, andere Journale
-	- Erinnerungen
-	- Gedanken aus Quick capture werden regelmäßig analysiert und in passende Notizen eingeordnet, aber sie bleiben auch unverändert in der Tagesnotiz stehen, damit ich später sehen kann, wie sich mein Denkensprozess verändert hat etc.
-- Sollen als Dokumentation meines Lebens dienen
-- Vorlage: [[Vorlage Tagesnotizen]]
 
 ## Dateiformatierung
 - Dateiname: #z/testen
