@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#v/zinf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

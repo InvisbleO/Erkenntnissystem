@@ -33,7 +33,8 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 -   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
 	-   Wenn der gleiche Begriff genutzt wird, dann ist das der Link, wenn ein anderer Begriff genutzt wird, dann ist dieser entweder ein alias oder wird verlinkt)
 	-   Links befinden sind immer bei dem Ziel einer Verknüpfung, bei der Voraussetzung können sie unter Backlinks nachgeschaut werden
-	-   Hinter jedem normalen Link steht ein Tag, der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#Informationsquelle)
+	-   Hinter fast jedem normalen Link steht ein Tag, der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#Informationsquelle)
+		-   einzige Ausnahme sind Links, die keinen Zweck für die Stelle haben, wo der Link genutzt wird, sondern nur 
 -   Embedded Link bedeutet, dass der Inhalt einer anderen Datei in der aktuellen Datei inhaltlich genutzt wird, z.B. bei Schlussfolgerungen - es ist egal wo der Ursprung der Datei/des Blocks ist (also wo das Original gespeichert ist)
 -   Unmentioned Links sind irrelevant für Verständnis
 
@@ -43,7 +44,7 @@ Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speicher
 	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nur prinzipiell/qualitativ zu dem abgeleiteten Ergebnis führen muss, quantitativ kann das Ergebnis abweichen)
 	-   \#v/def - Defintion (verlinkt von einem Begriff zu seiner Definition)
 	-   \#v/zinf - unkategorisierte Zusatzinformation, ungerichtet
-	-   \#v/infq - #z/testen ob nötig anstatt /zinf
+	-   \#v/infq - #z/testen ob nötig anstatt /zinf und da es auch embedded gibt, was fast immer Informationsquelle ersetzt 
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
 	-   \#v/sek - Für Themenbereiche/Sekundärstruktur einer Datei einzelne verschiedene Tags, z.B. \#v/sek/Gehirn, \#v/sek/Neurologie… 
 		-   #z/testen Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
