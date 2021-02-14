@@ -13,4 +13,4 @@ Ich brauche noch einen Workspace, wo ich mit Gedanken spiele, die aus den Tagesn
 
 **Ziel für heute: Obsidian Setup abschließen (mobile und Computer Workflow, Drafts, Daily, Vorlage), dann Notizen sortieren und bis auf Nachdenknotizen alle übertragen** 
 
-Schlafzeit
+Schlafzeit: 22 Uhr Wecker auf 6.30 Uhr, da immer normaler Rhythmus gewesen und ist jetzt vermutlich das einfachste damit ich schnell gute nSchlaf bekomme, sobald irgendwelche äußeren Faktoren wie poly, Simon, Arbeit dazukommen, Schlafzeit anpassen
