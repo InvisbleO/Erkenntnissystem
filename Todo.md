@@ -7,9 +7,9 @@
 tag: #z/todo 
 ````
  
-Workspace Workflow
 Allgemeiner Workflow (Tagesnotiz > ToDo > Workspace > Sorted)
 regeln für Dateiaufbau
+Testen Workflow
 
 besser unterteilte Workflow Notiz, die alle Systeme für Arbeit enthält und überall an den entsprechenden Stellen verlinkt werden kann
 - wo kommen die Verlinkungen in die Dateien hin
