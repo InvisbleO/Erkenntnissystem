@@ -1,5 +1,5 @@
 
-# Aufbau + Arbeitsprinzipien Wissenssystem
+# Aufbau + Workflow Logik-&Wissenssystem
 
 ## Aufbau des Systems+ Grundprinzipien
 
