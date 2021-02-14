@@ -10,7 +10,7 @@
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
 -   Ordnerstruktur erklärt:
 	-   **Gedanken**: Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten
-		-   **Ideaspace**: Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[#Ideaspace]]( #v/def)
+		-   **Ideaspace**: Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[#Ideaspace]]( #v/zinf)
 		-   **Prinzipien & Systeme**
 		-   **Tagesnotizen**:
 			-   sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse, die keine genaue Unterteilung in einzelne Blöcke erfordern
@@ -36,7 +36,8 @@
 -   \#v Bestimmung der Art einer Verknüpfung
 	-   \#v/log - logische Verknüpfung
 	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nicht sicher zu dem abgeleiteten Ergebnis führen muss)
-	-   \#v/def - Defintion
+	-   \#v/def - Defintion (verlinkt von einem Begriff zu seiner Definition)
+	-   \#v/zinf - unkategorisierte Zusatzinformation, ungerichtet
 	-   \#v/infq
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
 	-   \#v/sek Für Themenbereiche/Sekundärstruktur einzelne verschiedene Tags, z.B. \#v/sek, \#v/sek/Neurologie… - Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
