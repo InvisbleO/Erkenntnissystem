@@ -70,5 +70,6 @@ Wenn ein Block bearbeitet wird, der verlinkt ist, und der Block mit einem untere
 - wird Tagesnotiz automatisch morgens erstellt? Mache ich vllt automatisch, da Traumjournal immer am Computer
 - manuelle Suche
 
-
+## Weiteres
+- Versionierung und Autobackup
 

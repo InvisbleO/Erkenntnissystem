@@ -4,27 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "8167eccb212f87c9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
-            "mode": "source"
+        "id": "45ba19d7f86c2d6d",
+        "type": "split",
+        "children": [
+          {
+            "id": "8167eccb212f87c9",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "d291738c9aa3a4fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source"
+              }
+            }
           }
-        }
-      },
-      {
-        "id": "d291738c9aa3a4fe",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Todo.md",
-            "mode": "source"
-          }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -88,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md"
               }
             }
           },
@@ -143,8 +150,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Todo.md",
     "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
+    "Todo.md",
     "Testen und Updaten!.md",
     "Untitled.md",
     "Systemdaten/Vorlagen/Hauptvorlage.md",
