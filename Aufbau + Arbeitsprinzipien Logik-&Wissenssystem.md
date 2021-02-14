@@ -1,4 +1,4 @@
-hello
+
 # Aufbau + Arbeitsprinzipien Wissenssystem
 
 ## Aufbau des Systems+ Grundprinzipien
