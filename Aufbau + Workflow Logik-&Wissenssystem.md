@@ -10,7 +10,7 @@
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
 -   Ordnerstruktur erklärt:
 	-   **Gedanken**: Hauptordner, enthält alle für Erkenntnisse oder alltägliche Handlungen sowie für Arbeitsprozess relevanten Daten
-		-   **Ideaspace**: Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[#Ideaspace]]( #v/zinf)
+		-   **Ideaspace**: Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe)(Workfow: [[Aufbau + Workflow Logik-&Wissenssystem#Ideaspace]]( #v/zinf)
 		-   **Prinzipien & Systeme**
 		-   **Tagesnotizen**:
 			-   sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse, die keine genaue Unterteilung in einzelne Blöcke erfordern
@@ -23,6 +23,8 @@
 	-   **Hintergrunddaten**: alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
 	-   **System**: Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
 	-   Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
+		-   **Todo**: Seite, die alle Aufgaben enthält, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden)
+		-   
 
 #### Links
 -   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
@@ -66,7 +68,7 @@
 - Wenn ein Block bearbeitet wird, der verlinkt ist, und der Block mit einem unteren Block verbunden wird, dann muss die Block-ID manuell an das Ende des neu entstandenen Blocks kopiert werden, damit die Verlinkung noch funktioniert
 
 ### Ideaspace
-- [[#Ordner]]( #v/def)
+- [[Aufbau + Workflow Logik-&Wissenssystem#Ordner]]( #v/def)
 - #z/testen/wennNachdenknotizenAnalyse
 - fertige Dateien oder Blöcke werden in einen der anderen Ordner eingeordnet
 

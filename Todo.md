@@ -1,5 +1,7 @@
 **Erstellung**: 2021-02-1317:43
 **Tags**:
+**Links**:
+- [[Aufbau + Workflow Logik-&Wissenssystem#Ordner]]( #v/def)
 
 # Todo
 
