@@ -2,7 +2,7 @@
 **Tags**:
 
 # Todo
-
+(Workflow: [[Aufbau + Arbeitsprinzipien Logik-&Wissenssystem#Kategorisierung und Einordnung von Daten]])
 ````query
 tag: #z/todo 
 ````
