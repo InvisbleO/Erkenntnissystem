@@ -11,6 +11,8 @@ tag: #z/todo
  
 regeln für Dateiaufbau
 Testen Workflow
+Ideenstelle?
+Idee: Wörterbuch? vllt nicht nötig weil ich nur nutze, aber vllt beugt es Verwirrungen 
 
 besser unterteilte Workflow Notiz, die alle Systeme für Arbeit enthält und überall an den entsprechenden Stellen verlinkt werden kann
 - wo kommen die Verlinkungen in die Dateien hin
