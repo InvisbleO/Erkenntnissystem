@@ -1,4 +1,4 @@
-hello y
+hello you
 # Aufbau + Arbeitsprinzipien Wissenssystem
 
 ## Aufbau des Systems+ Grundprinzipien
