@@ -4,4 +4,5 @@
 
 ---
 # Ideensammlung
+## für Logik-& Wissenssystem
 \#z/evtl.Irgendwann(Verbessern/Machen)

@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Todo.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -88,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,9 +109,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Todo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,15 +137,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Wörterbuch.md",
+    "Gedanken/Ideaspace/Ideensammlung.md",
     "Todo.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "System/Vorlagen/Allgemeine Dateivorlage.md",
-    "Wörterbuch.md",
     "Untitled.md",
     "Ideensammlung.md",
     "Untitled 1.md",
     "Wörterbuch^dateispezifisch.md",
-    "dateispezifisch.md",
-    "Gedanken/Tagesnotizen/2021-02-13.md"
+    "dateispezifisch.md"
   ]
 }
