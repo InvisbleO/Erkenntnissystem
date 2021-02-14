@@ -21,7 +21,7 @@
 			- Vorlage: [[Vorlage Tagesnotizen]]
 		- **Weltbild**: alle Erkenntnisse von Grund auf, Logiksystem
 	-   **Hintergrunddaten**: alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
-	-   Systemdaten
+	-   **System**: Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
 	-   Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
 
 #### Links
@@ -34,9 +34,9 @@
 
 #### Tags
 -   \#v Bestimmung der Art einer Verknüpfung
-	-   \#v/log
-	-   \#v/abl
-	-   \#v/def
+	-   \#v/log - logische Verknüpfung
+	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nicht sicher zu dem abgeleiteten Ergebnis führen muss)
+	-   \#v/def - Defintion
 	-   \#v/infq
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
 	-   \#v/sek Für Themenbereiche/Sekundärstruktur einzelne verschiedene Tags, z.B. \#v/sek, \#v/sek/Neurologie… - Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
