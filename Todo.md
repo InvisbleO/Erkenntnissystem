@@ -12,6 +12,8 @@ tag: #z/todo
 Workspace Workflow
 Wie geht rückgängig?
 
+besser unterteilte Workflow Notiz, die einfach alle Systeme für Arbeit enthält und überall an den entsprechenden Stellen verlinkt werden kann
+
 Dateiattribute? - in Vorlagen am Dateianfang nach bestimmter Form eintragen, sodass mit Suchbegriff danach gesucht werden kann, Tags sind nicht nötig
 
 Ich brauche noch einen Workspace, wo ich mit Gedanken spiele, die aus den Tagesnotizen geholt habe und analysiere, mit anderen DAten verknüpfe aber noch nicht in das größere Bild eingeordnet habe
