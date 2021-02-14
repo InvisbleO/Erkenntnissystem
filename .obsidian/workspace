@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled 1.md",
-            "mode": "source"
+            "file": "Todo.md",
+            "mode": "preview"
           }
         }
       },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -144,10 +144,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "System/Vorlagen/Allgemeine Dateivorlage.md",
-    "Untitled.md",
     "Todo.md",
+    "System/Vorlagen/Allgemeine Dateivorlage.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Wörterbuch^dateispezifisch.md",
     "dateispezifisch.md",
