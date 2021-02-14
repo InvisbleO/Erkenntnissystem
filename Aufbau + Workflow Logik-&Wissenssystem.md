@@ -62,13 +62,13 @@
 	- z.B. rechtschreibung, Sprache
 
 ## Workflow
+### Allgemeingültig
+- Wenn ein Block bearbeitet wird, der verlinkt ist, und der Block mit einem unteren Block verbunden wird, dann muss die Block-ID manuell an das Ende des neu entstandenen Blocks kopiert werden, damit die Verlinkung noch funktioniert
+
 ### Ideaspace
 - [[#Ordner]]( #v/def)
-- #z/testen
+- #z/testen/wennNachdenknotizenAnalyse
 - fertige Dateien oder Blöcke werden in einen der anderen Ordner eingeordnet
-
-
-Wenn ein Block bearbeitet wird, der verlinkt ist, und der Block mit einem unteren Block verbunden wird, dann muss die Block-ID manuell an das Ende des neu entstandenen Blocks kopiert werden, damit die Verlinkung noch funktioniert
 
 ### Shortcuts
 -   Notizen immer wenn möglich in Bearbeitungsmodus ansehen
@@ -86,7 +86,7 @@ Wenn ein Block bearbeitet wird, der verlinkt ist, und der Block mit einem untere
 -   Bald gibt es ein Update: Wenn ein Dateiname geändert wird, dann ändert sich auch der Name im Link - gilt es dann für alle Links?
 
 ### Mobile Workflow
-- wird Tagesnotiz automatisch morgens erstellt? Mache ich vllt automatisch, da Traumjournal immer am Computer
+- #z/testen wird Tagesnotiz automatisch morgens erstellt? Mache ich vllt automatisch, da Traumjournal immer am Computer
 - manuelle Suche
 
 ## Weiteres
