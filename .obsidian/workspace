@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "workspace",
+                "query": "tag: #v/def",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -135,15 +136,15 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 328
   },
   "lastOpenFiles": [
     "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Gedanken/Tagesnotizen/2021-02-13.md",
     "Todo.md",
     "Aufbau + Workflow Wissenssystem.md",
     "Systemdaten/Vorlagen/Hauptvorlage.md",
@@ -151,7 +152,6 @@
     "Testen und Updaten!.md",
     "Untitled.md",
     "ToDo.md",
-    "Gedanken/Tagesnotizen/2021-02-13.md",
     "Systemdaten/Vorlagen/Vorlage Tagesnotizen.md"
   ]
 }
