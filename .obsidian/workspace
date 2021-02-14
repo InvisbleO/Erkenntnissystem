@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
+                "file": "Todo.md",
                 "mode": "source"
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -150,9 +150,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Todo.md",
     "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
     "Testen und Updaten!.md",
-    "Todo.md",
     "Systemdaten/Vorlagen/Hauptvorlage.md",
     "Untitled.md",
     "ToDo.md",

@@ -25,7 +25,7 @@
 	-   \#z Zustand einer Notiz/eines Blocks - einfache Attribute
 		-   \#z/testen - Aussage muss geprüft werden durch Testen und dann bestätigt oder korrigiert werden
 		-   \#z/todo - Signal, dass eine Stelle nicht als fertig bearbeitet angesehen wird und es wird auf eine Voraussetzung gewartet, damit das gemacht werden kann
-			-   z.B. wenn ich mich vorher über ein anderes Thema informieren muss, um eine gute Entscheidung zu treffen
+			-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren
 -   Codezeichen im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
 	-   Vorerst nicht, nur bei Bedarf
 
