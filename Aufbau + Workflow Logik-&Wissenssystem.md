@@ -70,6 +70,9 @@ Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Medi
 -    im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
 -   Vorerst nicht, nur bei Bedarf
 
+### Verlinkung von Daten
+Grundprinzip: Die konkretesten Dateien sind nach Möglichkeit immer die Quelle von Informationen (d.h. sie enthalten die originalen Blöcke & Informaitonseinheiten). Andere Dateien, die weniger konkrete oder weniger thematisch zutreffende
+
 ## Dateiformatierung
 - Dateiname: eindeutig und möglichst kurz, Schlüsselwörter in Klammern dahinter möglich, falls sie Suchalgorithmus helfen #z/testen
 - Struktur: #z/testen
