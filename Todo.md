@@ -12,3 +12,5 @@ Dateiattribute? - in Vorlagen am Dateianfang nach bestimmter Form eintragen, sod
 Ich brauche noch einen Workspace, wo ich mit Gedanken spiele, die aus den Tagesnotizen geholt habe und analysiere, mit anderen DAten verknüpfe aber noch nicht in das größere Bild eingeordnet habe
 
 **Ziel für heute: Obsidian Setup abschließen (mobile und Computer Workflow, Drafts, Daily, Vorlage), dann Notizen sortieren und bis auf Nachdenknotizen alle übertragen** 
+
+Schlafzeit
