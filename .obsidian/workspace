@@ -6,7 +6,6 @@
       {
         "id": "8167eccb212f87c9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -18,6 +17,7 @@
       {
         "id": "d291738c9aa3a4fe",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md"
+                "file": "Todo.md"
               }
             }
           },
@@ -143,9 +143,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Todo.md",
     "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
     "Testen und Updaten!.md",
-    "Todo.md",
     "Untitled.md",
     "Systemdaten/Vorlagen/Hauptvorlage.md",
     "ToDo.md",
