@@ -36,4 +36,5 @@ Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts,
 	-   Smart Home
 	-   iPhone Helligkeit runterregeln 19 Uhr
 	-   Nicht Stören in Arbeitsintervallen
+	-   Bewegungsmelder an sinnvolle Stelle entsprechend Arbeitsumfeld; Intervall bis Licht ausgeht deutlich hochstellen, vllt sogar ganz weglassen und alles mit Siri machen, Licht schalter verändert Lichtfarbe, daher nicht nutzen
 

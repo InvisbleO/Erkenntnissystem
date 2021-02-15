@@ -29,6 +29,7 @@ Geld verdienen
 ### Umgang mit Menschen
 #### Familie #z/todo/Nachdenkphase 
 - vorläufiger Umgang mit Familie:
+	-  Kontakt mit Mama ist ok, aber kurz und energievoll halten
 	-  klar sagen, was mich interessiert und was nicht
 	-  wertschätzend
 
