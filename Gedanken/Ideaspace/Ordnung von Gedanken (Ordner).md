@@ -24,8 +24,8 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
  Da eine Situationserkennung aktuell zu kompliziert ist, ist die beste Annäherung, dass ich Situationen selber erkennen können muss, und dann möglichst schnell auf das situationsgebundene System zugreifen können muss.
  
  ### Dateien
- - **Systeme - Später Testen**: Gedanken zu möglichen Systemen/Handlungen (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Aufbau + Workflow Logik-&Wissenssystem#Ideaspace|Ideaspace]] ( #v/def)
-- \#v Tags für Zustände
+ - **Systeme - Später Testen**: Gedanken zu möglichen Systemen/Handlungen (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Ordnung von Gedanken (Ordner)#Ideaspace|Ideaspace]] ( #v/def)
+- \#p Tags für Umsetzung der Systeme
 	- \#v/testen
 	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
 	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären

@@ -15,9 +15,20 @@
         }
       },
       {
-        "id": "8167eccb212f87c9",
+        "id": "5883a826b64eb319",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8167eccb212f87c9",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
               }
             }
           },
@@ -154,12 +165,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
-    "Gedanken/Tagesnotizen/2021-02-15.md",
-    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-    "Untitled.md",
+    "Gedanken/Tagesnotizen/2021-02-15.md",
     "Todo.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
+    "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
     "Informationseinheiten.md",
     "Wörterbuch.md",
