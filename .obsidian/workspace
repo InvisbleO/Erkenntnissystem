@@ -27,6 +27,17 @@
         }
       },
       {
+        "id": "c2c22260ec4d968f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wörterbuch.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
         "id": "83cc829593912ddc",
         "type": "leaf",
         "state": {
@@ -166,9 +177,9 @@
   },
   "lastOpenFiles": [
     "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Wörterbuch.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
-    "Wörterbuch.md",
     "Todo.md",
     "Gedanken/Systeme/Routinen (zeitbezogene Systeme).md",
     "Untitled.md",

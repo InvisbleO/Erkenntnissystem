@@ -8,6 +8,7 @@ dateispezifisch - bezieht sich nur auf eine Datei und wenn nicht anders gesagt n
 Informationseinheiten - Dateien, Paragraphen mit Überschriften oder Blöcke, also alles was verknüpfbar ist ^92ddaa
 
 ## Tags
+= einfache Attribute ^b984eb
 
 \#v Bestimmung der Art einer Verknüpfung (wird in Klammern hinter einen Link geschrieben)
 	-   \#v/log - logische Verknüpfung
