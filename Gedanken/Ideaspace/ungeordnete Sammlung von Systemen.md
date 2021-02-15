@@ -26,6 +26,15 @@ Geld verdienen
 	- nach Intuition auch als normales Investment, wenn es Potential für guten Anstieg gibt und wenig Risiko
 - #z/todo/fallsÜber450EuroProMonatVerdienen Irgendwann sollte ich auch noch mit Gewerbe etwas Geld verdienen, um technische Geräte und wohnungskosten von Steuer und Krankenversicherung absetzen zu können
 
+### Umgang mit Menschen
+#### Familie #z/todo/Nachdenkphase 
+- vorläufiger Umgang mit Familie:
+	- 
+
+Aurelia anrufen und erklären, wie ich meinen Kontakt regele, sobald ich mir das überlegt habe
+
+#### Simon
+
 ## Mind-Systeme
 
 alle Gedanken aufschreiben in Tagesnotiz
