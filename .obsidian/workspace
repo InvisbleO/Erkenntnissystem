@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mana Dokumenatation.md",
+            "file": "Gedanken/Arbeit/Mana Dokumenatation.md",
             "mode": "source"
           }
         }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mana Dokumenatation.md",
+                "file": "Gedanken/Arbeit/Mana Dokumenatation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mana Dokumenatation.md"
+                "file": "Gedanken/Arbeit/Mana Dokumenatation.md"
               }
             }
           },
@@ -176,15 +176,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Arbeit/Mana Dokumenatation.md",
+    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+    "Testen und Updaten!.md",
     "Untitled.md",
     "Gedanken/Ideaspace/Todo.md",
     "Gedanken/Ideaspace/Unsortierte Inspiration für Weltbildstruktur.md",
     "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
-    "Zu Start von Nachdenkphase (nachdem alle vorläufigen Systeme stehen).md",
-    "Wörterbuch.md",
-    "Testen und Updaten!.md",
-    "Todo.md"
+    "Zu Start von Nachdenkphase (nachdem alle vorläufigen Systeme stehen).md"
   ]
 }

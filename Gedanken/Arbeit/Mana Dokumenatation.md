@@ -4,10 +4,6 @@
 
 ---
 # Mana Dokumenatation
-      
-
-**Mana Dokumentation**
-
   
 
 Bedanken bei Silvia für großartige Zusammenarbeit (nicht selbstverständlich)
@@ -28,9 +24,8 @@ Bis jetzt 78+65 Portionen Pulver
 
 15.2
 
-**Oskar**
-
-food: 8 Powder + 30g Protein, 11.30 Drink, 15.30 Drink, 19 Powder + 30g Protein
+Oskar
+8 Powder + 30g Protein, 11.30 Drink, 15.30 Drink, 19 Powder + 30g Protein
 
   
 
@@ -44,7 +39,7 @@ Oskar: 7 Powder + 30g Protein, 10.30 Drink, 14.30 Drink, 18 Powder + 30g Protein
 
 Oskar: 7 Powder + 30g Protein, 10.30 Powder, 14.30 Powder, 18 Powder + 30g Protein
 
-From now on:
+From now on for Oskar:
 
 Drinking: 3-3,5l incl. water in Mana (approximately 1.1l in morning, 1.7-2.2l throughout the day, 0.2-0.3l before going to bed)
 
