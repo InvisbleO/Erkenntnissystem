@@ -38,8 +38,5 @@ Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts,
 -   iPhone Helligkeit runterregeln 19 Uhr
 -  
 
--   Maus, evtl. auch andere Tastatur kaufen (allerdings wenn ich das MacBook benutze will ich keine exteren Tastatur haben müssen)
 -   **elektrische Zahlbürste kaufen, Geld zurück**
 -   Andere Tastatur als Apple wegen blöder Anordnung von Ctrl Cmd
--   Gravity testen als Arbeitsstuhl am MOnitor
-

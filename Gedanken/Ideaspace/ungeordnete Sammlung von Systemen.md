@@ -5,6 +5,11 @@
 ---
 # ungeordnete Sammlung von Systemen
 
+## Umgebung
+Arbeitsplatz:
+- Stuhl, Liege, Laufband
+- Tastautur, Maus
+- Licht, Pflanze?
 ## Mind-Systeme
 
 alle Gedanken aufschreiben in Tagesnotiz
