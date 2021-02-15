@@ -11,11 +11,13 @@ Arbeitsplatz:
 - Tastautur, Maus
 - Licht, Pflanze?
 
-Geldmanagement:
+#### Geldmanagement
 - Ideal wäre eine Kreditkarte, die automatisch von meinem Hauptkonto abbucht, damit ich nur das Hauptkonto im Blick haben muss #z/irgendwann 
 	- Amazon Kreditkarte beantragen, sobald ich ein stabileres Einkommen habe #z/todo/wennIchGeldVerdiene
-- Bis dahin möglichst viele Geldflüsse über das Hauptkonto abwickeln, auf Kreditkarte standardmäßig 100€ halten, falls ich aus irgendwelchen Gründen kein Geld raufladen kann sowie Kosten immer direkt ausgleichen, wenn sie entstehen
-- 
+- Bis dahin möglichst viele Geldflüsse über das Hauptkonto abwickeln, auf Kreditkarte standardmäßig 100€ halten, falls ich aus irgendwelchen Gründen nicht sofort Geld raufladen kann, sowie Kosten immer direkt ausgleichen, wenn sie entstehen
+- grundsätzlich möglichst viel Geld in Depots halten, aber mindestens 1000€ sollten auch immer sofort verfügbar sein zum Abheben, testen wie lange Auszahlungen dauern #z/todo/wennSmartBrokerDaIst 
+##### Geld verdienen
+- aktuell haupt
 ## Mind-Systeme
 
 alle Gedanken aufschreiben in Tagesnotiz
