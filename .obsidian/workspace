@@ -15,6 +15,17 @@
         }
       },
       {
+        "id": "4cb89dd8921f7a33",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gedanken/Ideaspace/Todo.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
         "id": "18e52f066d017758",
         "type": "leaf",
         "active": true,
@@ -176,15 +187,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Gedanken/Ideaspace/Todo.md",
+    "Zu Start von Nachdenkphase (nachdem alle vorläufigen Systeme stehen).md",
     "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+    "Gedanken/Ideaspace/Todo.md",
+    "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Wörterbuch.md",
     "Testen und Updaten!.md",
     "Todo.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
-    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
+    "Aufbau + Workflow Logik-&Wissenssystem.md"
   ]
 }
