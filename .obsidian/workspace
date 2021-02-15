@@ -160,18 +160,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328
+    "width": 328,
+    "collapsed": true
   },
   "lastOpenFiles": [
     "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Gedanken/Tagesnotizen/2021-02-15.md",
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
     "Wörterbuch.md",
     "Testen und Updaten!.md",
-    "Gedanken/Tagesnotizen/2021-02-15.md",
     "Gedanken/Tagesnotizen/2021-02-13.md",
     "Todo.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
-    "Untitled.md",
-    "Gedanken/Systeme/Routinen (zeitbezogene Systeme).md"
+    "Untitled.md"
   ]
 }
