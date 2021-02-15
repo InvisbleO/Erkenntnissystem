@@ -16,7 +16,8 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
 
 ## Systeme
  
- Systeme sind alle konkreten (quantitativen), handlungsbezogenen Anweisungen. ^9fafbe
+ Systeme sind alle konkreten (quantitativen), handlungsbezogenen Abschnitte. ^9fafbe
+ - Meistens sind es Anweisungen, aber sie können auc
  - Eine Formel an sich ist zwar kein System, wird allerdings zu einem System sobald man sie anwendet um zu einem Ergebnis zu kommen
 
  Idealzustand wären situationsgebundene Systeme für jede Situation, die eine Situation mit ihren Variablen intelligent erkennen und einem dafür das passende System oder weiterführend direkt eine Handlungsanweisung geben können.

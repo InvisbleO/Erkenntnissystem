@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+            "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
             "mode": "source"
           }
         }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "handlungsbe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md"
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
               }
             }
           },
@@ -164,12 +165,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Todo.md",
     "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
     "Gedanken/Systeme/Ideen zu Systemen.md",
-    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Wörterbuch.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",

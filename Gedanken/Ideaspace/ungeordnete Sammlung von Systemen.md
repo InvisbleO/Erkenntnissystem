@@ -5,4 +5,12 @@
 ---
 # ungeordnete Sammlung von Systemen
 
-Urin bei erstem Drang so lange halten wie es möglich ist, effektiv zu arbeiten
+Bei erstem Bemerken von Harndrang Zeit dokumentieren in Urinjournal, dann so lange halten wie es möglich ist, effektiv zu arbeiten und erneut Zeit dokumentieren, wenn ich auf dem Klo war.
+
+      
+
+-   Insgesamt 3,5l trinken (abends 1/2 Glas, morgens 1Glas, tagsüber 2 Gläser)
+
+
+#z/todo 
+- Was machrn in Pausen
