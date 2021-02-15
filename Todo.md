@@ -41,4 +41,5 @@ Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts,
 -   Maus kaufen
 -   **elektrische Zahlbürste kaufen, Geld zurück**
 -   Andere Tastatur als Apple wegen blöder Anordnung von Ctrl Cmd
+-   Gravity testen als Arbeitsstuhl am MOnitor
 
