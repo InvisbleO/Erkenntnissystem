@@ -36,7 +36,7 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
 	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Ideen zu Systemen]], da diese per Defintion noch nicht umgesetzt werden
 
 ## Weltbild
-Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
+= Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
 -> Wissen + Erkenntnisse ^542e31
 
 ## Tagesnotizen

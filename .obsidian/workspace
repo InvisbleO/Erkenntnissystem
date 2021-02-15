@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+            "file": "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
             "mode": "source"
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+                "file": "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
+                "file": "Gedanken/Ideaspace/Grundprinzipien für Systeme.md"
               }
             }
           },
@@ -164,15 +164,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Gedanken/Systeme/Ideen zu Systemen.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Wörterbuch.md",
-    "Gedanken/Systeme/Ideen zu Systemen.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
     "Testen und Updaten!.md",
-    "Gedanken/Tagesnotizen/2021-02-13.md",
-    "Todo.md"
+    "Gedanken/Tagesnotizen/2021-02-13.md"
   ]
 }
