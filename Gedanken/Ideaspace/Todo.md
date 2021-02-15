@@ -5,7 +5,7 @@
 ---
 
 # Todo
-= enthält alle Aufgaben, denen noch kein Zeitpunkt (also Datum) zugeordnet werden kann (nachdem diese aus der Tagesnotiz hierher übertragen wurden) ^033011
+= enthält alle Aufgaben, denen noch kein Zeitpunkt (also Datum oder Uhrzeit) zugeordnet werden kann (bis auf noch nicht analysierte Aufgaben in der Tagesnotiz) ^033011
   
 
 ````query
@@ -36,4 +36,6 @@ Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts,
 	-   Smart Home
 	-   iPhone Helligkeit runterregeln 19 Uhr
 **Nicht Stören in Arbeitsintervallen**	-   Bewegungsmelder an sinnvolle Stelle entsprechend Arbeitsumfeld; Intervall bis Licht ausgeht deutlich hochstellen, vllt sogar ganz weglassen und alles mit Siri machen, Licht schalter verändert Lichtfarbe, daher nicht nutzen
+
+Wissen mit Simon teilen, sobald ich es analysiert habe. (nicht alles auf einmal, einfach wenn ich es gerade finde)
 
