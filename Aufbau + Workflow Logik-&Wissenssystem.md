@@ -6,7 +6,7 @@
 
 # Aufbau + Workflow Logik-&Wissenssystem
 
-= grobes Verzeichnis des Logik&Wissenssystems + Definition von Struktur und Arbeitsregeln
+= grobes Verzeichnis des Logik&Wissenssystems + Definition von Struktur und Arbeitsregeln ^fb4ec5
 
 Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenntnisse zu speichern, sodass ich sie barrierelos verstehen kann, sowie ein Werkzeug für neue Ideen zu sein. ^1dbf82
 
@@ -20,6 +20,7 @@ Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenn
 ##### 1 Gedanken
 ![[Ordnung von Gedanken (Ordner)#^01f23c]]
 - [[Ordnung von Gedanken (Ordner)]]
+
 ##### 2 Hintergrunddaten
 = alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
 ##### 3 Systemrelevante Daten (Obsidian + Erkenntnissystem)
@@ -29,16 +30,16 @@ Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenn
 ![[Todo#^033011]]
 
 **[[Aufbau + Workflow Logik-&Wissenssystem]]**
-"README", enthält alle Informationen für Zurechtfindung im System ^7dcbbe
+![[#^fb4ec5]]
 
 **[[Testen und Updaten!]]**
-enthält alle aktuellen Tests (sowohl mit Datum als auch ohne) und auf welche Stellen sie sich auswirken
+![[Testen und Updaten!#^1e7941]]
 
 **[[Wörterbuch]]**
-für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch verbinden ^00f7b0
+![[Wörterbuch#^b64c8b]]
 
 #### Links
--   normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
+- normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
 	-   Wenn der gleiche Begriff genutzt wird, dann ist das der Link, wenn ein anderer Begriff genutzt wird, dann ist dieser entweder ein alias oder wird verlinkt)
 	-   Links befinden sind immer bei dem Ziel einer Verknüpfung, bei der Voraussetzung können sie unter Backlinks nachgeschaut werden
 	-   Hinter jedem normalen Link steht ein Tag, der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#v/def) bis auf Links, die zu einer Informationseinheit führen, die genau das beinhaltet, was der Linkname bedeutet - wenn sie zusätzlich eine Defintion oder andere bestimmte Daten beinhaltet, dann entsprechenden # hinter die Verknüpfung schreiben

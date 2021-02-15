@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Todo.md",
+            "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
             "mode": "source"
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Todo.md",
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Todo.md"
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
               }
             }
           },
@@ -163,15 +163,15 @@
     "width": 328
   },
   "lastOpenFiles": [
-    "Todo.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
-    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-    "Gedanken/Tagesnotizen/2021-02-15.md",
-    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
     "Wörterbuch.md",
+    "Testen und Updaten!.md",
+    "Gedanken/Tagesnotizen/2021-02-15.md",
+    "Gedanken/Tagesnotizen/2021-02-13.md",
+    "Todo.md",
+    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
     "Untitled.md",
-    "Gedanken/Systeme/Routinen (zeitbezogene Systeme).md",
-    "Gedanken/Systeme/Systeme - Später testen.md",
-    "Systeme - Später testen.md"
+    "Gedanken/Systeme/Routinen (zeitbezogene Systeme).md"
   ]
 }
