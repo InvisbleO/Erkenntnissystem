@@ -66,7 +66,7 @@ hilft mir Muster meiner Fehler zu analysieren, aber auch Rückblicke welche Fehl
 3. **Wie vermeiden?** - Lehre dazuschreiben, aber auch in Erkenntnisse einsortieren -> Ort für Erkenntnis, welche Fehler
 
 **Entscheidungsdokumentation**
-- Alle Entscheidungsprozesse, deren Ergebnis mich länger als eine Woche beeinflussen wird, dokumentieren um bei neuen Informationen zu entscheiden, ob die den damaligen Entscheidungsausgang verändern würden, oder ob der Entscheidungprozess generell schlecht war
+- Alle Entscheidungsprozesse, deren Ergebnis mich länger als eine Woche beeinflussen wird, dokumentieren um bei neuen Informationen zu entscheiden, ob die den damaligen Entscheidungsausgang verändern würden, oder ob der Entscheidungprozess generell schlecht war -> an der Stelle, wo der Ausgang hingeschrieben wird, auch Begründung hinschreiben bzw. verlinken
 
 
 ## Körpersysteme
