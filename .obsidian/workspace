@@ -6,7 +6,6 @@
       {
         "id": "742564dec2b3fbe7",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -40,10 +39,11 @@
       {
         "id": "83cc829593912ddc",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
+            "file": "Gedanken/Tagesnotizen/2021-02-15.md",
             "mode": "source"
           }
         }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+                "file": "Gedanken/Tagesnotizen/2021-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
+                "file": "Gedanken/Tagesnotizen/2021-02-15.md"
               }
             }
           },
@@ -176,14 +176,14 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
+    "Untitled.md",
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
+    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Wörterbuch.md",
     "Todo.md",
     "Gedanken/Systeme/Routinen (zeitbezogene Systeme).md",
-    "Untitled.md",
     "Gedanken/Systeme/Systeme - Später testen.md",
     "Systeme - Später testen.md"
   ]
