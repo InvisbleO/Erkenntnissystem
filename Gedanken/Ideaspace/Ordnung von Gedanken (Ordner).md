@@ -24,10 +24,11 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
  Da eine Situationserkennung aktuell zu kompliziert ist, ist die beste Annäherung, dass ich Situationen selber erkennen können muss, und dann möglichst schnell auf das situationsgebundene System zugreifen können muss.
  
  ### Dateien
- - **Systeme - Später Testen**: Gedanken zu möglichen Systemen/Handlungen (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Ordnung von Gedanken (Ordner)#Ideaspace|Ideaspace]] ( #v/def)
+ - [[Systemideen]]: Ideen zu Systemen/Handlungen, von denen ich noch nicht weiß, ob ich sie umsetzen möchte (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Ordnung von Gedanken (Ordner)#Ideaspace|Ideaspace]] ( #v/def)
+	 - sind verknüpft mit fachwissen oder mit bereits umgesetzten verwandten Systemen
 
 - \#s Tags Systeme:
-	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Systeme - Später testen]], da diese per Defintion noch nicht umgesetzt werden
+	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Systemideen]], da diese per Defintion noch nicht umgesetzt werden
 	-  \#s/testen
 	- \#s/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
 	- \#s/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
