@@ -5,7 +5,7 @@
 ---
 
 # Todo
-= enthält alle Aufgaben, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz hierher übertragen wurden) ^033011
+= enthält alle Aufgaben, denen noch kein Zeitpunkt (also Datum) zugeordnet werden kann (nachdem diese aus der Tagesnotiz hierher übertragen wurden) ^033011
   
 
 ````query
@@ -28,7 +28,7 @@ Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts,
 
 
       
-## Liste ohne Zeitpunkte
+## Liste ohne konkrete Zeitpunkte
 -   iPhone, Applewatch Shortcuts einrichten, also Traumjournal öffnen, Roam öffnen etc.
 	-   White Noise/Affirmation
 	-   Mails Checken System

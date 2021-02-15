@@ -17,6 +17,7 @@
       {
         "id": "18e52f066d017758",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -28,7 +29,6 @@
       {
         "id": "177b6b08a56291fb",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Tagesnotizen/2021-02-15.md",
+                "file": "Gedanken/Ideaspace/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Tagesnotizen/2021-02-15.md"
+                "file": "Gedanken/Ideaspace/Todo.md"
               }
             }
           },
@@ -177,9 +177,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Gedanken/Tagesnotizen/2021-02-15.md",
-    "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Ideaspace/Todo.md",
+    "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+    "Gedanken/Tagesnotizen/2021-02-15.md",
     "Wörterbuch.md",
     "Testen und Updaten!.md",
     "Todo.md",

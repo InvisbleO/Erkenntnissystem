@@ -50,6 +50,7 @@ vorläufig:
 #### Simon
 - für ihn gelten gleiche Regeln wie für alle anderen - er kann mich anrufen, wenn ich nicht Stören an habe, rufe ich zurück
 
+
 ## Mind-Systeme
 
 alle Gedanken aufschreiben in Tagesnotiz
