@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
-            "mode": "preview"
+            "file": "Wörterbuch.md",
+            "mode": "source"
           }
         }
       },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+                "file": "Wörterbuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+                "file": "Wörterbuch.md"
               }
             }
           },
@@ -175,15 +175,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Wörterbuch.md",
     "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+    "Gedanken/Tagesnotizen/2021-02-15.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Untitled.md",
-    "Gedanken/Tagesnotizen/2021-02-15.md",
     "Todo.md",
     "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
     "Gedanken/Systeme/Ideen zu Systemen.md",
-    "Wörterbuch.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md"
   ]
 }
