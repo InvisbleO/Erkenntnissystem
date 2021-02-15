@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b279ad9b6ee27670",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gedanken/Tagesnotizen/2021-02-14.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "2fe8cdf3540aa20d",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Systeme - Später testen.md",
+            "file": "Gedanken/Tagesnotizen/2021-02-15.md",
             "mode": "source"
           }
         }
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Systeme - Später testen.md",
+                "file": "Gedanken/Tagesnotizen/2021-02-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systeme - Später testen.md"
+                "file": "Gedanken/Tagesnotizen/2021-02-15.md"
               }
             }
           },
@@ -165,15 +154,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
+    "Gedanken/Tagesnotizen/2021-02-15.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+    "Untitled.md",
     "Todo.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
     "Informationseinheiten.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Wörterbuch.md",
     "Gedanken/Ideaspace/Systeme.md",
-    "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md",
-    "Systeme.md"
+    "Aufbau + Arbeitsprinzipien Logik-&Wissenssystem.md"
   ]
 }
