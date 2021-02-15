@@ -5,6 +5,12 @@
 ---
 # ungeordnete Sammlung von Systemen
 
+## Allgemein, auch während anderen Systemen
+
+Auf eine Tätigkeit konzentrieren und ihr meine volle Energie geben in der Hinsicht, dass ich weiß, aus welchem Grund ich sie mache und welches Reslutat sie haben wird. #Z/WirdGelernt
+Ausnahmen:
+- #z/todo 
+
 ## Umgebung, äußere Arbeit & Organisation
 Arbeitsplatz:
 - Stuhl, Liege, Laufband
@@ -29,7 +35,7 @@ Geld verdienen
 ### Umgang mit Menschen
 #### Familie #z/todo/Nachdenkphase 
 - vorläufiger Umgang mit Familie:
-	-  Mama kann anrufen, wenn sie es braucht, dann v
+	-  Mama kann anrufen, wenn sie es braucht
 	-  klar sagen, was mich interessiert und was nicht
 	-  wertschätzend
 
