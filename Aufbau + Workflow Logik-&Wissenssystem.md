@@ -47,19 +47,19 @@ Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenn
 	-   Hinter jedem normalen Link steht ein Tag, der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#v/def) bis auf Links, die zu einer Informationseinheit führen, die genau das beinhaltet, was der Linkname bedeutet - wenn sie zusätzlich eine Defintion oder andere bestimmte Daten beinhaltet, dann entsprechenden # hinter die Verknüpfung schreiben
 -   Embedded Link bedeutet, dass der Inhalt einer anderen Datei in der aktuellen Datei inhaltlich genutzt wird, z.B. bei Schlussfolgerungen - es ist egal wo der Ursprung der Datei/des Blocks ist (also wo das Original gespeichert ist)
 	-   erfordern keinen Tag, da man ja weiß, was der Inhalt ist in dem Moment in dem ihn sich ansieht
--   Unmentioned Links sind irrelevant für Verständnis
+- Unmentioned Links sind irrelevant für Verständnis
 
-#### [[Wörterbuch#Tags|Tags]]
-![[Wörterbuch#^b984eb]] ( #v/def)
-#### Codezeichen
--    im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
--   Vorerst nicht, nur bei Bedarf
-
-### Verlinkung von Daten
-Grundprinzip: **Bottom->Up**
+**Grundprinzip: Bottom->Up**
 Die konkretesten Dateien sind nach Möglichkeit immer die Quelle von Informationen (d.h. sie enthalten die originalen [[Wörterbuch#^92ddaa|Informationseinheiten]] ( #v/def)). Andere Informationseinheiten, die weniger konkrete oder weniger zu dem Thema zutreffende Informationen enthalten, können die Informationseinheit mit den konkretesten Daten referenzieren
 - Bsp.: in dieser Datei stehen Erklärungen zu den wichtigsten Ordnern des Systems, aber in den Ordnern gibt es Dateien, die die Ordnung noch konkreter erklären, daher muss auf diese referenziert/verknüpft werden
 - wäre zu chaotisch, Informationen zu einem Thema über viele nicht aufeinanderfolgende Informationseinheiten zu verteilen, hat keine Übersicht und schwieriger zu suchen, wenn man eine Information verlinken will
+
+#### [[Wörterbuch#Tags|Tags]]
+![[Wörterbuch#^b984eb]]
+
+#### Codezeichen
+-    im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
+-   Vorerst nicht, nur bei Bedarf
 
 ## Dateiformatierung
 - Dateiname: eindeutig und möglichst kurz, Schlüsselwörter in Klammern dahinter möglich, falls sie Suchalgorithmus helfen #z/testen
