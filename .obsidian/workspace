@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5883a826b64eb319",
+        "id": "742564dec2b3fbe7",
         "type": "leaf",
         "active": true,
         "state": {
@@ -155,14 +155,14 @@
   },
   "lastOpenFiles": [
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+    "Todo.md",
+    "Gedanken/Systeme/Routinen (zeitbezogene Systeme).md",
     "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Gedanken/Systeme/Systeme - Später testen.md",
     "Systeme - Später testen.md",
-    "Todo.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
-    "Gedanken/Tagesnotizen/2021-02-14.md",
-    "Informationseinheiten.md"
+    "Gedanken/Tagesnotizen/2021-02-14.md"
   ]
 }

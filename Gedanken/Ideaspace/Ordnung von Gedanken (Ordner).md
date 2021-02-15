@@ -26,6 +26,9 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
  ### Dateien
  - [[Systemideen]]: Ideen zu Systemen/Handlungen, von denen ich noch nicht weiß, ob ich sie umsetzen möchte (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Ordnung von Gedanken (Ordner)#Ideaspace|Ideaspace]] ( #v/def)
 	 - sind verknüpft mit fachwissen oder mit bereits umgesetzten verwandten Systemen
+ - unsicher, wie ich Systeme noch aufgliedern möchte - sollte wahrscheinlich schon irgendwie aufgegliedert werden, da es extrem viele Systeme geben wird
+	 - in zeitbezogen und situationsbezogen ist eigentlich völlig unwichtig, wenn überhaupt als sekundäre Einrdonung, weil das nicht wichtig ist für Ausführung
+	 - eher thematische Einordnung, das ist a
 
 - \#s Tags Systeme:
 	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Systemideen]], da diese per Defintion noch nicht umgesetzt werden
