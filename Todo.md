@@ -36,9 +36,9 @@ Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts,
 -   Computer automatisch Traumjournal morgens öffnen
 -   Smart Home
 -   iPhone Helligkeit runterregeln 19 Uhr
--         
+-  
 
--   Maus kaufen
+-   Maus, evtl. auch andere Tastatur kaufen (allerdings wenn ich das MacBook benutze will ich keine exteren Tastatur haben müssen)
 -   **elektrische Zahlbürste kaufen, Geld zurück**
 -   Andere Tastatur als Apple wegen blöder Anordnung von Ctrl Cmd
 -   Gravity testen als Arbeitsstuhl am MOnitor
