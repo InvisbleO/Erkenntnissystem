@@ -1,4 +1,4 @@
-{{time}}
+{{time:HH:mm}}
 
 ### Traumjournal
 - 
