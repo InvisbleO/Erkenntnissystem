@@ -6,6 +6,7 @@
       {
         "id": "742564dec2b3fbe7",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,12 +18,11 @@
       {
         "id": "8167eccb212f87c9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
               }
             }
           },
@@ -164,6 +164,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
@@ -172,7 +173,6 @@
     "Testen und Updaten!.md",
     "Gedanken/Tagesnotizen/2021-02-13.md",
     "Todo.md",
-    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Untitled.md"
   ]
 }

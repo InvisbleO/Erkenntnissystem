@@ -24,7 +24,7 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
  Da eine Situationserkennung aktuell zu kompliziert ist, ist die beste Annäherung, dass ich Situationen selber erkennen können muss, und dann möglichst schnell auf das situationsgebundene System zugreifen können muss.
  
  ### Dateien
- - [[Systemideen]]: Ideen zu Systemen/Handlungen, von denen ich noch nicht weiß, ob ich sie umsetzen möchte (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Ordnung von Gedanken (Ordner)#Ideaspace|Ideaspace]] ( #v/def)
+ - [[Ideen zu Systemen]]Ideen zu Systemen/Handlungen, von denen ich noch nicht weiß, ob ich sie umsetzen möchte (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Ordnung von Gedanken (Ordner)#Ideaspace|Ideaspace]] ( #v/def)
 	 - sind verknüpft mit fachwissen oder mit bereits umgesetzten verwandten Systemen
  - unsicher, wie ich Systeme noch aufgliedern möchte - sollte wahrscheinlich schon irgendwie aufgegliedert werden, da es extrem viele Systeme geben wird
 	 - in zeitbezogen und situationsbezogen ist eigentlich völlig unwichtig, wenn überhaupt als sekundäre Einrdonung, weil das nicht wichtig ist für Ausführung
@@ -32,7 +32,7 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
 	 - #z/todo 
 
 - [[Wörterbuch#Tags|#z Tags für Systeme]]:
-	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Systemideen]], da diese per Defintion noch nicht umgesetzt werden
+	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Ideen zu Systemen]], da diese per Defintion noch nicht umgesetzt werden
 
 ## Weltbild
 Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
