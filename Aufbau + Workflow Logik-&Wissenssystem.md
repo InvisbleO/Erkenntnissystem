@@ -1,3 +1,9 @@
+**Erstellung**: 2021-02-12  15:31
+**Tags**:
+**Links**:
+
+---
+# Aufbau + Workflow Logik-&Wissenssystem
 
 # Aufbau + Workflow Logik-&Wissenssystem
 
@@ -46,8 +52,10 @@ für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch ver
 -   Vorerst nicht, nur bei Bedarf
 
 ### Verlinkung von Daten
-Grundprinzip: Die konkretesten Dateien sind nach Möglichkeit immer die Quelle von Informationen (d.h. sie enthalten die originalen [[Wörterbuch#^92ddaa|Informationseinheiten]] ( #v/def)). Andere Informationseinheiten, die weniger konkrete oder weniger zu dem Thema zutreffende Informationen enthalten, können die Informationseinheit mit den konkretesten Daten referenzieren
+Grundprinzip: **Bottom->Up**
+Die konkretesten Dateien sind nach Möglichkeit immer die Quelle von Informationen (d.h. sie enthalten die originalen [[Wörterbuch#^92ddaa|Informationseinheiten]] ( #v/def)). Andere Informationseinheiten, die weniger konkrete oder weniger zu dem Thema zutreffende Informationen enthalten, können die Informationseinheit mit den konkretesten Daten referenzieren
 - Bsp.: in dieser Datei stehen Erklärungen zu den wichtigsten Ordnern des Systems, aber in den Ordnern gibt es Dateien, die die Ordnung noch konkreter erklären, daher muss auf diese referenziert/verknüpft werden
+- wäre zu chaotisch, Informationen zu einem Thema über viele nicht aufeinanderfolgende Informationseinheiten zu verteilen, hat keine Übersicht und schwieriger zu suchen, wenn man eine Information verlinken will
 
 ## Dateiformatierung
 - Dateiname: eindeutig und möglichst kurz, Schlüsselwörter in Klammern dahinter möglich, falls sie Suchalgorithmus helfen #z/testen
