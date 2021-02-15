@@ -39,3 +39,11 @@ Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts,
 
 Wissen mit Simon teilen, sobald ich es analysiert habe. (nicht alles auf einmal, einfach wenn ich es gerade finde)
 
+      
+
+-   Systeme für negative Gefühle, Krise?
+
+-   Was machen bei Food Cravings
+
+-   Speedtyping üben
+-   Selbst Affirmationen aufsagen, zb vor Spiege…
