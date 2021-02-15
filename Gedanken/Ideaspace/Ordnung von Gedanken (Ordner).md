@@ -23,7 +23,7 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
  
  Da eine Situationserkennung aktuell zu kompliziert ist, ist die beste Annäherung, dass ich Situationen selber erkennen können muss, und dann möglichst schnell auf das situationsgebundene System zugreifen können muss.
  
- ### Ordnerstruktur
+ ### Dateien
  - **Systeme - Später Testen**: Gedanken zu möglichen Systemen/Handlungen (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Aufbau + Workflow Logik-&Wissenssystem#Ideaspace|Ideaspace]] ( #v/def)
 - \#v Tags für Zustände
 	- \#v/testen
@@ -36,9 +36,8 @@ Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
 -> Wissen + Erkenntnisse ^542e31
 
 ## Tagesnotizen
-sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse
+sind Quick Capture System sowie Ort für täglich wiederholende Ereignisse und **Sollen als Dokumentation meines Lebens dienen**
 		- Traumjournal, andere Journale
 		- Erinnerungen
-	- Alle Inhalte der Tagesnotizen werden regelmäßig analysiert und falls nötig (z.B. wenn es Erkenntnisse sind) in passende Dateien eingeordnet, aber sie bleiben auch unverändert in der Tagesnotiz stehen, denn:
-	- **Sollen als Dokumentation meines Lebens dienen**
+	- Alle Inhalte der Tagesnotizen werden regelmäßig analysiert und falls nötig (z.B. wenn es Erkenntnisse sind) in passende Dateien eingeordnet, aber sie bleiben auch unverändert in der Tagesnotiz stehen
 - Vorlage: [[Vorlage Tagesnotizen]]( #v/zinf )
