@@ -3,14 +3,14 @@
 **Links**:
 
 ---
-# Aufbau + Workflow Logik-&Wissenssystem
 
 # Aufbau + Workflow Logik-&Wissenssystem
 
-Aktueller Zweck des Systems ist alle meine Gedanken und Erkenntnisse zu speichern, sodass ich sie barrierelos verstehen kann, sowie ein Werkzeug für neue Ideen zu sein. ^1dbf82
+= grobes Verzeichnis des Logik&Wissenssystems + Definition von Struktur und Arbeitsregeln
+
+Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenntnisse zu speichern, sodass ich sie barrierelos verstehen kann, sowie ein Werkzeug für neue Ideen zu sein. ^1dbf82
 
 ## Aufbau des Systems + Grundprinzipien
-
 ### Kategorisierung und Einordnung von Daten
 #### Ordner
 -   wird angesehen als eine zusätzliche Möglichkeit Daten zu sortieren einfach grundsätzlich verwenden für Einordnung von Dateien, falls ich eine bestimmte Art von Datei suche kann es behilflich sein, ansonsten aber unwichtig
