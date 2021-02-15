@@ -33,9 +33,6 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
 
 - \#z Tags Systeme:
 	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Systemideen]], da diese per Defintion noch nicht umgesetzt werden
-	-  \#z/testen
-	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
-	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
 
 ## Weltbild
 Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.

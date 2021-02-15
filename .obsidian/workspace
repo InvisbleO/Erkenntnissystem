@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#z/todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +156,13 @@
   "lastOpenFiles": [
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+    "Wörterbuch.md",
     "Todo.md",
     "Gedanken/Systeme/Routinen (zeitbezogene Systeme).md",
     "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Gedanken/Systeme/Systeme - Später testen.md",
     "Systeme - Später testen.md",
-    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
-    "Gedanken/Tagesnotizen/2021-02-14.md"
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md"
   ]
 }
