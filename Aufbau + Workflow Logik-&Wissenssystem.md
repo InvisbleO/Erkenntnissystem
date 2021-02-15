@@ -19,22 +19,22 @@ Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenn
 -   wichtige Ordner erklärt:
 ##### 1 Gedanken
 ![[Ordnung von Gedanken (Ordner)#^01f23c]]
-- [[Ordnung von Gedanken (Ordner)]] ( #v/zinf)
+- [[Ordnung von Gedanken (Ordner)]]
 ##### 2 Hintergrunddaten
 = alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
 ##### 3 Systemrelevante Daten (Obsidian + Erkenntnissystem)
-Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
-
+= Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
 ##### 4-x Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
-**[[Todo]]**:
-Seite, die alle Aufgaben enthält, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden)
+**[[Todo]]**
+![[Todo#^033011]]
 
-**[[Aufbau + Workflow Logik-&Wissenssystem]]**: "README", enthält alle Informationen für Zurechtfindung im System ^7dcbbe
+**[[Aufbau + Workflow Logik-&Wissenssystem]]**
+"README", enthält alle Informationen für Zurechtfindung im System ^7dcbbe
 
-**[[Testen und Updaten!]]**: 
+**[[Testen und Updaten!]]**
 enthält alle aktuellen Tests (sowohl mit Datum als auch ohne) und auf welche Stellen sie sich auswirken
 
-**[[Wörterbuch]]**:
+**[[Wörterbuch]]**
 für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch verbinden ^00f7b0
 
 #### Links

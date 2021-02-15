@@ -1,12 +1,11 @@
 **Erstellung**: 2021-02-13 17:43
 **Tags**:
 **Links**:
-- [[Aufbau + Workflow Logik-&Wissenssystem#Ordner]] ( #v/def)
 
 ---
 
 # Todo
-
+= enthält alle Aufgaben, denen noch kein Zeitpunkt zugeordnet werden kann (nachdem diese aus der Tagesnotiz in Todo übertragen wurden) ^033011
   
 
 ````query
