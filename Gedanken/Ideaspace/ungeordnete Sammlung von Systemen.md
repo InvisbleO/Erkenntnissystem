@@ -5,6 +5,8 @@
 ---
 # ungeordnete Sammlung von Systemen
 
+Da alles verstrickt ist und sich viel ändern kann nach Überlegungsphase, erstmal mit Minimum an Systemen anfangen, um wesentliche Situationen gedeckt zu habenn, Rest vorerst intuitiv behandeln.
+
 ## Allgemein, auch während anderen Systemen
 
 Auf eine Tätigkeit konzentrieren und ihr meine volle Energie geben in der Hinsicht, dass ich weiß, aus welchem Grund ich sie mache und welches Reslutat sie haben wird. #Z/WirdGelernt
