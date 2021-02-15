@@ -5,11 +5,14 @@
 ---
 # ungeordnete Sammlung von Systemen
 
-## Umgebung
+## Umgebung, äußere Arbeit & Organisation
 Arbeitsplatz:
 - Stuhl, Liege, Laufband
 - Tastautur, Maus
 - Licht, Pflanze?
+
+Geldmanagement:
+- 
 ## Mind-Systeme
 
 alle Gedanken aufschreiben in Tagesnotiz

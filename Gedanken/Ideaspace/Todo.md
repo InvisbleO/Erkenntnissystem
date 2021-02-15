@@ -35,7 +35,4 @@ Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts,
 	-   Computer automatisch Traumjournal morgens öffnen
 	-   Smart Home
 	-   iPhone Helligkeit runterregeln 19 Uhr
-	-  
-
--   **elektrische Zahlbürste kaufen, Geld zurück**
--   Andere Tastatur als Apple wegen blöder Anordnung von Ctrl Cmd
+	-   

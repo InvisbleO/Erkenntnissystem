@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Ideaspace/Todo.md",
+            "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
             "mode": "source"
           }
         }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace/Todo.md",
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace/Todo.md"
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md"
               }
             }
           },
@@ -165,15 +165,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Todo.md",
-    "Gedanken/Tagesnotizen/2021-02-15.md",
-    "Untitled.md",
     "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+    "Gedanken/Ideaspace/Todo.md",
+    "Gedanken/Tagesnotizen/2021-02-15.md",
+    "Todo.md",
+    "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-14.md",
     "Wörterbuch.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-    "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
-    "Gedanken/Systeme/Ideen zu Systemen.md"
+    "Gedanken/Ideaspace/Grundprinzipien für Systeme.md"
   ]
 }
