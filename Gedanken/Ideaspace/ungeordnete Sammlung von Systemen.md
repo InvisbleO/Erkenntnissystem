@@ -32,8 +32,9 @@ Geld verdienen
 	- nach Intuition auch als normales Investment, wenn es Potential für guten Anstieg gibt und wenig Risiko
 - #z/todo/fallsÜber450EuroProMonatVerdienen Irgendwann sollte ich auch noch mit Gewerbe etwas Geld verdienen, um technische Geräte und wohnungskosten von Steuer und Krankenversicherung absetzen zu können
 
-### Umgang mit Menschen
-#### Familie #z/todo/Nachdenkphase 
+### Umgang mit Menschen #z/todo/Nachdenkphase 
+Intuitiv und transparent mit Leuten reden mit dem Ziel, dass sie schnell verstehen wie wertvoll mir meine Zeit ist - wichtig: transparent darüber sein, worüber ich nicht transparent sein kann und weshalb
+#### Familie 
 - vorläufiger Umgang mit Familie:
 	-  Mama kann anrufen, wenn sie es braucht
 	-  klar sagen, was mich interessiert und was nicht
