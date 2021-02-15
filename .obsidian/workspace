@@ -4,9 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "742564dec2b3fbe7",
+        "id": "c2c39066dd3efaf4",
         "type": "leaf",
         "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "742564dec2b3fbe7",
+        "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
@@ -34,17 +45,6 @@
           "state": {
             "file": "Gedanken/Tagesnotizen/2021-02-15.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c2c39066dd3efaf4",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Todo.md",
-            "mode": "preview"
           }
         }
       }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace/Grundprinzipien für Systeme.md"
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md"
               }
             }
           },
@@ -165,14 +165,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
+    "Gedanken/Tagesnotizen/2021-02-15.md",
+    "Todo.md",
+    "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
     "Gedanken/Systeme/Ideen zu Systemen.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Wörterbuch.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
-    "Gedanken/Tagesnotizen/2021-02-15.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
-    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
-    "Testen und Updaten!.md",
-    "Gedanken/Tagesnotizen/2021-02-13.md"
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md"
   ]
 }
