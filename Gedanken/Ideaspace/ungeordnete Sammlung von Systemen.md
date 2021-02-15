@@ -33,14 +33,17 @@ Geld verdienen
 - #z/todo/fallsÜber450EuroProMonatVerdienen Irgendwann sollte ich auch noch mit Gewerbe etwas Geld verdienen, um technische Geräte und wohnungskosten von Steuer und Krankenversicherung absetzen zu können
 
 ### Umgang mit Menschen #z/todo/Nachdenkphase 
-Intuitiv und transparent mit Leuten reden mit dem Ziel, dass sie schnell verstehen wie wertvoll mir meine Zeit ist - wichtig: transparent darüber sein, worüber ich nicht transparent sein kann und weshalb
-#### Familie 
-- vorläufiger Umgang mit Familie:
-	-  Mama kann anrufen, wenn sie es braucht
-	-  klar sagen, was mich interessiert und was nicht
-	-  wertschätzend
+Intuitiv und transparent mit Leuten reden mit dem Ziel, dass sie schnell verstehen wie wertvoll mir meine Zeit ist - wichtig: transparent darüber sein, worüber ich nicht transparent sein kann und weshalb #Z/WirdGelernt 
 
-Aurelia anrufen und erklären, wie ich meinen Kontakt regele, sobald ich mir das überlegt habe
+vorläufig:
+-  klar sagen, was mich interessiert und was nicht; nicht über Sachen reden, die mich eigentlich nicht interessieren
+-  wertschätzend
+	
+#### Familie 
+- Mama kann anrufen, wenn sie es braucht
+- Papa und Rest der Familie sollen wenn möglich nicht anrufen
+
+#z/todo Aurelia anrufen und erklären, wie ich meinen Kontakt regele, sobald ich mir das überlegt habe
 
 #### Simon
 
