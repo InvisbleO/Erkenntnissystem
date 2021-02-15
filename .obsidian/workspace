@@ -6,12 +6,11 @@
       {
         "id": "c222efbb9b2c88a9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Unsortierte inspiration für Weltbildstruktur.md",
-            "mode": "source"
+            "file": "Gedanken/Ideaspace/Unsortierte Inspiration für Weltbildstruktur.md",
+            "mode": "preview"
           }
         }
       },
@@ -29,10 +28,11 @@
       {
         "id": "18e52f066d017758",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
+            "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
             "mode": "source"
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unsortierte inspiration für Weltbildstruktur.md",
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unsortierte inspiration für Weltbildstruktur.md"
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md"
               }
             }
           },
@@ -187,9 +187,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
     "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
     "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
+    "Untitled.md",
     "Zu Start von Nachdenkphase (nachdem alle vorläufigen Systeme stehen).md",
     "Gedanken/Ideaspace/Todo.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",

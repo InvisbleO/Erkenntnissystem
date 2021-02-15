@@ -59,11 +59,15 @@ alle Gedanken aufschreiben in Tagesnotiz
 
 Pausensystem: #z/testen
 
-**Fehler- und Lehrenjournal:**
+**Fehler- und Lehrenjournal:** #Z/WirdGelernt 
 hilft mir Muster meiner Fehler zu analysieren, aber auch Rückblicke welche Fehler andere gemacht hätten
 1. Was ist der Fehler?
 2. Warum?
-3. **Wie vermeiden?** - Lehre dazuschreiben, aber auch in Erkenntnisse einsortieren -> Ort für Erkenntnis, welche Fehler 
+3. **Wie vermeiden?** - Lehre dazuschreiben, aber auch in Erkenntnisse einsortieren -> Ort für Erkenntnis, welche Fehler
+
+**Entscheidungsjournal**
+
+
 
 ## Körpersysteme
 Bei erstem Bemerken von Harndrang Zeit dokumentieren in Urinjournal, dann so lange halten wie es möglich ist, effektiv zu arbeiten und erneut Zeit dokumentieren, wenn ich auf dem Klo war.
