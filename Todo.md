@@ -25,3 +25,16 @@ Mac Dateien wo speichern?, Bilder und Dateien analysieren
 Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts, Tagesnotiz, Sorted, Ideensammlungsdatei, Ideaspace
 
 - Siri Shortcut öffne Tagesnotiz für iPhone? nicht wichtig, wenn ich ganze Zeit Markdown App in Cache habe
+
+
+      
+## Liste ohne Zeitpunkte
+-   iPhone, Applewatch Shortcuts einrichten, also Traumjournal öffnen, Roam öffnen etc.
+
+-   White Noise/Affirmation
+-   Mails Checken System
+-   Computer automatisch Traumjournal morgens öffnen
+-   Smart Home
+-   iPhone Helligkeit runterregeln 19 Uhr
+-         
+
