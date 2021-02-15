@@ -20,7 +20,10 @@ Arbeitsplatz:
 Geld verdienen
 - MyDealz An- und Verkauf: vorerst nicht, denn erfordert immer Kapital aus Investments rauszuziehen und nicht wenig Aufwand und ist selten richtig lohnenswert
 - Investments: grundsätzlich ca. 50/50 Krypto-Tesla, wobei Tesla nach Möglichkeit bei Etoro mit 2x hebeln, sodass Kapital ca. 66:33 verteilt ist
-	- Krypto buy and hold: 
+	- Krypto buy and hold: 150€ Doge, Rest BTC
+- 50% von Tesla nach Intuition traden und #z/testen wie traden im vergleich zu hold performt
+- #z/todo Irgendwann muss ich auch noch 
+
 ## Mind-Systeme
 
 alle Gedanken aufschreiben in Tagesnotiz
