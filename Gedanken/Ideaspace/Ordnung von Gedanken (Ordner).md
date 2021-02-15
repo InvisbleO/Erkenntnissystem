@@ -25,11 +25,12 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
  
  ### Dateien
  - **Systeme - Später Testen**: Gedanken zu möglichen Systemen/Handlungen (müssen nicht fertig ausgearbeitet sein, können auch bloße Ansätze sein) -> langfristiger Speicherort für diese Ideen im Gegensatz zu [[Ordnung von Gedanken (Ordner)#Ideaspace|Ideaspace]] ( #v/def)
-- \#p Tags für Umsetzung der Systeme
-	- \#v/testen
-	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
-	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
-	- \z/irgendwannTesten - für handlungsbezogene Ideen, die ich evtl. später ausprobieren möchte, aber noch ohne Zeitpunkt
+
+- \#s Tags Systeme:
+	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Systeme - Später testen]], da diese per Defintion noch nicht umgesetzt werden
+	-  \#s/testen
+	- \#s/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
+	- \#s/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
 
 ## Weltbild
 Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
