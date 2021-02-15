@@ -29,7 +29,8 @@ Geld verdienen
 ### Umgang mit Menschen
 #### Familie #z/todo/Nachdenkphase 
 - vorläufiger Umgang mit Familie:
-	- 
+	-  klar sagen, was mich interessiert und was nicht
+	-  wertschätzend
 
 Aurelia anrufen und erklären, wie ich meinen Kontakt regele, sobald ich mir das überlegt habe
 
