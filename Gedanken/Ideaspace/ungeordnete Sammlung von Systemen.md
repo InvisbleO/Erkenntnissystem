@@ -19,9 +19,9 @@ Arbeitsplatz:
 
 Geld verdienen
 - MyDealz An- und Verkauf: vorerst nicht, denn erfordert immer Kapital aus Investments rauszuziehen und nicht wenig Aufwand und ist selten richtig lohnenswert
-- Investments: grundsätzlich ca. 50/50 Krypto-Tesla, wobei Tesla nach Möglichkeit bei Etoro mit 2x hebeln, sodass Kapital ca. 66:33 verteilt ist
-	- Krypto buy and hold: 150€ Doge, Rest BTC
-- 50% von Tesla nach Intuition traden, denn ich finde es einfach unwahrscheinlich, dass TSLA jetzt sofort steigt, aber Schwankungen sind vllt ausnutzbar, und #z/testen wie traden im vergleich zu hold performt
+- Investments: ca. 50/50 Krypto-Tesla Kapital verteilen, wobei Tesla nach Möglichkeit bei Etoro mit 2x hebeln
+	- Krypto buy and hold: 100€ Doge, Rest BTC
+- 40% von Anfangsinvestition in Tesla nach Intuition traden, denn ich finde es einfach unwahrscheinlich, dass TSLA jetzt sofort steigt, aber Schwankungen sind vllt ausnutzbar, und #z/testen wie traden im vergleich zu hold performt
 	- dazu auch GOOG traden, falls es im Gegenzug zu Tesla dropped
 	- nach Intuition auch als normales Investment, wenn es Potential für guten Anstieg gibt und wenig Risiko
 - #z/todo/fallsÜber450EuroProMonatVerdienen Irgendwann sollte ich auch noch mit Gewerbe etwas Geld verdienen, um technische Geräte und wohnungskosten von Steuer und Krankenversicherung absetzen zu können
