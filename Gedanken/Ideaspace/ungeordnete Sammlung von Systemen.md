@@ -46,6 +46,7 @@ vorläufig:
 #z/todo Aurelia anrufen und erklären, wie ich meinen Kontakt regele, sobald ich mir das überlegt habe
 
 #### Simon
+- für ihn gelten gleiche Regeln wie für alle anderen - er kann mich anrufen, wenn ich nicht Stören an habe, rufe ich zurück
 
 ## Mind-Systeme
 
