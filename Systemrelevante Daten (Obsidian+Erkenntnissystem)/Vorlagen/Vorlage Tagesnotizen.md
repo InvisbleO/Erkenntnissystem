@@ -4,4 +4,7 @@
 - 
 ### Urinjournal
 - 
+### Fehlerjournal (und Lehren)
+### Entscheidungsjournal
+
 ### Gedanken
