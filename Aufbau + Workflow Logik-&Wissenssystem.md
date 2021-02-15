@@ -49,11 +49,13 @@ für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch ver
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
 	-   \#v/sek - Für Themenbereiche/Sekundärstruktur einer Datei einzelne verschiedene Tags, z.B. \#v/sek/Gehirn, \#v/sek/Neurologie… 
 		-   #z/testen Diese kommen aber nicht hinter eine Verknüpfung, sondern an den Anfang einer Seite (nur Seiten bekommen Themenbereiche, Blöcke wäre zu kompliziert)
--   \#z - Zustand einer Stelle (einfaches Attribut)
+-   \#z - Zustand einer Stelle -> bezieht sich also nicht direkt auf den Inhalt, sondern darauf dass an dieser Stelle noch etwas gemacht werden muss
 	-   \#z/testen - Aussage muss geprüft werden durch Testen und dann bestätigt oder korrigiert werden
 	-   \#z/todo - Signal, dass eine Stelle nicht als fertig bearbeitet angesehen wird und es wird auf eine Voraussetzung gewartet, damit das gemacht werden kann
 		-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren - dieser Tag erscheint in der Notiz "Todo" - in dieser wird regelmäßig geprüft, ob für ein todo neue Informationen vorhanden sind, wann es erledigt werden kann - wenn ja, dann dieses Datum planen und wenn es erledigt ist, dann einfach den tag \#z/todo aus der Stelle, die unvollständig war, entfernen
 	-   \#z/irgendwann - Stellen, bei denen ich keinen Zeitpunkt abschätzen kann, weil (1) dieser unabhängig von mir ist, z.B. Entwicklung neuer Obsidian-Features, oder (2) der Zeitpunkt in ferner Zukunft liegt
+	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
+	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
 
 #### Codezeichen
 -    im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)

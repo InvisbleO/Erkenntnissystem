@@ -28,13 +28,14 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
 	 - sind verknüpft mit fachwissen oder mit bereits umgesetzten verwandten Systemen
  - unsicher, wie ich Systeme noch aufgliedern möchte - sollte wahrscheinlich schon irgendwie aufgegliedert werden, da es extrem viele Systeme geben wird
 	 - in zeitbezogen und situationsbezogen ist eigentlich völlig unwichtig, wenn überhaupt als sekundäre Einrdonung, weil das nicht wichtig ist für Ausführung
-	 - eher thematische Einordnung, das ist a
+	 - eher thematische Einordnung, das ist aber schwierig, falls sich Themen überschneiden und generell kompliziert...
+	 - #z/todo 
 
-- \#s Tags Systeme:
+- \#z Tags Systeme:
 	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Systemideen]], da diese per Defintion noch nicht umgesetzt werden
-	-  \#s/testen
-	- \#s/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
-	- \#s/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
+	-  \#z/testen
+	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
+	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
 
 ## Weltbild
 Alle Informationen, die die Welt (hauptsächlich Funktionsweise) beschreiben.
