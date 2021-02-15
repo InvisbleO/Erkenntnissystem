@@ -23,8 +23,10 @@ Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenn
 
 ##### 2 Hintergrunddaten
 = alle Daten, die nicht systemrelevant sind oder mit Erkenntnissen und alltäglichen Handlungen zu tun haben, z.B. Fotos von Personalausweis etc.
+
 ##### 3 Systemrelevante Daten (Obsidian + Erkenntnissystem)
 = Dateien, die innerhalb von Obsidian eine Rolle spielen, z.B. Datenbank für Mediendateien
+
 ##### 4-x Einzelne Dateien mit spezifischer Bedeutung, Erklärung weiter unten
 **[[Todo]]**
 ![[Todo#^033011]]
