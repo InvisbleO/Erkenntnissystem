@@ -6,6 +6,7 @@
       {
         "id": "c2c39066dd3efaf4",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "aea28fd29388c8e5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörterbuch.md",
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörterbuch.md"
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md"
               }
             }
           },
@@ -175,8 +175,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Wörterbuch.md",
     "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+    "Wörterbuch.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
