@@ -6,6 +6,7 @@
       {
         "id": "742564dec2b3fbe7",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "8167eccb212f87c9",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
               }
             }
           },
@@ -176,10 +176,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
-    "Wörterbuch.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Wörterbuch.md",
     "Todo.md",
     "Gedanken/Systeme/Routinen (zeitbezogene Systeme).md",
     "Untitled.md",

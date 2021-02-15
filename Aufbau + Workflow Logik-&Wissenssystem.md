@@ -40,7 +40,7 @@ für komplexere Begriffe, diese Begriffe dann mit dem Eintrag im Wörterbuch ver
 -   Unmentioned Links sind irrelevant für Verständnis
 
 #### [[Wörterbuch#Tags|Tags]]
-![[Wörterbuch#^b984eb]] (#v/def)
+![[Wörterbuch#^b984eb]] ( #v/def)
 #### Codezeichen
 -    im Titel (zur Kategorisierung der Datei, theoretisch auch in Überschriften von Blöcken möglich)
 -   Vorerst nicht, nur bei Bedarf
@@ -52,7 +52,7 @@ Grundprinzip: Die konkretesten Dateien sind nach Möglichkeit immer die Quelle v
 ## Dateiformatierung
 - Dateiname: eindeutig und möglichst kurz, Schlüsselwörter in Klammern dahinter möglich, falls sie Suchalgorithmus helfen #z/testen
 - Struktur: #z/testen
-	- dateispezifische Tags, Attribute und Links stehen für jede Datei identisch nach dem festen Muster einer [[Allgemeine Dateivorlage]]( #v/def) an einer Stelle der Datei
+	- dateispezifische Tags, Attribute und Links stehen für jede Datei identisch nach dem festen Muster einer [[Allgemeine Dateivorlage]] an einer Stelle der Datei
 	- wenn möglich überschriften für Primärstruktur nutzen, da sie Verlinkung von Blöcken ermöglichen
 	- Listen mit Anstrichen oder Nummerierung für alles, was keine weitere Unterteilung in Blöcke erfordert 
 	-  Wenn keine Hierarchie möglich ist, sondern es eine kausale Kette ist, dann diese als Folge von Blöcken, die voneinander getrennt sind, von denen jeder vermutlich nicht mehr aufgeteilt wird
@@ -60,7 +60,8 @@ Grundprinzip: Die konkretesten Dateien sind nach Möglichkeit immer die Quelle v
 - Regeln:
 	- entsprechend des [[#^1dbf82|Zweck des Systems]] ( #v/def) keine spezifischen Regeln für Sprache, außer dass alle Stellen so formuliert sein müssen, dass ich sie jederzeit verstehen kann
 		- Beispiele sind hilfreich um sich in den Gedanken hineinzuversetzen, ausreichend erklären
-	- [[#^00f7b0|Wörterbuch]] ( #v/def)
+	- [[#^00f7b0|Wörterbuch]] zur Erklärung von Begriffen
+		- diese Begriffe müssen, wenn sie verwendet werden nicht mit dem Eintrag im Wörterbuch verbunden werden, Hauptsache der Eintrag kann im Wörterbuch gefunden werden
 	- Sprache (Wortwahl, etc.) #z/todo
 
 ## Workflow
