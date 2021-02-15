@@ -31,7 +31,7 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
 	 - eher thematische Einordnung, das ist aber schwierig, falls sich Themen überschneiden und generell kompliziert...
 	 - #z/todo 
 
-- \#z Tags Systeme:
+- [[Wörterbuch#Tags|#z Tags für Systeme]]:
 	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Systemideen]], da diese per Defintion noch nicht umgesetzt werden
 
 ## Weltbild
