@@ -56,6 +56,8 @@ alle Gedanken aufschreiben in Tagesnotiz
 -   Wenn mir abends noch Gedanken nach Gedankenanalyse kommen, dann diese in handy bzw- Watch eintragen und am nächsten Tag gemeinsam mit den Tagesgedanken analysieren
 -   #z/todo 
 
+Pausensystem: #z/testen 
+
 ## Körpersysteme
 Bei erstem Bemerken von Harndrang Zeit dokumentieren in Urinjournal, dann so lange halten wie es möglich ist, effektiv zu arbeiten und erneut Zeit dokumentieren, wenn ich auf dem Klo war.
 
