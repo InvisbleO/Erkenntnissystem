@@ -28,6 +28,7 @@
       {
         "id": "3b49d776bb6c15c8",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -50,7 +51,6 @@
       {
         "id": "f81bf0db4ed71015",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -76,7 +76,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+            "file": "Wörterbuch.md",
             "mode": "source"
           }
         }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md"
               }
             }
           },
@@ -189,24 +189,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 328
   },
   "lastOpenFiles": [
+    "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-    "Gedanken/Ideaspace/Ideensammlung.md",
+    "Gedanken/Systeme/Ideen zu Systemen.md",
     "Wörterbuch.md",
+    "Gedanken/Ideaspace/Ideensammlung.md",
     "Gedanken/Ideaspace/Todo.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Tagesnotizen/2021-02-16.md",
-    "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Ideaspace/Unsortierte Inspiration für Weltbildstruktur.md",
-    "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
-    "für Simon.md"
+    "Gedanken/Ideaspace/Grundprinzipien für Systeme.md"
   ]
 }

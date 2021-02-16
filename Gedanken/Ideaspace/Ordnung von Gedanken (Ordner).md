@@ -28,14 +28,12 @@ Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit berei
  Da eine Situationserkennung aktuell zu kompliziert ist, ist die beste Annäherung, dass ich Situationen selber erkennen können muss, und dann möglichst schnell auf das situationsgebundene System zugreifen können muss.
  
  ### Dateien
- [[Ideen zu Systemen]]
- ![[Ideen zu Systemen#^f2d4df]]
  
  - unsicher, wie ich Systeme noch aufgliedern möchte - sollte wahrscheinlich schon irgendwie aufgegliedert werden, da es extrem viele Systeme geben wird
 	 - in zeitbezogen und situationsbezogen ist eigentlich völlig unwichtig, wenn überhaupt als sekundäre Einrdonung, weil das nicht wichtig ist für Ausführung
 	 - eher thematische Einordnung, das ist aber schwierig, falls sich Themen überschneiden und generell kompliziert...
 	 - #z/todo 
- - # für Verpflichtungen, dann die Verpflichtungen einordnen an die Stelle, die sie beeinflussen
+ - für Verpflichtungen, dann die Verpflichtungen einordnen an die Stelle, die sie beeinflussen
 
 - [[Wörterbuch#Tags|#z Tags für Systeme]]:
 	- Systeme, die keinen Tag haben, werden als funktionierend und angewöhnt angesehen, außer Systeme in [[Ideen zu Systemen]], da diese per Defintion noch nicht umgesetzt werden
