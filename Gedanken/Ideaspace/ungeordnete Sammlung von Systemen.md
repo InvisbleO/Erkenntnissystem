@@ -23,7 +23,34 @@ Arbeitsplatz:
 - Tastautur, Maus
 - Licht, Pflanze?
 
-### Digitales Setu
+### Digitales Setup
+
+-   Gründe für verschiedene Adressen: 
+	-   inhaltliche Aufteilung von Posteingängen
+	-   Sicherheit: Personen sollten möglichst keinen Zugriff haben auf eine Mailadresse, mit der ich auch meine Accounts verwalte bzw. Auf die Accounts, weil bei manchen Accounts die Sicherheitsmechanismen zu schwach sind
+	-   normale Verwaltung und verdächtige 	Verwaltung 
+	-   Adressen die zugespamt werden könnten teilen von sicheren Adressen
+
+Mail-Adressen:
+-   [oskar.kirchner.p@gmail.com](mailto:oskar.kirchner.p@gmail.com) - Kontakt: für Menschen mit denen ich Kontakt habe, privat und Verwaltung (die ja auch an person gebunden ist)
+-   [Oskar.kirchner.cc@gmail.com](mailto:Oskar.kirchner.cc@gmail.com) - für Kontakt mit Menschen über Webseite
+-   [Oskar.kirchner.c@gmail.com](mailto:Oskar.kirchner.c@gmail.com) - Spam: hauptsächlich für öffentlichen Kontakt + verdächtige Leute, die es missbrauchen könnte, z.B. Ebay Kleinanzeigen Betrüger, + für unsichere Accounts, die Mail weitergeben könnten
+-   [Oskar.kirchner.a@gmail.com](mailto:Oskar.kirchner.a@gmail.com) - Verwaltung: Finanzen + Login, auch iCloud und Google Konto
+-   [o\_kirchner@icloud.com](mailto:o_kirchner@icloud.com) - vorherige Adresse für iCloud Konto, wird weitergeleitet auf Gmail Konto, bleibt bestehen falls später gebraucht oder für manche Apple Funktionen
+-   [Oskar.kirchner@hhu.de](mailto:Oskar.kirchner@hhu.de) (nicht weitergeleitet wegen Aufwand), daher beim Mails prüfen auf Handy diese Adresse prüfen
+
+Google Anmeldung nutzen ist ok, da Übersicht in Chrome, Google sagt selber nur bei vertrauenswürdigen Anbietern
+
+Apple Anmeldung nicht, da keine Übersicht
+
+**Sicherheit**
+
+iPhone, iPad Gerätepasswort für jetzt nur PIN wegen unterwegs, sobald unterwegs FaceID wieder funktioniert auf Passwort umstellen
+- Sehr darauf achten, dass niemand die PIN sieht
+
+Alle PW in Chrome/iCloud speichern, sollte in beiden drin sein, damit auch auf iPhone in Apps einloggen möglich ist, aber reicht aus, das PW einfach zu übertragen wenn es benötigt wird
+
+Simon bekommt mein iCloud und Google Passwort für den Fall dass ich sterbe oder auf sonstige Weise nicht mehr an meine Sachen rankomme
 
 ### Geld
 - Ideal wäre eine Kreditkarte, die automatisch von meinem Hauptkonto abbucht, damit ich nur das Hauptkonto im Blick haben muss #z/irgendwann 
