@@ -101,6 +101,11 @@ hilft mir Muster meiner Fehler zu analysieren, aber auch Rückblicke welche Fehl
 **Entscheidungsdokumentation**
 - Alle Entscheidungsprozesse, deren Ergebnis mich länger als eine Woche beeinflussen wird, dokumentieren um bei neuen Informationen zu entscheiden, ob die den damaligen Entscheidungsausgang verändern würden, oder ob der Entscheidungprozess generell schlecht war -> an der Stelle, wo der Ausgang hingeschrieben wird, auch Begründung hinschreiben bzw. verlinken
 
+### Pausen
+#z/evtl 
+- 10min Naps in Pausen? Für Effektivität genauso gut wie 20 min
+- Spaziergang oder ähnliches: Geändertes Umfeld steigert auch Kreativität
+
 
 ## Körpersysteme
 Bei erstem Bemerken von Harndrang Zeit dokumentieren in Urinjournal, dann so lange halten wie es möglich ist, effektiv zu arbeiten und erneut Zeit dokumentieren, wenn ich auf dem Klo war.
@@ -110,6 +115,12 @@ Insgesamt 3,5l trinken (abends 1/2 Glas, morgens 1Glas, tagsüber 2 Gläser) ent
 Einfach jetzt darauf konzentrieren, den Körper gesund und nachhaltig zu trainieren, und dabei noch versuchen abzunehmen, aber falls hungrig oder lila Hände, dann einfach etwas mehr essen und falls dann Anfang März keine Änderungen sichtbar sind, dann einfach Energiekonsum auf Maintenance Level hochschrauben und 1-3 Monate normal traineren um mehr Muskeln aufzubauen und Körper wieder ins Gleichgewicht zu bringen #z/testen/geplant
 
 ### Schlaf
+ - #z/evtl :
+	 - Tim Ferris’s Cold Shower 1h befor Sleep (extrem beruhigend), letztes großes Essen 3h vorher, HuperzineA auch gut für Schlaf
+	 - Vllt vor dem Sxhlaf 100-250kcal essen
+	 - Tim Ferris’s Wundermittel vor dem Sxhlaf wie dieser Titan Tee
+	 - Rückgrat lockern vor Schlaf
+
 
 
 #z/todo
