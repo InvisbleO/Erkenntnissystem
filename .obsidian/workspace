@@ -20,6 +20,18 @@
         "state": {
           "type": "markdown",
           "state": {
+            "file": "Gedanken/Ideaspace/Unsortierte Inspiration für Weltbildstruktur.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3b49d776bb6c15c8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
             "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
             "mode": "source"
           }
@@ -39,7 +51,6 @@
       {
         "id": "2be88b18e9be0053",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -55,17 +66,6 @@
           "type": "markdown",
           "state": {
             "file": "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "742564dec2b3fbe7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
             "mode": "source"
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace/Todo.md",
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace/Todo.md"
+                "file": "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md"
               }
             }
           },
@@ -187,15 +187,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
+    "Gedanken/Ideaspace/Unsortierte Inspiration für Weltbildstruktur.md",
+    "Gedanken/Ideaspace/Grundprinzipien für Systeme.md",
     "Gedanken/Ideaspace/Todo.md",
     "für Simon.md",
     "Gedanken/Arbeit/Mana Dokumenatation.md",
     "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-16.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
-    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
-    "Testen und Updaten!.md",
-    "Gedanken/Ideaspace/Unsortierte Inspiration für Weltbildstruktur.md",
-    "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md"
+    "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md"
   ]
 }

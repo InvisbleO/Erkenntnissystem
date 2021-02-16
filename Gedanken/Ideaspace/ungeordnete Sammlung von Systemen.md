@@ -7,6 +7,10 @@
 
 Da alles verstrickt ist und sich viel ändern kann nach Überlegungsphase, erstmal mit Minimum an Systemen anfangen, um wesentliche Situationen gedeckt zu habenn, Rest vorerst intuitiv behandeln.
 
+Grundprinzip:
+Bei Erstellung von Systemen bestimmen, für welchen Zeitraum und unter welchen Voraussetzungen die Systeme gelten werden und entsprechend dieser Voraussetzungen abschätzen, welchen Wert das System haben wird und wie viel Aufwand ich darein investieren kann, damit es sich noch lohnt 
+-  Bsp. unveränderte Tätigkeiten wie Hygiene, wo ich keine neuen Informationen erwarten kann, auf langen Zeitraum auslegen. Im Gegenzug Lampeninstallation in Wohnung bringt höchstens bis zum Auszugstermin etwas
+
 ## Allgemein, auch während anderen Systemen
 
 Auf eine Tätigkeit konzentrieren und ihr meine volle Energie geben in der Hinsicht, dass ich weiß, aus welchem Grund ich sie mache und welches Reslutat sie haben wird. #Z/WirdGelernt
@@ -19,7 +23,9 @@ Arbeitsplatz:
 - Tastautur, Maus
 - Licht, Pflanze?
 
-#### Geldmanagement
+### Digitales Setu
+
+### Geld
 - Ideal wäre eine Kreditkarte, die automatisch von meinem Hauptkonto abbucht, damit ich nur das Hauptkonto im Blick haben muss #z/irgendwann 
 	- Amazon Kreditkarte beantragen, sobald ich ein stabileres Einkommen habe #z/todo/wennIchGeldVerdiene
 - Bis dahin möglichst viele Geldflüsse über das Hauptkonto abwickeln, auf Kreditkarte standardmäßig 100€ halten, falls ich aus irgendwelchen Gründen nicht sofort Geld raufladen kann, sowie Kosten immer direkt ausgleichen, wenn sie entstehen

@@ -133,3 +133,7 @@ Ordnung in alle äußeren Umstände schaffen, um dann Fokus auf Routinen und neu
 
 -   Aufhören mit Rülpsen und popeln
 -   XX Turniere, Fotoalbum von mir?
+
+
+#z/todo/wennNachdenkphasefertig
+Bekannten sagen, wie sie mich kontaktieren können, neue Mail-Adresse geben evtl. auch neue Nummer
