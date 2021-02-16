@@ -32,7 +32,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Tagesnotizen/2021-02-15.md",
+            "file": "Gedanken/Tagesnotizen/2021-02-16.md",
             "mode": "source"
           }
         }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Tagesnotizen/2021-02-15.md",
+                "file": "Gedanken/Tagesnotizen/2021-02-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Tagesnotizen/2021-02-15.md"
+                "file": "Gedanken/Tagesnotizen/2021-02-16.md"
               }
             }
           },
@@ -176,6 +176,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Tagesnotizen/2021-02-16.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
     "Gedanken/Arbeit/Mana Dokumenatation.md",
     "Gedanken/Ideaspace/Ordnung von Gedanken (Ordner).md",
@@ -184,7 +185,6 @@
     "Gedanken/Ideaspace/Todo.md",
     "Gedanken/Ideaspace/Unsortierte Inspiration für Weltbildstruktur.md",
     "Gedanken/Ideaspace/ungeordnete Sammlung von Systemen.md",
-    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md",
-    "Zu Start von Nachdenkphase (nachdem alle vorläufigen Systeme stehen).md"
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Vorlage Tagesnotizen.md"
   ]
 }
