@@ -22,39 +22,32 @@ Bis jetzt 78+65 Portionen Pulver
 
   
 
-15.2
+16.2
+Oskar
+8 Powder + 30g Protein, 12.30 Powder, 15.30 Drink, 19 Powder + 30g Protein
 
+15.2.
 Oskar
 8 Powder + 30g Protein, 11.30 Drink, 15.30 Drink, 19 Powder + 30g Protein
 
-  
-
 14.2
-
 Oskar: 7 Powder + 30g Protein, 10.30 Drink, 14.30 Drink, 18 Powder + 30g Protein
 
-  
-
 13.2
-
 Oskar: 7 Powder + 30g Protein, 10.30 Powder, 14.30 Powder, 18 Powder + 30g Protein
 
 From now on for Oskar:
-
 Drinking: 3-3,5l incl. water in Mana (approximately 1.1l in morning, 1.7-2.2l throughout the day, 0.2-0.3l before going to bed)
-
 activity: mostly sedentary, ca. 1h strength training in the morning (on empty stomach), some very light walking in the afternoon
 
   
 
 12.2
-
 Oskar: 7 Powder + 30g Protein, 10.30 Powder, 14.30 Drink, 18 Powder + 30g Protein
 
   
 
 11.2
-
 Oskar: 8 Powder + 30g Protein, 11.30 Drink, 15 Powder, 18 Powder + 30g Protein
 
   

@@ -42,8 +42,6 @@ Wissen mit Simon teilen, sobald ich es analysiert habe. (nicht alles auf einmal,
       
 
 -   Systeme für negative Gefühle, Krise?
-
--   Was machen bei Food Cravings
-
+	-   Was machen bei Food Cravings
 -   Speedtyping üben
--   Selbst Affirmationen aufsagen, zb vor Spiege…
+-   Selbst Affirmationen aufsagen, zb vor Spiegel
