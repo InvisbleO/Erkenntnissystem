@@ -22,6 +22,9 @@ Simon seine Haftpflicht und Hausratversicherung Zahlungsart umstellen
 -   Dateien in nicht geteiltem Ordner prüfen
 -   Notiz mit Büchern
 -   GDG
+-   Notiz mit Motivationssprüchen
+-   Notiz mit was ich gerne im Traum machen würde
+-   GitHub Passwort, von dem Account wo Backup vom Ordnersystem drauf ist - kann es sein, dass ich das gelöscht habe??
 
 Oskar Ahoop entweder login@ (Freundebonus, alt) oder f@ Weil da meiste Sachen gemacht
 
@@ -30,3 +33,6 @@ Dnalifestly anmelden
 Vodafone Vertrag auf 20€ umstellen
 
 Unseren gemeinsamen Chat brauche ich noch, evtl auch Chats mit Peter und gemeinsame
+
+
+Absprechen, welche Informationen wir miteinander teilen?

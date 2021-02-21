@@ -1,10 +1,8 @@
 {{time:HH:mm}}
 
 ### Traumjournal
-- 
 ### Urinjournal
-- 
-### Fehlerjournal (und Lehren)
-### Entscheidungsjournal
-
+### Aktuelle mittelfristige Ziele (inkl. kurzfristiger Zwischenziele)
+- Nicht auf dem Bauch schlafen
+### Erfolgsjournal
 ### Gedanken
