@@ -136,6 +136,9 @@ Geld verdienen
 ### Umgang mit Menschen #z/todo/Nachdenkphase 
 Intuitiv und transparent mit Leuten reden mit dem Ziel, dass sie schnell verstehen wie wertvoll mir meine Zeit ist - wichtig: transparent darüber sein, worüber ich nicht transparent sein kann und weshalb #Z/WirdGelernt 
 
+übereindeutige Kommunikation ist sinnvoll, weil Gegenüber und man selber können einen schlechten und unachtsamen Tag haben und außerdem können Begriffe an sich auch missverstanden werden - dann sollte man sie zwar sowieso noch genauer erklären, aber diese Unterscheidung zu treffen ist unnötige Energie, weil man sich dann immer an Gegenüber anpassen muss bewusst
+- es ist so wenig Aufwand für doppelte Absicherung zu sorgen und Human Error ist größte Fehlerquelle - Selber größtenteils (halt in sinnvollem Maß mit doppelt eindeutiger Erklärung) in die Hand nehmen, dass etwas richtig verstanden wird und nicht dem anderen überlassen
+
 vorläufig:
 -  klar sagen, was mich interessiert und was nicht; nicht über Sachen reden, die mich eigentlich nicht interessieren
 -  wertschätzend
