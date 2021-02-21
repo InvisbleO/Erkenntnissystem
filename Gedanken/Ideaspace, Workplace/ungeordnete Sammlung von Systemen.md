@@ -267,7 +267,7 @@ MindLab Pro 2x morgens und nach 5 Tagen 2 Tage Pause
 
 ## Körpersysteme
 ### Morgenroutine (Gesamtdauer ca. 100 min)
-- Sofort Wecker ausschalten, keine Sekunde zögern
+- Wecker ausschalten
 	-   Falls nicht Wecker klingelt: Ich denke, wenn ich aufwache und es sich normal anfühlt, dann sofort aufstehen, ansonsten falls es sich ungewöhnlich anfühlt Uhrzeit prüfen, ab ca. 45 min vor geplanter Aufstehzeit sollte ich (intuitiv) nicht mehr weiterschlafen, falls ich aufwache
 -   15min: Traumjournal in iPhone in eine Draft Notiz diktieren und Träume analysieren nach Traumzeichen etc. + weitere Gedanken aufschreiben, falls mir etwas einfällt
 -   5min: Aufstehen, Fenster auf, Decke an die Seite von Bett legen, auf das Klo gehen, Zahnschiene auswaschen und in Case legen, Posalbe auftragen, 1 Glas Wasser trinken, Fenster zu, Hörbuch anschalten, Schuhe anziehen
@@ -307,7 +307,6 @@ Weitere Ideen zu Morgenroutine: #z/evtl
 -   #z/nurAktuell vor Gedankenanalyse 10min keybr bis ich das ganze 3x durch habe, ab da einfach hier Fokus auf schnell schreiben
 -   10 min Mails prüfen und beantworten oder falls Antwort zu lange dauert, diese für morgens einplanen
 -   ca. 30min: Tagesnotiz analysieren (Erkenntnisse alle aufschreiben und nicht im Kopf behalten)
-	- Meine Performance eintragen unter aktuelle mittelfristige Ziele in der Tagesnotiz - Überprüfen, ob ich auf Track bin, meine Ziele zu erreichen, ggf. Änderungen machen
 -   15min: [[Tagesplan erstellen]]
 -   Puffer: 15 min
 -   5min: Erfolgsjournal schreiben und in Zeit die von Puffer übrig bleibt vergangene Erfolge ansehen
@@ -393,9 +392,7 @@ viele konkrete und sich ändernde Informationen, daher siehe [[Bodybuilding und 
  Ziel ist Flexibel und ca. 4-8x pro Tag auf Klo gehen, dafür aktuell Urinjournal und Harndrang aushalten #Z/WirdGelernt
 ### Allgemein
 
-Duschen und Zähne Putzen mit links für ausgeglichenere Muskulatur und vllt Gehirntraining wie Jim Kwik	#Z/WirdGelernt 
-
-Sport), wird generell als gesünder angesehen (angeblich auch bei Sport möglich)
+Durch Nase atmen (bis auf bei Sport), wird generell als gesünder angesehen (angeblich auch bei Sport möglich)
 
 #z/nurAktuell/bisPoGeheilt 2x täglich Po eincremen und feuchtes Klopapier nutzen, um die Entzündung zu heilen 
 
