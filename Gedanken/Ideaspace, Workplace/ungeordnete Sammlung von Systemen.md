@@ -309,6 +309,9 @@ Weitere Ideen zu Morgenroutine: #z/evtl
 
 #z/testen ob kalte Dusche oder Wechselduschen mir nicht Energie wegnimmt im Vergleich zu entweder milderes Wechselduschen oder lauwarm
 
+alte morgenroutine, falls ich sie doch nochmal nutzen möchte #z/evtl 
+-   gezielte Meditation: einordnen in Universum, Tag Glück und einmalige Chance, desw. bester tag des Lebens. Wünsche, Vision, Ziel bewusst machen, dann Visualisierung. Auf tag blicken, welchen Teil zu Ziel beitragen, nie wieder möglich, denn tag einzigartige chance und leben, genau das tun wenn letzter tag? Bestätigung wenn richtig. ängste spüren und logisch lösen, Visualisierung von Tagesziel, sagen was man genießen, erleben und erreichen wird. Schlusswort: jede minute teil von Leben und für immer weg, wert 110%, schlage Zukunftsich,
+
 ### Abendroutine (Gesamtdauer aktuell ca. 100min)
 -   #z/nurAktuell 20.30 kalt Duschen
 -   #z/nurAktuell vor Gedankenanalyse 10min keybr bis ich das ganze 3x durch habe, ab da einfach hier Fokus auf schnell schreiben
