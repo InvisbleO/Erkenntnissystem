@@ -54,7 +54,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Tagesnotizen/2021-02-19.md",
+            "file": "Gedanken/Tagesnotizen/2021-02-20.md",
             "mode": "source"
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Tagesnotizen/2021-02-19.md",
+                "file": "Gedanken/Tagesnotizen/2021-02-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Tagesnotizen/2021-02-19.md"
+                "file": "Gedanken/Tagesnotizen/2021-02-20.md"
               }
             }
           },
@@ -187,15 +187,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Tagesnotizen/2021-02-20.md",
     "Gedanken/Tagesnotizen/2021-02-19.md",
+    "Gedanken/Ideaspace, Workplace/Todo.md",
     "Gedanken/Tagesnotizen/2021-02-21.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Tagesnotizen/2021-02-18.md",
-    "Gedanken/Ideaspace, Workplace/Todo.md",
     "Gedanken/Tagesnotizen/2021-02-17.md",
     "Gedanken/Tagesnotizen/2021-02-16.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
-    "für Simon.md",
-    "Gedanken/Tagesnotizen/2021-02-14.md"
+    "für Simon.md"
   ]
 }

@@ -32,6 +32,9 @@ Oder halt separaten Ordner in Weltbild schaffen da es die logscihe Ordnung ist, 
 Was mit Projekten?
 Wphin persönliche Entwciklung?
 
+in Todo notiz Blöcke wo steht was ich in wichtigen Situationen mache? Oder nur in Tagesnotizen und eindeutigen leicht findbaren tag setzen, aber dann kann ich diese ja nie entfernen, daher besser in Todo
+z.B. was ich jetzt Mama sagen will oder auch nicht sagen will - ist nämlich wichtig, wenn ich ich mich nachträglich dagegen entscheide, etwas zu tun, kann ich das in manchen Momenten vergessen, daher darf ich mich nicht auf Gedächtnis verlassen, sondern am Anfang dieser wichtigen Situationen schauen ob ich mir etwas dafür aufgeschrieben habe
+
 
 Obsidian testen Bilder, Video einfügen
 Simon fragen was er von Roam rausgefunden hat
