@@ -46,6 +46,8 @@ Wenn ich anfange, dann wichtig ist, hohe Peak Performance zu erreichen, ist auch
 Anfang von Nachdenkphase solange ich mich selber erforschen will:
 - Simon bei nichts helfen, was er nicht auch alleine mindestens Halb so gut machen kann - ist wahrscheinlich langfrisitg nicht richtig, aber für jetzt wo ich meine höchste Konzentration auf mich brauche und weiß, dass ich mich von Simon beeinflussen lassen könnte, ist es besser einen übertriebenen Cut zu machen
 
+Regel für alle Entscheidungen, die von Plan abweichen 5min aktiv damit auseinandersetzen, bis ich entscheiden darf, sie abzuändern
+
 
 
 
