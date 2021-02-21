@@ -31,6 +31,7 @@ Obsidian testen Bilder, Video einfügen
 Simon fragen was er von Roam rausgefunden hat
 - evtl. selber Roam testen, falls es für mich in Frage kommt
 
+GitHub fixen?
 
 Simon meine Notizen schicken
 
@@ -56,4 +57,3 @@ Wenn ich nach Hause fahre:
 - Fahrrad reparieren
 - Tools der Titiaten mitnehmen oder fotografieren
 - haare schneiden lassen
-
