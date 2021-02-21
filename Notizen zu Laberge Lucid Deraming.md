@@ -64,7 +64,7 @@ Targets überlegen, also sich bestimmte Situationen als Ziel vornehmen und dann 
 Konkrete Ereignisse, kommt nicht so darauf an dass es Traumzeichen sind, sondern hauptsächlich dass man ein bestimmtes Objekt in dem Moment erkennt.
 
 Buddhisten sagen sich, dass alles ein Konstrukt des gehirns ist, also alles ist ein Traum, dann erändert man sich auch im Traum daran
-"Try to **remain continued conscioussness** between waking and sleeping world."
+"Try to **reain continued conscioussness** between waking and sleeping world."
 
 **MILD**
 Affirm Intention do recognize
@@ -141,6 +141,8 @@ Hinschreiben, malen hilft
 Darunter sagen, wenn ich davon träume, merke ich dass ich träume
 Im Bett visualisieren wie ich luzid werde, Satz wiederholen
 
-
-
 Idee für RCs wäre Siri sagt laut ich träume
+
+Spinning kann man auch nutzen für neue Traumszene erzeugen
+
+Szene ändern geht auch mit dem Mindtrick, sich vorzustellen, ganze Welt wäre nur auf einem Bildschirm und ich hätte Fernbedienung für Channel Wechsel in der Hand
