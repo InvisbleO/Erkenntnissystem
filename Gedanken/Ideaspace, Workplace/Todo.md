@@ -32,6 +32,7 @@ Simon fragen was er von Roam rausgefunden hat
 - evtl. selber Roam testen, falls es für mich in Frage kommt
 
 GitHub fixen?
+Ladekabel ankleben oder in irgendeine gute Position
 
 Simon meine Notizen schicken
 
