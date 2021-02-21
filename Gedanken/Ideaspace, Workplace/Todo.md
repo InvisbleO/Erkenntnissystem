@@ -41,7 +41,7 @@ Bevor ich anfange mit Nachdenkphase, brauche ich klaren, heftigen Antrieb, kann 
 
 Könnte auch sein, dass ich mir noch mehr Zeit nehme als einen Tag Pause, extreme Motivation was ich will
 
-Wenn ich anfange, dann wichtig ist, hohe Peak Performance zu erreichen, ist auch ok wenn anfa
+Wenn ich anfange, dann wichtig ist, hohe Peak Performance zu erreichen, ist auch ok wenn anfangs in machen Zeiten noch nicht so effieizent, das kommt dann automatisch mit Zeit
 
 
 
@@ -60,3 +60,4 @@ Wenn ich nach Hause fahre:
 - Fahrrad reparieren
 - Tools der Titiaten mitnehmen oder fotografieren
 - haare schneiden lassen
+- mein Erinnerungsbuch von Familie holen
