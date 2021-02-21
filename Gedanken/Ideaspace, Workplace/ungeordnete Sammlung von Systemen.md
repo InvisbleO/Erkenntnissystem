@@ -321,7 +321,7 @@ Weitere Ideen zu Morgenroutine: #z/evtl
 -   Das allerwichtigste an der Zeitplanung ist zu wissen, welche Aufgabe wie viel Zeit dauern darf, deshalb in 5min Blöcken planen, automatische Benachrichtigungen sind nicht so wichtig
 -   Zuerst alle ungeordneten Gedanken des Tages sortieren - Aufgaben daraus ableiten und diese einem Ziel unterster Ebene zuordnen
 	-   [[Todo]] prüfen, was gemacht werden kann
-	-   /#wirdGelernt anschauen und je nach Auslastung des Tages 1-3 zu lernende Systeme aussuchen und auf diese an dem Tag besonders fokussieren, 
+	-   /#wirdGelernt anschauen und je nach Auslastung des Tages 1-3 zu lernende Systeme aussuchen (diese in Tagesnotiz von nächstem Tag reinschreiben) und auf diese an dem Tag besonders fokussieren, evtl. kleine Ziele setzen
 -   Aufgabenstellung messbar, zeitgebunden und präzise formulieren - wenn messbar schwierig ist, z.B. weil mögliche Ergebnisse unbekannt, dann Zweck mit aufschreiben und während Aufgabe konstant beurteilen, wann der Zweck zufriedenstellend erfüllt ist
 -   Täglich (sinnvolle Dauer 1,5h #z/testen) Puffer am Ende einplanen für ungeplante Ereignisse - falls der Puffer nicht benötigt wird, dann wenn alle geplanten Aufgaben abgearbeitet sind nochmal kurz Zeit nehmen, um für Pufferzeit Aufgaben zu planen
 -   Immer ausreichend Füllaufgaben bereithalten (Normalerweise kann ich einfach eine der nächsten Aufgaben intuitiv vorziehen, wenn Zeit frei wird)

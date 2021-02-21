@@ -50,6 +50,8 @@ Wenn ich anfange, dann wichtig ist, hohe Peak Performance zu erreichen, ist auch
 
 
 
+
+
 Sobald ich mich entschieden habe, welche Audiodateien ich wann abspielen will (Pink Noise, Affirmation (nachts oder bei Sport), Binaural beats) und auf welchem Gerät (denke meistens MacBook, weil Mac meistens mit Kopfhörern verbunden ist außer bei morgenroutine und bei Anrufen vllt, aber nciht Facetime), Shortcuts dafür erstellen
 - auf iphone Audiodateien abspielen geht nicht einfach so mit shortcuts, nur öffnen
 
