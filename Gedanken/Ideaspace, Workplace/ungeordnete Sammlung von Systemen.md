@@ -98,6 +98,7 @@ iPhone, iPad Gerätepasswort für jetzt nur PIN wegen unterwegs, sobald unterweg
 
 Alle PW in Chrome/iCloud speichern, sollte in beiden drin sein, damit auch auf iPhone in Apps einloggen möglich ist, aber reicht aus, das PW einfach zu übertragen wenn es benötigt wird
 
+#z/irgendwann 
 Simon bekommt mein iCloud und Google Passwort für den Fall dass ich sterbe oder auf sonstige Weise nicht mehr an meine Sachen rankomme
 
 ### Geld
