@@ -27,6 +27,12 @@ Auch falls ich nachträglich entscheide, eine Änderung in der Struktur vorzuneh
 Strikt logischer Aufbau ist einzige Möglichkeit, die sicher auch in zukunft funktionieren wird und nicht fundamental geändert werden muss, weil wenn ich nach Workflow aufbaue, kann sich dieser ändern und ganzes System neu machen
 Für Workflow kann man auch immer mti Shoretcuts etc. nachträglich Anpassungen machen
 
+- vllt nicht so viel Wissen in Weltbild speichern, sondern dort wirklich nur Wissen welches spezifisch für wichtige Bereiche ist, z.B. Klimawandel...
+Oder halt separaten Ordner in Weltbild schaffen da es die logscihe Ordnung ist, aber hat dann nix mit Erkenntnissen zu tun
+Was mit Projekten?
+Wphin persönliche Entwciklung?
+
+
 Obsidian testen Bilder, Video einfügen
 Simon fragen was er von Roam rausgefunden hat
 - evtl. selber Roam testen, falls es für mich in Frage kommt

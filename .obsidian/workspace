@@ -6,7 +6,6 @@
       {
         "id": "a8398b91a3572088",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -51,10 +50,11 @@
       {
         "id": "84523acb86f6da54",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Tagesnotizen/2021-02-18.md",
+            "file": "Gedanken/Tagesnotizen/2021-02-19.md",
             "mode": "source"
           }
         }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+                "file": "Gedanken/Tagesnotizen/2021-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md"
+                "file": "Gedanken/Tagesnotizen/2021-02-19.md"
               }
             }
           },
@@ -186,15 +186,15 @@
     "width": 328
   },
   "lastOpenFiles": [
-    "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+    "Gedanken/Tagesnotizen/2021-02-19.md",
     "Gedanken/Tagesnotizen/2021-02-18.md",
+    "Gedanken/Ideaspace, Workplace/Todo.md",
+    "Gedanken/Tagesnotizen/2021-02-21.md",
+    "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Tagesnotizen/2021-02-17.md",
     "Gedanken/Tagesnotizen/2021-02-16.md",
     "Gedanken/Tagesnotizen/2021-02-15.md",
-    "Gedanken/Tagesnotizen/2021-02-21.md",
-    "Gedanken/Ideaspace, Workplace/Todo.md",
     "für Simon.md",
-    "Gedanken/Tagesnotizen/2021-02-14.md",
-    "Gedanken/Wissen zu Umgebung, Äußerem/Schöne Lieder.md"
+    "Gedanken/Tagesnotizen/2021-02-14.md"
   ]
 }
