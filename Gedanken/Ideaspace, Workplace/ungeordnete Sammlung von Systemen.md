@@ -202,6 +202,9 @@ Fokus während Arbeit: #z/testen
 
 Ansonsten mit allen negativen Gedanken, Gefühlen umgehen durch Aufschreiben in Tagesnotiz, automatisch
 
+Zeit für Entscheidungen lassen, nicht sofort nach einer passenden intuition entscheiden - Wie Elon immer wieder neue Ideen zu einem Thema haben und es mehrfach von verschiedenen Blickwinkeln zu betrachten, bevor ich es löse, ist einfach zuverlässigster Weg, nicht einseitig zu entscheiden
+
+
 alle Gedanken aufschreiben in Tagesnotiz
 -   Wenn mir abends noch Gedanken nach Gedankenanalyse kommen, dann diese in Handy noch in aktuelle Tagesnotiz bzw- Watch in Drafts eintragen und am nächsten Tag gemeinsam mit den Tagesgedanken analysieren, also immer das Ende des vorherigen Tages + aktuellen Tag + Drafts analysieren
 -   Gespräche mit anderen Personen zeichne ich erstmal nicht auf (Telefonate oder direkte Gesrpäche), weil TElefon kostet und aufwendig, stattdessen alle relevanten Gedanken von mir und Aussagen der anderen aufschreiben #Z/WirdGelernt 
