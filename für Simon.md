@@ -10,8 +10,6 @@
 
 Simon bekommt mein iCloud und Google Passwort für den Fall dass ich sterbe oder auf sonstige Weise nicht mehr an meine Sachen rankomme
 
-      
-
 Wie Simon will kann er sich auch noch Weiterleitung einrichten für Uniflect Mails, ich mache es nur für meine und gemeinsame Adressen und kann ihm falls etwas wichtiges kommt es ihm weiterleiten
 
 Simon seine Haftpflicht und Hausratversicherung Zahlungsart umstellen

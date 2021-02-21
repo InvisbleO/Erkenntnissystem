@@ -43,7 +43,8 @@ Könnte auch sein, dass ich mir noch mehr Zeit nehme als einen Tag Pause, extrem
 
 Wenn ich anfange, dann wichtig ist, hohe Peak Performance zu erreichen, ist auch ok wenn anfangs in machen Zeiten noch nicht so effieizent, das kommt dann automatisch mit Zeit
 
-
+Anfang von Nachdenkphase solange ich mich selber erforschen will:
+- Simon bei nichts helfen, was er nicht auch alleine mindestens Halb so gut machen kann - ist wahrscheinlich langfrisitg nicht richtig, aber für jetzt wo ich meine höchste Konzentration auf mich brauche und weiß, dass ich mich von Simon beeinflussen lassen könnte, ist es besser einen übertriebenen Cut zu machen
 
 
 
