@@ -6,6 +6,7 @@
       {
         "id": "b2628efc250ee192",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,7 +18,6 @@
       {
         "id": "1edd08e7aba19499",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "graph",
           "state": {}
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Gedanken/Tagesnotizen/2021-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Gedanken/Tagesnotizen/2021-02-22.md"
+              }
             }
           },
           {
@@ -137,10 +140,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Tagesnotizen/2021-02-22.md",
     "Untitled 1.md",
     "Gedanken/Ideaspace, Workplace/Todo.md",
     "Untitled.md",
-    "Gedanken/Tagesnotizen/2021-02-22.md",
     "Notizen zu Laberge Lucid Deraming.md",
     "Gedanken/Tagesnotizen/2021-02-21.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
