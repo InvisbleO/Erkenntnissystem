@@ -17,7 +17,6 @@
       {
         "id": "8275fd0e25ef79f5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -51,6 +50,7 @@
       {
         "id": "e22687bfd5d7820e",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+                "file": "Wörterbuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+                "file": "Wörterbuch.md"
               }
             }
           },
@@ -177,8 +177,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Wörterbuch.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace, Workplace/Todo.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",

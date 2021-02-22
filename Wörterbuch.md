@@ -15,7 +15,7 @@
 	-   \#v/log - logische Verknüpfung
 	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nur prinzipiell/qualitativ zu dem abgeleiteten Ergebnis führen muss, quantitativ kann das Ergebnis abweichen)
 	-   \#v/def - Defintion (verlinkt von einem Begriff zu seiner Definition)
-		-   wird auch genutzt für alle Stellen, die einfach nur eine andere Stelle verlinken, da das die Defintion ist - Zusätzlich auch genutzt bei [[Wörterbuch#^ea372c|dateispezifischen]]( #v/def) Links, die am Anfang einer Seite stehen, weil da ja gesagt werden muss, dass der Link zur Defintion führt
+		-   ausschließlich für Definitionen , die keine Zusatzinformationen enthalten [[Wörterbuch#^ea372c|dateispezifischen]]( #v/def) Links, die am Anfang einer Seite stehen, weil da ja gesagt werden muss, dass der Link zur Defintion führt
 	-   \#v/zinf - unkategorisierte Zusatzinformation, ungerichtet
 	-   \#v/infq - #z/testen ob nötig anstatt /zinf und da es auch embedded gibt, was fast immer Informationsquelle ersetzt 
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
