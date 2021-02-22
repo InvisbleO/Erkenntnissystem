@@ -16,7 +16,11 @@ tag: #z/todo
 
   
 neuer Plan:
-Bis Ende des Tages fertig sein und morgen freinehmen
+- Bis Nachmittag fertig sein mit alles in Erkenntnissystem
+- Spaziergang
+- Luzides Träumen Buch fertig lesen und Umgebung schaffen voller Reality Checks + Abendroutine MILD
+	- Ich hatte schon mehrere LD, d.h. das schwerste ist schon getan, muss nur noch verlängern und regelmäßiger haben
+	- Wenn ich ständig daran denke so wie in Vergangenheit wenn es geklappt hat, dann sind Träume vorprogrammiert, muss daher nur dafür sorgen, dass ich auch drinbleibe, das ist hauptfokus - schauen was Leute dazusagen
 
 - Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts, Tagesnotiz, Sorted, Ideensammlungsdatei, Ideaspace
 	- mittelfristige Ziele eintragen in Vorlage Tagesnotiz
