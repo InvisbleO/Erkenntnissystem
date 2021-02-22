@@ -49,7 +49,7 @@ Erreichbarkeit:
 -   Telefon immer an
 	-   Leute, die versuchen können anzurufen: Verabredete Anrufe wie Kundenservice, Rückrufe wenn ich jemanden abgerufen und nicht erreicht habe; Organisationen wie Finanzamt, Leute mit Informationen wie Ede
 -   Mails grundsätzlich 1x pro Tag spätnachmittags-abends prüfen nach 18-19 Uhr, sodass Arbeitstag aller Personen fertig ist
-	-   #z/todo/solangeGeräteNichtVerkauft grundsätzlich morgens, Nachmittags und Abends prüfen und falls Interesse intuitiv öfter prüfen
+	-   #z/nurAktuell/solangeGeräteNichtVerkauft grundsätzlich morgens, Nachmittags und Abends prüfen und falls Interesse intuitiv öfter prüfen
 -   WhatsApp installiert lassen, da für manche Sachen vorteilhaft, kein aktiver Kommunikationskanal und Kommunikation mit Bekannten verlegen auf Mail
 	-   Evtl alternativ Signal falls viele soziale Kontakte und wenn es einen Vorteil bringt, Konversationen zu sehen + Videos und Fotos, vorerst nicht nötig
 
@@ -185,7 +185,7 @@ Fokus während Arbeit: #z/testen
 - #z/testen wie lange Flow möglich ist mit Foci - falls lönger als Pomodoro, oder falls Pausen mich regelmäßig aus Flow rausholen, dann längere Arbeitszeiten
 - Allgemein:
 - #z/testen Foci dauerhaft tragen bis auf bei Morgensport und sehen ob Fokus Erkennung zuverlässig ist
-- #z/todo/solangebisichFlowAtmungVerinnerlichtHabe mit Foci Breathing Audio arbeiten
+- #z/nurAktuell/solangebisichFlowAtmungVerinnerlichtHabe mit Foci Breathing Audio arbeiten
 	- 2x einatmen, 1x ausatmen
 - Foci Benachrichtigunge bei negativen Zuständen, und dann jeweilige Systeme nutzen um wieder in positiven Zustand zu kommen.
 - Wenn ich mich unmotiviert fühle (prokrastinieren oder ablenken lassen), dann mache ich
@@ -245,7 +245,7 @@ Vllt muss man langfristig nicht ständig sein Ziel extra visualisieren, da man s
 
 #### Nootropics
 MindLab Pro 2x morgens und nach 5 Tagen 2 Tage Pause 
--   #z/irgendwann PerformanceLab Energy scheint ein guter Zusatz für Mindlab zu sein für optimale Energie, evtl. Zusätzlich testen
+-   #z/todo/ZeitpunktUnklar PerformanceLab Energy scheint ein guter Zusatz für Mindlab zu sein für optimale Energie, evtl. Zusätzlich testen
 
 #### Binaural Beats
 #z/testen
@@ -268,8 +268,6 @@ MindLab Pro 2x morgens und nach 5 Tagen 2 Tage Pause
 
 ### Lucid Dreaming
 #Z/WirdGelernt mind. 5x am Tag ausführlicher Reality Check (Nase, Hand, Umgebung anschauen)
-
-#z/todo/bis3xLucidDream Hörbuch von Stephen Laberge hören
 
 ## Körpersysteme
 ### Morgenroutine (Gesamtdauer ca. 100 min)

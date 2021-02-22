@@ -35,7 +35,7 @@ Schulterschieflage Vergleichsbild 21.2.21
 
 Hauptsächlich Strength Training, denn es ist der primäre faktor für Gewichtsverlust (nach wissenschatlichen Youtubern), Cardio ist ein Zusatzmittel, um seinen Energieverbrauch noch zu steigern und hat andere gesundheitliche Effekte, aber diese sind mir nicht so wichtig)
 -> nur leichtes Joggen oder Gehen, falls ich sonst am Tag mich fast gar nicht bewege bis auf das Kraftworkout
-#z/irgendwann Falls ich Lust auf TT habe, TT als Ersatz für Laufen testen
+#z/todo/ZeitpunktUnklar Falls ich Lust auf TT habe, TT als Ersatz für Laufen testen
 
 Ich strebe Body Recomposition an, also ungefähr auf Maintenance Level Kalorien halten und langsam Fett abbauen und Muskeln aufbauen, evtl leichtes Defizit oder Überschuss je nach Situation
 - hat Vorteil, dass keine großen Stoffwechsel- oder Hormonschwankungen und ich muss mir keine Gedanken darpber machen
