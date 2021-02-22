@@ -17,6 +17,7 @@
       {
         "id": "8275fd0e25ef79f5",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -39,7 +40,6 @@
       {
         "id": "1edd08e7aba19499",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md"
+                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
               }
             }
           },
@@ -164,9 +164,9 @@
     "width": 328
   },
   "lastOpenFiles": [
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Ideaspace, Workplace/Todo.md",
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",
     "Wörterbuch.md",
     "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Bodybuilding und Sport.md",
