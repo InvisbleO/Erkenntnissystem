@@ -17,7 +17,6 @@
       {
         "id": "8275fd0e25ef79f5",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -39,6 +38,18 @@
       },
       {
         "id": "1edd08e7aba19499",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3c5f29546e38eb63",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aufbau + Workflow Logik-&Wissenssystem.md"
+                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md"
               }
             }
           },
@@ -164,10 +175,10 @@
     "width": 328
   },
   "lastOpenFiles": [
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
-    "Gedanken/Ideaspace, Workplace/Todo.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Gedanken/Ideaspace, Workplace/Todo.md",
     "Wörterbuch.md",
     "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Bodybuilding und Sport.md",
     "Testen und Updaten!.md",

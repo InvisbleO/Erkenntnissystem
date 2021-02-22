@@ -29,16 +29,15 @@ Für Sachen die getestet werden definieren, was ich für Probleme bei Tests erwa
 
 
 ## Umgebung, äußere Arbeit & Organisation
-Arbeitsplatz: #z/todo 
+Arbeitsplatz: 
 - Arbeitsposition #z/testen :
 	- Sitzen und Stehen intuitiv entscheiden
 	- FAlls es nicht geht, dann weiterschauen
 	- Gravity an sich nicht ideal und es wäre mir am liebsten, Aeron den ganzen Tag mit Pausen würde einfach funktionieren
-- Tastautur, Maus
 - #z/testen ob Tiles Fensteranordnung ausreicht
 -  Handy immer auf Brusthöhe halten beim Tippen
--  ideal wäre längere TExte zu sprechen und nicht tippen, aber Unterscheidung ist dann vllt zu aufwendig, dann lieber einfach schnell tippen lernen?
--  Vorerst dauerhaft Nicht Stören eingeschaltet und gar nicht direkt erreichbar bis auf doppelte Anrufe und Simon kann immer anrufen, weil seine Zeit ja genauo wertvoll ist, solange wir kein besseres System haben
+- #z/testen längere TExte zu sprechen und nicht tippen, aber Unterscheidung ist dann vllt zu aufwendig, dann lieber einfach schnell tippen lernen?
+- #z/testen ob Trackpad mir ausreicht
 
 Erreichbarkeit:
 -   iPhone Mitteilungszentrale ist Posteingang für Erreichbarkeit aller Mitteilungen
@@ -49,8 +48,6 @@ Erreichbarkeit:
 	-   #z/nurAktuell/solangeGeräteNichtVerkauft grundsätzlich morgens, Nachmittags und Abends prüfen und falls Interesse intuitiv öfter prüfen
 -   WhatsApp installiert lassen, da für manche Sachen vorteilhaft, kein aktiver Kommunikationskanal und Kommunikation mit Bekannten verlegen auf Mail
 	-   Evtl alternativ Signal falls viele soziale Kontakte und wenn es einen Vorteil bringt, Konversationen zu sehen + Videos und Fotos, vorerst nicht nötig
-
-Wichtiges Arbeitsprinzip: Ich lasse mich von Gefühlen von Unproduktivität oder Unbequemheit nicht auf ungeplante Weise von Arbeit abbringen, man arbeitet ja auch nicht nur an idealen tagen.
 
 Lüften:
 Alle 4h lüften, Kompromiss aus Heizung und idealer CO2 Konzentration
@@ -309,7 +306,7 @@ alte morgenroutine, falls ich sie doch nochmal nutzen möchte #z/evtl
 ### Abendroutine (Gesamtdauer aktuell ca. 100min)
 -   #z/nurAktuell 20.30 kalt Duschen
 -   #z/nurAktuell vor Gedankenanalyse 10min keybr bis ich das ganze 3x durch habe, ab da einfach hier Fokus auf schnell schreiben
--   10 min Mails prüfen und beantworten oder falls Antwort zu lange dauert, diese für morgens einplanen
+-   10 min Mails & Mitteilungszentrale prüfen und beantworten oder falls Antwort zu lange dauert, diese für morgens einplanen
 -   ca. 30min: Tagesnotiz analysieren (Erkenntnisse alle aufschreiben und nicht im Kopf behalten)
 -   15min: [[Tagesplan erstellen]]
 -   Puffer: 15 min
