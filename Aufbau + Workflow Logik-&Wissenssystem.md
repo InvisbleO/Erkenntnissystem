@@ -45,7 +45,8 @@ Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenn
 - normale Links bedeuten, dass ein Konzept oder ein Begriff vorausgesetzt wird in der aktuellen Datei und dass diese in dem Link nachgelesen werden können
 	-   Wenn der gleiche Begriff genutzt wird, dann ist das der Link, wenn ein anderer Begriff genutzt wird, dann ist dieser entweder ein alias oder wird verlinkt)
 	-   Links befinden sind immer bei dem Ziel einer Verknüpfung, bei der Voraussetzung können sie unter Backlinks nachgeschaut werden
-	-   Hinter jedem normalen Link steht ein Tag, der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#v/def) bis auf Links, die zu einer Informationseinheit führen, die genau das beinhaltet, was der Linkname bedeutet - wenn sie zusätzlich eine Defintion oder andere bestimmte Daten beinhaltet, dann entsprechenden # hinter die Verknüpfung schreiben
+	-   Hinter jedem Link steht ein Tag, der die Art der Verknüpfung beschreibt z.B. \[\[Albert Einstein\]\](\#v/def), damit nach diesen Links gefiltert werden kann
+	-   Falls auf einen Link mehrere Verknüpfungsarten zutreffen, dann stehen diese zusammen in der klammer hinter dem Link)
 -   Embedded Link bedeutet, dass der Inhalt einer anderen Datei in der aktuellen Datei inhaltlich genutzt wird, z.B. bei Schlussfolgerungen - es ist egal wo der Ursprung der Datei/des Blocks ist (also wo das Original gespeichert ist)
 	-   erfordern keinen Tag, da man ja weiß, was der Inhalt ist in dem Moment in dem ihn sich ansieht
 - Unmentioned Links sind irrelevant für Verständnis

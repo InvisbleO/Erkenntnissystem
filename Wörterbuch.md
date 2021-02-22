@@ -15,8 +15,9 @@
 	-   \#v/log - logische Verknüpfung
 	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nur prinzipiell/qualitativ zu dem abgeleiteten Ergebnis führen muss, quantitativ kann das Ergebnis abweichen)
 	-   \#v/def - Defintion (verlinkt von einem Begriff zu seiner Definition)
-		-   ausschließlich für Definitionen , die keine Zusatzinformationen enthalten [[Wörterbuch#^ea372c|dateispezifischen]]( #v/def) Links, die am Anfang einer Seite stehen, weil da ja gesagt werden muss, dass der Link zur Defintion führt
+		-   Definitionen, die keine Zusatzinformationen enthalten (Quelle ist idR Wörterbuch oder Defintion einer Informationseinheit, die in dieser Informationseinheit am Anfang steht) 
 	-   \#v/zinf - unkategorisierte Zusatzinformation, ungerichtet
+		-   Informationen, die mit dem Thema zu tun haben
 	-   \#v/infq - #z/testen ob nötig anstatt /zinf und da es auch embedded gibt, was fast immer Informationsquelle ersetzt 
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
 	-   \#v/sek - Für Themenbereiche/Sekundärstruktur einer Datei einzelne verschiedene Tags, z.B. \#v/sek/Gehirn, \#v/sek/Neurologie… 
