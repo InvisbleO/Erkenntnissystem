@@ -21,8 +21,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Ideaspace, Workplace/Todo.md",
-            "mode": "source"
+            "file": "Untitled 1.md",
+            "mode": "preview"
           }
         }
       }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/Todo.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/Todo.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -143,6 +143,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Gedanken/Ideaspace, Workplace/Todo.md",
     "Untitled.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",
@@ -151,7 +152,6 @@
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Tagesnotizen/2021-02-20.md",
     "Gedanken/Ideaspace, Workplace/Unsortierte Inspiration für Weltbild Nachdenkphase.md",
-    "Gedanken/Tagesnotizen/2021-02-19.md",
-    "Gedanken/Tagesnotizen/2021-02-18.md"
+    "Gedanken/Tagesnotizen/2021-02-19.md"
   ]
 }
