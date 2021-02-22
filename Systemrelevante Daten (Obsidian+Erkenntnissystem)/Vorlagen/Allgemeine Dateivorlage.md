@@ -4,4 +4,3 @@
 
 ---
 # {{title}}
-[Funktion der Datei]

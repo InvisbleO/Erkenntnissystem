@@ -39,7 +39,6 @@
       {
         "id": "1edd08e7aba19499",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -51,10 +50,11 @@
       {
         "id": "3c5f29546e38eb63",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+            "file": "Körpersysteme.md",
             "mode": "source"
           }
         }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+                "file": "Körpersysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md"
+                "file": "Körpersysteme.md"
               }
             }
           },
@@ -175,15 +175,15 @@
     "width": 328
   },
   "lastOpenFiles": [
+    "Körpersysteme.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+    "Systemrelevante Daten (Obsidian+Erkenntnissystem)/Vorlagen/Allgemeine Dateivorlage.md",
+    "Untitled 2.md",
     "Notizen zu Laberge Lucid Deraming.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Gedanken/Ideaspace, Workplace/Todo.md",
     "Wörterbuch.md",
-    "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Bodybuilding und Sport.md",
-    "Testen und Updaten!.md",
-    "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Mana Dokumenatation.md",
-    "Untitled 1.md"
+    "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Bodybuilding und Sport.md"
   ]
 }
