@@ -13,12 +13,10 @@ in sich geschlossene Projekte und ähnliches, die nichts mit dem Weltbild zu tun
 Unterschied zu Systemen:
 -  aus langfrisitgen und immer gültien Prinzipien (die in Weltbild gespeichert sind) leiten sich langfristige Ziele ab ( #z/todo/Nachdenkphase genauer überlegen ob Ziele in Weltbild stehen, weil Weltbild auch auf gewisse Weise temporär ist, passt eigentlich ziemlich gut, oder ob langfristige Ziele extra speichern und dann daraus Systeme ableiten)
 
-## Ideaspace
+## Ideaspace, Workplace
 Ort für Informationen, an denen ich arbeite (die ich miteinandner und mit bereits eingeordneten Informationen verknüpfe, die ich selber noch nicht fertig eingeordnet habe) ^cdb971
 
-### Workflow
-- #z/testen/wennNachdenknotizenAnalyse
-- fertige Dateien oder Blöcke werden in einen der anderen Ordner eingeordnet
+fertige Dateien oder Blöcke werden in einen der anderen Ordner eingeordnet
 
 ## Systeme
  
