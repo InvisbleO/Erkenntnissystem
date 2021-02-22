@@ -35,7 +35,6 @@ Arbeitsplatz: #z/todo
 	- FAlls es nicht geht, dann weiterschauen
 	- Gravity an sich nicht ideal und es wäre mir am liebsten, Aeron den ganzen Tag mit Pausen würde einfach funktionieren
 - Tastautur, Maus
-- Licht, Pflanze?
 - #z/testen ob Tiles Fensteranordnung ausreicht
 -  Handy immer auf Brusthöhe halten beim Tippen
 -  ideal wäre längere TExte zu sprechen und nicht tippen, aber Unterscheidung ist dann vllt zu aufwendig, dann lieber einfach schnell tippen lernen?
