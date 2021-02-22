@@ -31,5 +31,7 @@
 	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
 	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
 	- \#z/nurAktuell - System, welches ich nur für begrenzte Zeit nutze
-- \#Lehre für Gedankengänge in Tagesnotiz, aus denen ich eine Lehre ziehe (also Fehler)
-- \#magischerMoment für sehr schöne, magische Momente, für die ich dankbar bin, an die ich mich erinnern möchte
+
+\#Lehre für Gedankengänge in Tagesnotiz, aus denen ich eine Lehre ziehe (also Fehler)
+
+\#magischerMoment für sehr schöne, magische Momente, für die ich dankbar bin, an die ich mich erinnern möchte

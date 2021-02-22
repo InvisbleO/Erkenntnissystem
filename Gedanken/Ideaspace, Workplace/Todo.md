@@ -41,6 +41,7 @@ in Todo notiz Blöcke wo steht was ich in wichtigen Situationen mache? Oder nur 
 z.B. was ich jetzt Mama sagen will oder auch nicht sagen will - ist nämlich wichtig, wenn ich ich mich nachträglich dagegen entscheide, etwas zu tun, kann ich das in manchen Momenten vergessen, daher darf ich mich nicht auf Gedächtnis verlassen, sondern am Anfang dieser wichtigen Situationen schauen ob ich mir etwas dafür aufgeschrieben habe
 
 Ladekabel ankleben oder in irgendeine gute Position
+Vor Gedankenanalyse 10 Minuten keybr
 
 -------
 Mit Simon entscheiden ob Obsidian oder Roam, dann ggf. GitHub fixen

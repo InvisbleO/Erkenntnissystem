@@ -202,13 +202,9 @@ Ansonsten mit allen negativen Gedanken, Gefühlen umgehen durch Aufschreiben in 
 
 Zeit für Entscheidungen lassen, nicht sofort nach einer passenden intuition entscheiden - Wie Elon immer wieder neue Ideen zu einem Thema haben und es mehrfach von verschiedenen Blickwinkeln zu betrachten, bevor ich es löse, ist einfach zuverlässigster Weg, nicht einseitig zu entscheiden
 
-
-alle Gedanken aufschreiben in Tagesnotiz
+### alle Gedanken aufschreiben in Tagesnotiz
 -   Wenn mir abends noch Gedanken nach Gedankenanalyse kommen, dann diese in Handy noch in aktuelle Tagesnotiz bzw- Watch in Drafts eintragen und am nächsten Tag gemeinsam mit den Tagesgedanken analysieren, also immer das Ende des vorherigen Tages + aktuellen Tag + Drafts analysieren
 -   Gespräche mit anderen Personen zeichne ich erstmal nicht auf (Telefonate oder direkte Gesrpäche), weil TElefon kostet und aufwendig, stattdessen alle relevanten Gedanken von mir und Aussagen der anderen aufschreiben #Z/WirdGelernt 
--   #z/todo 
--   Was bedeutet alle Gedanken sofort aufschreiben?
--   genaueren Workflow für Arbeit definieren, wann Gedanken im Kopf denken, welche nicht aufschreiben, wie genau aufschreiben Gedankenketten (Je genauer, desto besseres Verständnis von Mindprozessen)
 
 Habe viele eigentlich irrelevante nur ganz kurz aufpoppende gedanken, ist aber nicht ganz einfach, sie von wichtigeren auseinanderzuhalten, weil Übergang fließend ist
 Mittelgruppe sind schon nicht so unwichtige Gedanken, welche aber eher Wiederholungen von bereits aufgeschriebenen wichtigen Gedanken sind oder leichte Abwandlungen davon
@@ -216,6 +212,9 @@ Mittelgruppe sind schon nicht so unwichtige Gedanken, welche aber eher Wiederhol
 - Gedanken, die ich sofort loslassen kann, schreibe ich nicht auf, sonst müsste ich ganze Zeit schreiben
 - #z/testen während Nachdenken intuitiv aufschreiben und sehen wie gut dann Nachdenkflow ist - dabei ist es erlaubt, Gedanken die ich nicht so wichtig finde nicht aufzuschreiben, weil ich sonst Faden verlieren könnte weil aufschreiben zu lagne dauert
 - Ein Problem an Aufschreiben während Nachdenken ist, dass einzelne Gedanken locker 2-3 Sätze enthalten können, weil sie 1-2 Voraussetzungen mit 1-2 Schlussfogerungen verknüpfen und sie kommen mit einem Schlag und ich habe nur grobe Formulierung im Kopf, aber ich denke intuitiv aufschreiben ist trotzdem gut, da ich so gar nicht so schlecht nachdenken kann, solange ich nicht über Formulierung nachdenken muss -> intuitiv aufschreiben, an keine grammatischen oder logischen Regeln halten, Stichworte auch ok
+
+#### Analyse von Tagesnotizen
+
 
 Pausensystem: #z/testen
 -  Anfangs: Pomodoro mit 25min Arbeitsblöcken und 2x 5 min Pause und 1x 15min Pause - kann erstmal Pausenzeiten planen mit Tagesplaner, aber falls Flexibiltät wichtiger ist, Pomodoro Timer nutzen
