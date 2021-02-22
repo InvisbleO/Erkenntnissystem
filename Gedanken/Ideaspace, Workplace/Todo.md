@@ -21,6 +21,7 @@ neuer Plan:
 - Luzides Träumen Buch fertig lesen und Umgebung schaffen voller Reality Checks + Abendroutine MILD
 	- Ich hatte schon mehrere LD, d.h. das schwerste ist schon getan, muss nur noch verlängern und regelmäßiger haben
 	- Wenn ich ständig daran denke so wie in Vergangenheit wenn es geklappt hat, dann sind Träume vorprogrammiert, muss daher nur dafür sorgen, dass ich auch drinbleibe, das ist hauptfokus - schauen was Leute dazusagen
+	- bei jedem RC eine Sache visualisieren, die ich gerne in einem Traum machen würde + ich erkenne wenn ich träume
 
 - Wenn notizen übertragen, dann eine Übersicht mit ganzem Workflow, also Drafts, Tagesnotiz, Sorted, Ideensammlungsdatei, Ideaspace
 	- mittelfristige Ziele eintragen in Vorlage Tagesnotiz
@@ -79,4 +80,4 @@ Wenn ich nach Hause fahre:
 - Fahrrad reparieren
 - Tools der Titiaten mitnehmen oder fotografieren
 - haare schneiden lassen
-- mein Erinnerungsbuch von Familie holen
+- mein Erinnerungsbuch von Familie holen bzw Fotos
