@@ -11,7 +11,7 @@
 ## Tags
 = einfache Attribute, essenziell ^b984eb
 
-\#v Bestimmung der Art einer Verknüpfung (wird in Klammern hinter einen Link geschrieben)
+- \#v Bestimmung der Art einer Verknüpfung (wird in Klammern hinter einen Link geschrieben)
 	-   \#v/log - logische Verknüpfung
 	-   \#v/abl - Ableitung (eine grundsätzlich logische Verknüpfung, die Unsicherheiten hat und daher nur prinzipiell/qualitativ zu dem abgeleiteten Ergebnis führen muss, quantitativ kann das Ergebnis abweichen)
 	-   \#v/def - Defintion (verlinkt von einem Begriff zu seiner Definition)

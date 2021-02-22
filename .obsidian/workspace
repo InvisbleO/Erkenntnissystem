@@ -17,12 +17,10 @@
       {
         "id": "ac68bd94597cc9c2",
         "type": "leaf",
+        "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Gedanken/Tagesnotizen/2021-02-22.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       },
       {
@@ -39,12 +37,22 @@
       {
         "id": "e22687bfd5d7820e",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Wörterbuch.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "c328a848144d7f65",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Aufbau + Workflow Logik-&Wissenssystem.md",
+            "mode": "preview"
           }
         }
       }
@@ -73,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Lüste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörterbuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Wörterbuch.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,15 +171,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Tagesnotizen/2021-02-22.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Wörterbuch.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
-    "Gedanken/Tagesnotizen/2021-02-22.md",
     "Gedanken/Ideaspace, Workplace/Todo.md",
     "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Mana Dokumenatation.md",
     "Untitled 1.md",
     "Untitled.md",
     "Notizen zu Laberge Lucid Deraming.md",
-    "Gedanken/Tagesnotizen/2021-02-21.md",
-    "Gedanken/Tagesnotizen/2021-02-20.md"
+    "Gedanken/Tagesnotizen/2021-02-21.md"
   ]
 }
