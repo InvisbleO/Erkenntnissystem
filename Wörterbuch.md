@@ -17,7 +17,7 @@
 	-   \#v/def - Defintion (verlinkt von einem Begriff zu seiner Definition)
 		-   Definitionen, die keine Zusatzinformationen enthalten (Quelle ist idR Wörterbuch oder Defintion einer Informationseinheit, die in dieser Informationseinheit am Anfang steht) 
 	-   \#v/zinf - unkategorisierte Zusatzinformation, ungerichtet
-		-   Informationen, die mit dem Thema zu tun haben
+		-   Informationen, die mit dem Thema zu tun haben, aber nicht die Defintion eines Begriffs sind, also praktisch wenn man sich zu einer Sache vertiefen möchte, dann klingt man auf eine Verknüpfung mit zusatzinformation
 	-   \#v/infq - #z/testen ob nötig anstatt /zinf und da es auch embedded gibt, was fast immer Informationsquelle ersetzt 
 	-   \#v/spez (ursprünglich Dateiverknüpfung) - dabei wird hinter den Tag die Erklärung zu der Verknüpfung geschrieben
 	-   \#v/sek - Für Themenbereiche/Sekundärstruktur einer Datei einzelne verschiedene Tags, z.B. \#v/sek/Gehirn, \#v/sek/Neurologie… 

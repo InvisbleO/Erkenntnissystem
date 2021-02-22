@@ -54,8 +54,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Wörterbuch.md",
-            "mode": "source"
+            "file": "Testen und Updaten!.md",
+            "mode": "preview"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Lüste",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wörterbuch.md",
+                "file": "Testen und Updaten!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wörterbuch.md"
+                "file": "Testen und Updaten!.md"
               }
             }
           },
@@ -173,19 +172,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328,
-    "collapsed": true
+    "width": 328
   },
   "lastOpenFiles": [
+    "Testen und Updaten!.md",
     "Wörterbuch.md",
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
-    "Gedanken/Ideaspace, Workplace/Todo.md",
-    "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",
+    "Gedanken/Ideaspace, Workplace/Todo.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
+    "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Mana Dokumenatation.md",
     "Untitled 1.md",
     "Untitled.md",
-    "Notizen zu Laberge Lucid Deraming.md",
-    "Gedanken/Tagesnotizen/2021-02-21.md"
+    "Notizen zu Laberge Lucid Deraming.md"
   ]
 }

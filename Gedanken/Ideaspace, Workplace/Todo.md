@@ -40,6 +40,7 @@ Wphin persönliche Entwciklung?
 in Todo notiz Blöcke wo steht was ich in wichtigen Situationen mache? Oder nur in Tagesnotizen und eindeutigen leicht findbaren tag setzen, aber dann kann ich diese ja nie entfernen, daher besser in Todo
 z.B. was ich jetzt Mama sagen will oder auch nicht sagen will - ist nämlich wichtig, wenn ich ich mich nachträglich dagegen entscheide, etwas zu tun, kann ich das in manchen Momenten vergessen, daher darf ich mich nicht auf Gedächtnis verlassen, sondern am Anfang dieser wichtigen Situationen schauen ob ich mir etwas dafür aufgeschrieben habe
 
+Alle Verknüpfungen ohne tags als zinf, generell alle nochmal anschauen
 Ladekabel ankleben oder in irgendeine gute Position
 Vor Gedankenanalyse 10 Minuten keybr
 
