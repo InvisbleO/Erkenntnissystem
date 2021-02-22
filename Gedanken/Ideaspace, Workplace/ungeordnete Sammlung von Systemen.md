@@ -184,6 +184,20 @@ Fokus während Arbeit: #z/testen
 	- Relaxation Biofeedback
 	- Grund für Abfolge ist, dass Müdigkeit von zu viel Nebengedanken kommt, es geht darum Gedanken leiser zu machen + Körper zu entspannen
 
+#### Pausensystem: #z/testen
+-  Anfangs: Pomodoro mit 25min Arbeitsblöcken und 2x 5 min Pause und 1x 15min Pause - kann erstmal Pausenzeiten planen mit Tagesplaner, aber falls Flexibiltät wichtiger ist, Pomodoro Timer nutzen
+	-  intuitiv entscheiden ob hinlegen oder auf Laufband laufen, beides mit Binaural Beats
+	-  Falls ich unterwegs bin und mich nicht an den strikten Plan halten kann, dann intuitiv 5min Pausen machen, in denen ich auf nichts achten muss und wenn ich wiederkomme, dann 5in Pause und mit neuem großen Pomodoroblock Anfangen
+-  Anfangs: auf Rücken im Bett liegen, Augen schließen und Körper einmalig anfangs entspannen, dann fokus auf nichts bestimmtes richten. Wenn eingeplant Mana, Klo, Sport und Restzeit im Bett liegen. -> **wie Trance**
+	-  Fokus auf nichts bestimmtes richten, weil ich gerade denke, dass Fokus aufrecht erhalten der primäre Grund ist, weshalb ich Pause brauche
+-   Alpha Beats, da diese mit Erleuchtungsmomenten in Verbindung gebracht werden oder intuitiv Kopfhörer absetzen, wenn sie störend sind (weil ich sie zu lange auf hatte)
+-   #z/evtl  in Pausen rhythmisch zu atmen (3s-6s) und darauf Fokus zu richten
+- Immer wenn Arbeit nicht ideal funktioniert, dann dokumentieren, Grund, Uhrzeit und andere mögliche Faktoren, falls es zu häufig vorkommt, dann liegt es an falscher Balance von Pausen-Arbeit oder etwas ähnlich
+
+#z/evtl 
+- 10min Naps in Pausen? Für Effektivität genauso gut wie 20 min
+- Spaziergang oder ähnliches: Geändertes Umfeld steigert auch Kreativität
+
 ### Denken
 
 Ansonsten mit allen negativen Gedanken, Gefühlen umgehen durch Aufschreiben in Tagesnotiz, passiert automatisch
@@ -204,61 +218,26 @@ Mittelgruppe sind schon nicht so unwichtige Gedanken, welche aber eher Wiederhol
 - #z/testen während Nachdenken intuitiv aufschreiben und sehen wie gut dann Nachdenkflow ist - dabei ist es erlaubt, Gedanken die ich nicht so wichtig finde nicht aufzuschreiben, weil ich sonst Faden verlieren könnte weil aufschreiben zu lagne dauert
 - Ein Problem an Aufschreiben während Nachdenken ist, dass einzelne Gedanken locker 2-3 Sätze enthalten können, weil sie 1-2 Voraussetzungen mit 1-2 Schlussfogerungen verknüpfen und sie kommen mit einem Schlag und ich habe nur grobe Formulierung im Kopf, aber ich denke intuitiv aufschreiben ist trotzdem gut, da ich so gar nicht so schlecht nachdenken kann, solange ich nicht über Formulierung nachdenken muss -> intuitiv aufschreiben, an keine grammatischen oder logischen Regeln halten, Stichworte auch ok
 
+**Fehler- und Lehrenjournal:** #Z/WirdGelernt
+immer wenn ich einen Fehler erkenne, sofort in Tagesnotiz aufschreiben und analysieren
+hilft mir Muster meiner Fehler zu analysieren, aber auch Rückblicke welche Fehler andere gemacht hätten
+Wie vermeiden? - Lehre dazuschreiben, aber auch in Erkenntnisse einsortieren
+
+**Entscheidungsdokumentation**
+- Alle Entscheidungsprozesse, deren Ergebnis mich länger als eine Woche beeinflussen wird, dokumentieren um bei neuen Informationen zu entscheiden, ob die den damaligen Entscheidungsausgang verändern würden, oder ob der Entscheidungprozess generell schlecht war -> an der Stelle, wo der Ausgang hingeschrieben wird, auch Begründung hinschreiben bzw. verlinken
+
 ##### Analyse von Tagesnotizen
 spezifische Tags, um Gedanken des Tages einzuordnen:
 ![[Wörterbuch#^8c5d5b]]
 ![[Wörterbuch#^eba7c5]]
 
-#### Pausensystem: #z/testen
--  Anfangs: Pomodoro mit 25min Arbeitsblöcken und 2x 5 min Pause und 1x 15min Pause - kann erstmal Pausenzeiten planen mit Tagesplaner, aber falls Flexibiltät wichtiger ist, Pomodoro Timer nutzen
-	-  intuitiv entscheiden ob hinlegen oder auf Laufband laufen, beides mit Binaural Beats
-	-  Falls ich unterwegs bin und mich nicht an den strikten Plan halten kann, dann intuitiv 5min Pausen machen, in denen ich auf nichts achten muss und wenn ich wiederkomme, dann 5in Pause und mit neuem großen Pomodoroblock Anfangen
--  Anfangs: auf Rücken im Bett liegen, Augen schließen und Körper einmalig anfangs entspannen, dann fokus auf nichts bestimmtes richten. Wenn eingeplant Mana, Klo, Sport und Restzeit im Bett liegen. -> **wie Trance**
-	-  Fokus auf nichts bestimmtes richten, weil ich gerade denke, dass Fokus aufrecht erhalten der primäre Grund ist, weshalb ich Pause brauche
--   Alpha Beats, da diese mit Erleuchtungsmomenten in Verbindung gebracht werden oder intuitiv Kopfhörer absetzen, wenn sie störend sind (weil ich sie zu lange auf hatte)
--   #z/evtl  in Pausen rhythmisch zu atmen (3s-6s) und darauf Fokus zu richten
-- Immer wenn Arbeit nicht ideal funktioniert, dann dokumentieren, Grund, Uhrzeit und andere mögliche Faktoren, falls es zu häufig vorkommt, dann liegt es an falscher Balance von Pausen-Arbeit oder etwas ähnlich
-
-**Fehler- und Lehrenjournal:** #Z/WirdGelernt
-immer wenn ich einen Fehler mache, sofort in Tagesnotiz aufschreiben und analysieren
-hilft mir Muster meiner Fehler zu analysieren, aber auch Rückblicke welche Fehler andere gemacht hätten
-**Wie vermeiden?** - Lehre dazuschreiben, aber auch in Erkenntnisse einsortieren
-
-**Entscheidungsdokumentation**
-- Alle Entscheidungsprozesse, deren Ergebnis mich länger als eine Woche beeinflussen wird, dokumentieren um bei neuen Informationen zu entscheiden, ob die den damaligen Entscheidungsausgang verändern würden, oder ob der Entscheidungprozess generell schlecht war -> an der Stelle, wo der Ausgang hingeschrieben wird, auch Begründung hinschreiben bzw. verlinken
-
 #### Motivation, Antrieb #z/todo/Nachdenkphase
 Irgendeinen Antrieb braucht man, denke ich, da man nicht einfach aus Prinzip sich fokussieren kann ohne zu wissen wofür, denn Prinzipien sind Gedankenketten, die man nicht als Ziel haben kann, als Ziel kann nur ein Zustand/Situation funktionieren, weil auch nur Zustände wahrgenommen werden können
 Vllt muss man langfristig nicht ständig sein Ziel extra visualisieren, da man sowieso alle Entscheidungen nur darauf auslegt, denke das ist ziemlich wahrscheinlich
 
--> Visualisierung von mittelfristigen und langfristigen Zielen (genauer siehe Morgenroutine)
+-> Visualisierung von mittelfristigen und langfristigen Zielen (genauer #z/todo siehe Morgenroutine)
 - wäre möglich, dass es langfristig nicht nötig ist, weil ich mich daran gewöhne, alle Entscheidungen in einem Frame zu machen wie Elon, vllt braucht man aber auch gerade immer eine neue Auffrischung, weil man in unterbewussten Momenten weniger Antrieb hätte sonst
 
-#### Nootropics
-MindLab Pro 2x morgens und nach 5 Tagen 2 Tage Pause 
--   #z/todo/ZeitpunktUnklar PerformanceLab Energy scheint ein guter Zusatz für Mindlab zu sein für optimale Energie, evtl. Zusätzlich testen
-
-#### Binaural Beats
-#z/testen
-1.   in Pausen Alpha
-2.  Theta Pausen
-3. hohe Beta Frequenzen oder Gamma für kontinuierliches Arbeite, aber keine verschiedenen Frequenzen bei Arbeit
-4. sowohl für Arbeit als auch für Pausen Naturgeröusche wie Vogelzwitschern, Wellen, Bach...
-
-#### Farben
-- #z/testen Licht Farben: siehe Notiz (größtenteils grünes-blaues Licht und evtl. Zur Abwechslung auch gelb und orange (starkes orange und gelb wirken energetischer als grün und blau, daher evtl bei Sport oder nach oder während Pausen)
-
-### Pausen
-#z/todo : Pausensystem erstellen
--  Unterscheiden zwischen optimaler Regenerationszeit für Fokussiertes Arbeiten (Pausenzeit) und optimaler Zeit für Diffuses Denken, auch testen wie diffuses Denken ist, wenn ich an etwas anderem arbeite vs. wenn nur Sport ohne neue Informationen oder Pause
--  Mindful 1min Pausen statt 5min
--  Habe das Gefühl, das erholende in Pausen ist nicht, sich auf nichts zu konzentrieren und Gedanken wandern zu lassen, sondern etwas anderes zu machen als was ich vorher gemacht habe, kann auch produktiv sein? (könnte aber auch falsch sein)
-#z/evtl 
-- 10min Naps in Pausen? Für Effektivität genauso gut wie 20 min
-- Spaziergang oder ähnliches: Geändertes Umfeld steigert auch Kreativität
-
-### Lucid Dreaming
-#Z/WirdGelernt mind. 5x am Tag ausführlicher Reality Check (Nase, Hand, Umgebung anschauen)
 
 ## Körpersysteme
 ### Morgenroutine (Gesamtdauer ca. 100 min)
@@ -377,6 +356,9 @@ Militärroutine
 - Was machrn in Pausen
 
 ### Essen
+**Nootropics**
+MindLab Pro 2x morgens und nach 5 Tagen 2 Tage Pause 
+-   #z/todo/ZeitpunktUnklar PerformanceLab Energy scheint ein guter Zusatz für Mindlab zu sein für optimale Energie, evtl. Zusätzlich testen
 ### Sport
 viele konkrete und sich ändernde Informationen, daher siehe [[Bodybuilding und Sport]]
 
@@ -431,3 +413,16 @@ Nest-Szenen alle 30 Tage exportieren:
 	- Wenn ich bestimmte Situationen aufheben will, dann diese an diese Stelle hier schreiben:
 	- 18.2. ca. 19:20-20 Uhr Telefonat Oskar mit Mutter (muss nicht ganzes sein)
 - dienen hauptsächlich Selbsterkenntnis #z/testen/geplant
+
+
+
+
+#### Binaural Beats
+#z/testen
+1.   in Pausen Alpha
+2.  Theta Pausen
+3. hohe Beta Frequenzen oder Gamma für kontinuierliches Arbeite, aber keine verschiedenen Frequenzen bei Arbeit
+4. sowohl für Arbeit als auch für Pausen Naturgeröusche wie Vogelzwitschern, Wellen, Bach...
+
+#### Farben
+- #z/testen Licht Farben: siehe Notiz (größtenteils grünes-blaues Licht und evtl. Zur Abwechslung auch gelb und orange (starkes orange und gelb wirken energetischer als grün und blau, daher evtl bei Sport oder nach oder während Pausen)

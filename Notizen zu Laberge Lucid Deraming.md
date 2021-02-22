@@ -152,3 +152,10 @@ Ich frage mich was der eine Mann meinte damit, dass er 5 Jahre Traum hatte - wah
 
 Was ich machen will:
 - Essen Buffet
+
+
+
+
+
+### Lucid Dreaming
+#Z/WirdGelernt mind. 10x am Tag ausführlicher Reality Check (Nase, Hand, Umgebung anschauen)
