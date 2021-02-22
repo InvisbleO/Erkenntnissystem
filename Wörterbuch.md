@@ -28,7 +28,7 @@
 		-   z.B. wenn ich mich vorher über ein anderes Thema wie Gefährlichkeit von Coronavirus informieren muss, um eine gute Entscheidung zu treffen, dann tag \#z/todo/CoronavirusGefährlichkeitInformieren - dieser Tag erscheint in der Notiz "Todo" - in dieser wird regelmäßig geprüft, ob für ein todo neue Informationen vorhanden sind, wann es erledigt werden kann - wenn ja, dann dieses Datum planen in Tagesplaner und im Tagesplaner eintragen, worum es sich handelt und wo die Stelle gefunden werden kann
 			-   \#todo/Nachdenkphase bedeutet, dass diese Stelle während der Nachdenkphase überarbeitet werden muss, weil bis jetzt nur eine grobe Vereinfachung getroffen wurde
 		-   wenn es erledigt ist, dann einfach den tag \#z/todo bzw. testen aus der Stelle, die unvollständig war, entfernen
-	-   \#z/irgendwann - Stellen, bei denen ich keinen Zeitpunkt abschätzen kann, weil (1) dieser unabhängig von mir ist, z.B. Entwicklung neuer Obsidian-Features, oder (2) der Zeitpunkt in ferner Zukunft liegt, aber ich weiß schon, dass ich es machen will
+	-   \#z/irgendwann - Stellen, bei denen ich keinen Zeitpunkt abschätzen kann, weil (1) dieser unabhängig von mir ist, z.B. Entwicklung neuer Obsidian-Features, oder (2) der Zeitpunkt in ferner Zukunft liegt, aber **ich weiß schon, dass ich es machen will**
 	- \#z/evtl - für unfertige Ideen, die ich dokumentieren will und auf die ich möglicherweise später zurückkommen will
 	- \#z/wirdGelernt - für Systeme, die ich aktuell versuche mir anzugewöhnen, die aber aufgrund dieses Prozesses, mehr Energie und Fokus als gewöhnlich erfordern
 	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären

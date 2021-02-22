@@ -96,8 +96,9 @@ iPhone, iPad Gerätepasswort für jetzt nur PIN wegen unterwegs, sobald unterweg
 
 Alle PW in Chrome/iCloud speichern, sollte in beiden drin sein, damit auch auf iPhone in Apps einloggen möglich ist, aber reicht aus, das PW einfach zu übertragen wenn es benötigt wird
 
-#z/irgendwann 
+#z/todo/wennNachdenkphasefertig (weil aktuell weiß ich noch nicht, wem ich dafür vertrauen soll)
 Simon bekommt mein iCloud und Google Passwort für den Fall dass ich sterbe oder auf sonstige Weise nicht mehr an meine Sachen rankomme
+- Alternative wäre passwort mit 30 Zeichen in Mitte teilen und jemand anderes, z.B. Eltern bekommen den zweiten Teil
 
 ### Geld
 Aktuelle Kostenrechnung sowie Datum von Zahlungen grob:
@@ -112,7 +113,7 @@ Aktuelle Kostenrechnung sowie Datum von Zahlungen grob:
 -   7,50€ Rundfunkneitrag (alle drei Monnate, 12. Februar)
 -   \-200 Kindergeld
 =370€
-- Ideal wäre eine Kreditkarte, die automatisch von meinem Hauptkonto abbucht, damit ich nur das Hauptkonto im Blick haben muss #z/irgendwann 
+- Ideal wäre eine Kreditkarte, die automatisch von meinem Hauptkonto abbucht, damit ich nur das Hauptkonto im Blick haben muss 
 	- Geschäftskonto beantragen, welches Sofort Überweisung hat und an EC Automaten kostenlos abheben kann + Amazon Kreditkarte beantragen, sobald ich ein stabileres Einkommen habe #z/todo/wennIchGeldVerdiene
 - Bis dahin möglichst viele Geldflüsse über das Hauptkonto abwickeln, auf Kreditkarte standardmäßig 100€ halten, falls ich aus irgendwelchen Gründen nicht sofort Geld raufladen kann, sowie Kosten immer direkt ausgleichen, wenn sie entstehen
 - grundsätzlich möglichst viel Geld in Depots halten, aber mindestens 1000€ sollten auch immer sofort verfügbar sein zum Abheben, testen wie lange Auszahlungen dauern #z/todo/wennSmartBrokerDaIst 
