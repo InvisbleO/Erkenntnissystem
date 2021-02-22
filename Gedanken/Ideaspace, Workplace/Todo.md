@@ -45,9 +45,6 @@ Ladekabel ankleben oder in irgendeine gute Position
 
 Simon meine Notizen schicken
 
-Warum habe ich diese Notiz (alles connected) nicht mehr? Oder ist sie in einer der zusammengefassten? Ansonsten von Jakob die Mail wo ich es ihm erkläre wiederholen oder aus oskar@kirchners.de
-
-
 
 Bevor ich anfange mit Nachdenkphase, brauche ich klaren, heftigen Antrieb, kann auch reine Neugier sein, aber nicht nur machen, weil ich weiß dass es richtig ist, dann wird es nicht, vllt sollte ich es noch leicht verschieben und mich in der Zeit selber kennenlernen und wonach ich strebe, aber das ist es ja eigentlich nur - Einfach in dem Geist von neugier machen und dass ich wissen will, wer ich bin; ich denke noch keine weiteren Ergebnisse voraussetzenm evtl ziele noch besser definieren
 
