@@ -20,10 +20,12 @@ Auf eine Tätigkeit konzentrieren und ihr meine volle Energie geben in der Hinsi
 Vorläufig lege ich für mich 40€ Stundenlohn fest (weil ich zwar relativ wenig Geld habe, aber keine akuten Geldsorgen und mit intelligentem Investieren könnte ich vorerst ohne Geldverlust rauskommen und wenn das der Fall ist, dann ist meine normale Arbeit mindestens 40€ wert.
 Ich erwarte  nicht, den Zeitwert zu brauchen, weil ich in ncahdenkphase an keinen Geldsachen arbeiten will und danach neu festlegen muss.
 
-**System für Erschaffung neuer Systeme und Änderung vorhandener Systeme:**
-aktuell keine allgemeinen Regeln für Erschaffung, einfach sicherstellen, dass es noch kein System für diese Situation gibt
+### System für Erschaffung neuer Systeme und Änderung vorhandener Systeme #z/todo/wennNachdenkphasefertig
+aktuell keine allgemeinen Regeln für Erschaffung, bis auf sicherstellen, dass es noch kein System für diese Situation gibt
+Ideen ( #z/evtl):
+- Aus welchem Grund könnte ich das System abändern, wie kann ich es schon darauf anpassen
 
-Sachen die getestet werden definieren, was ich für Probleme bei Tests erwarte, damit ich schon weiß, dass diese Probleme keine Änderung des Systems erlauben #z/todo/wennNachdenkphasefertig
+Für Sachen die getestet werden definieren, was ich für Probleme bei Tests erwarte, damit ich schon weiß, dass diese Probleme keine Änderung des Systems erlauben 
 
 
 ## Umgebung, äußere Arbeit & Organisation
