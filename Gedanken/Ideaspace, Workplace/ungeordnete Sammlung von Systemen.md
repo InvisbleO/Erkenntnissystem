@@ -109,7 +109,7 @@ Aktuelle Kostenrechnung sowie Datum von Zahlungen grob:
 -   30€ Mindlab
 -   40€ Nutzpauschale
 -   7,50€ Rundfunkneitrag (alle drei Monnate, 12. Februar)
--   \-200 Kindergeld
+-   \-200 Kindergeld (1.)
 =370€
 - Ideal wäre eine Kreditkarte, die automatisch von meinem Hauptkonto abbucht, damit ich nur das Hauptkonto im Blick haben muss 
 	- Geschäftskonto beantragen, welches Sofort Überweisung hat und an EC Automaten kostenlos abheben kann + Amazon Kreditkarte beantragen, sobald ich ein stabileres Einkommen habe #z/todo/wennIchGeldVerdiene
