@@ -144,18 +144,8 @@ konkrete Prinzipien:
 - Mama kann anrufen, wenn sie es braucht
 - Papa und Rest der Familie sollen wenn möglich nicht anrufen
 
-#z/todo Aurelia anrufen und erklären, wie ich meinen Kontakt regele, sobald ich mir das überlegt habe
-
-#### Simon
-- für ihn gelten gleiche Regeln wie für alle anderen - er kann mich anrufen, wenn ich nicht Stören an habe, rufe ich zurück
-
 ### Für Unternehmen aufbauen
 Ray Dalio Workprinciples in Buch Principles lesen
-
-### Hausordnung
-#### Wäsche
-Waschtrockner vor Anschalten mehrfach prüfen, ob Temperatur 30 Grad richtig angestellt ist (Beim Einstellen und nach Einstellen nochmal Blick drauf werfen und bestätigen) #Z/WirdGelernt
-
 
 ## Arbeit, Workflow
   
