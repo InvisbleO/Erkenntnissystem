@@ -40,16 +40,13 @@ Wphin persönliche Entwciklung?
 in Todo notiz Blöcke wo steht was ich in wichtigen Situationen mache? Oder nur in Tagesnotizen und eindeutigen leicht findbaren tag setzen, aber dann kann ich diese ja nie entfernen, daher besser in Todo
 z.B. was ich jetzt Mama sagen will oder auch nicht sagen will - ist nämlich wichtig, wenn ich ich mich nachträglich dagegen entscheide, etwas zu tun, kann ich das in manchen Momenten vergessen, daher darf ich mich nicht auf Gedächtnis verlassen, sondern am Anfang dieser wichtigen Situationen schauen ob ich mir etwas dafür aufgeschrieben habe
 
-
-Obsidian testen Bilder, Video einfügen
-Simon fragen was er von Roam rausgefunden hat
-- evtl. selber Roam testen, falls es für mich in Frage kommt
-
-GitHub fixen?
 Ladekabel ankleben oder in irgendeine gute Position
 
-Simon meine Notizen schicken
+-------
+Mit Simon entscheiden ob Obsidian oder Roam, dann ggf. GitHub fixen
+Dann Simon meine Notizen schicken
 
+--------
 
 Bevor ich anfange mit Nachdenkphase, brauche ich klaren, heftigen Antrieb, kann auch reine Neugier sein, aber nicht nur machen, weil ich weiß dass es richtig ist, dann wird es nicht, vllt sollte ich es noch leicht verschieben und mich in der Zeit selber kennenlernen und wonach ich strebe, aber das ist es ja eigentlich nur - Einfach in dem Geist von neugier machen und dass ich wissen will, wer ich bin; ich denke noch keine weiteren Ergebnisse voraussetzenm evtl ziele noch besser definieren
 

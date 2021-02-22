@@ -6,11 +6,21 @@
       {
         "id": "b2628efc250ee192",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Gedanken/Ideaspace, Workplace/Todo.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ac68bd94597cc9c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Gedanken/Tagesnotizen/2021-02-22.md",
             "mode": "source"
           }
         }
@@ -23,6 +33,18 @@
           "state": {
             "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
             "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e22687bfd5d7820e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Wörterbuch.md",
+            "mode": "source"
           }
         }
       }
@@ -88,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/Todo.md",
+                "file": "Wörterbuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/Todo.md"
+                "file": "Wörterbuch.md"
               }
             }
           },
@@ -143,15 +165,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Gedanken/Ideaspace, Workplace/Todo.md",
+    "Wörterbuch.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
-    "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Mana Dokumenatation.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",
+    "Gedanken/Ideaspace, Workplace/Todo.md",
+    "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Mana Dokumenatation.md",
     "Untitled 1.md",
     "Untitled.md",
     "Notizen zu Laberge Lucid Deraming.md",
     "Gedanken/Tagesnotizen/2021-02-21.md",
-    "Gedanken/Tagesnotizen/2021-02-20.md",
-    "Gedanken/Ideaspace, Workplace/Unsortierte Inspiration für Weltbild Nachdenkphase.md"
+    "Gedanken/Tagesnotizen/2021-02-20.md"
   ]
 }
