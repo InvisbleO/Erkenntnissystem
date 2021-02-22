@@ -49,7 +49,7 @@ Erreichbarkeit:
 -   WhatsApp installiert lassen, da für manche Sachen vorteilhaft, kein aktiver Kommunikationskanal und Kommunikation mit Bekannten verlegen auf Mail
 	-   Evtl alternativ Signal falls viele soziale Kontakte und wenn es einen Vorteil bringt, Konversationen zu sehen + Videos und Fotos, vorerst nicht nötig
 
-Lüften:
+**Lüften**
 Alle 4h lüften, Kompromiss aus Heizung und idealer CO2 Konzentration
 Ideale CO2-Konzentration würde alle 1,5-2h Lüften erfordern
 
@@ -65,13 +65,13 @@ Ideale CO2-Konzentration würde alle 1,5-2h Lüften erfordern
 
 ### Digitales Setup
 
+#### Mails
 -   Gründe für verschiedene Adressen: 
 	-   inhaltliche Aufteilung von Posteingängen
 	-   Sicherheit: Personen sollten möglichst keinen Zugriff haben auf eine Mailadresse, mit der ich auch meine Accounts verwalte bzw. Auf die Accounts, weil bei manchen Accounts die Sicherheitsmechanismen zu schwach sind
 	-   normale Verwaltung und verdächtige 	Verwaltung 
 	-   Adressen die zugespamt werden könnten teilen von sicheren Adressen
 
-Mail-Adressen:
 -   [oskar.kirchner.p@gmail.com](mailto:oskar.kirchner.p@gmail.com) - Kontakt: für Menschen mit denen ich Kontakt habe, privat und Verwaltung (die ja auch an person gebunden ist)
 -   [Oskar.kirchner.cc@gmail.com](mailto:Oskar.kirchner.cc@gmail.com) - für Kontakt mit Menschen über Webseite
 -   [Oskar.kirchner.c@gmail.com](mailto:Oskar.kirchner.c@gmail.com) - Spam: hauptsächlich für öffentlichen Kontakt + verdächtige Leute, die es missbrauchen könnte, z.B. Ebay Kleinanzeigen Betrüger, + für unsichere Accounts, die Mail weitergeben könnten
@@ -83,7 +83,7 @@ Google Anmeldung nutzen ist ok, da Übersicht in Chrome, Google sagt selber nur 
 
 Apple Anmeldung nicht, da keine Übersicht
 
-**Sicherheit**
+#### Sicherheit
 
 iPhone, iPad Gerätepasswort für jetzt nur PIN wegen unterwegs, sobald unterwegs FaceID wieder funktioniert auf Passwort umstellen
 - Sehr darauf achten, dass niemand die PIN sieht
