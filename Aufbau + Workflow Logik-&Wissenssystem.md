@@ -13,7 +13,7 @@ Aktueller Zweck des Logik&-&Erkenntnissystems ist alle meine Gedanken und Erkenn
 ## Aufbau des Systems + Grundprinzipien
 ### Kategorisierung und Einordnung von Daten
 #### Ordner
--   wird angesehen als eine zusätzliche Möglichkeit Daten zu sortieren einfach grundsätzlich verwenden für Einordnung von Dateien, falls ich eine bestimmte Art von Datei suche kann es behilflich sein, ansonsten aber unwichtig
+-   wird angesehen als eine Möglichkeit Dateien zu sortieren, um den Workflow zu erleichtern (für bessere navigation zwischen Dateien), die ordnerstruktur hat aber nichts zu tun mit der Logik von e
 	-   Nachteil dass Rüberspringen zu Nachbardateien in Primärstruktur nicht so einfach ist, falls dass ein großes Hindernis ist, dann Eltern- und Kinderdateien in einer Datei verlinken, aber vorerst nicht erwartet dass es nötig sein wird
 	-   Alternative wäre hierarchische tagstruktur (z.B. \#root/subfolder/subsubfolder) - hat aber eher Nachteile, dass  außerhalb von Obsidian keine Struktur vorhanden ist und die Navigation schwieriger ist und keine klaren Vorteile
 -   wichtige Ordner erklärt:
