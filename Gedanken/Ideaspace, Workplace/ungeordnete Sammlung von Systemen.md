@@ -214,9 +214,11 @@ Mittelgruppe sind schon nicht so unwichtige Gedanken, welche aber eher Wiederhol
 - Ein Problem an Aufschreiben während Nachdenken ist, dass einzelne Gedanken locker 2-3 Sätze enthalten können, weil sie 1-2 Voraussetzungen mit 1-2 Schlussfogerungen verknüpfen und sie kommen mit einem Schlag und ich habe nur grobe Formulierung im Kopf, aber ich denke intuitiv aufschreiben ist trotzdem gut, da ich so gar nicht so schlecht nachdenken kann, solange ich nicht über Formulierung nachdenken muss -> intuitiv aufschreiben, an keine grammatischen oder logischen Regeln halten, Stichworte auch ok
 
 #### Analyse von Tagesnotizen
+spezifische Tags, um Gedanken des Tages einzuordnen:
+![[Wörterbuch#^8c5d5b]]
+![[Wörterbuch#^eba7c5]]
 
-
-Pausensystem: #z/testen
+### Pausensystem: #z/testen
 -  Anfangs: Pomodoro mit 25min Arbeitsblöcken und 2x 5 min Pause und 1x 15min Pause - kann erstmal Pausenzeiten planen mit Tagesplaner, aber falls Flexibiltät wichtiger ist, Pomodoro Timer nutzen
 	-  intuitiv entscheiden ob hinlegen oder auf Laufband laufen, beides mit Binaural Beats
 	-  Falls ich unterwegs bin und mich nicht an den strikten Plan halten kann, dann intuitiv 5min Pausen machen, in denen ich auf nichts achten muss und wenn ich wiederkomme, dann 5in Pause und mit neuem großen Pomodoroblock Anfangen

@@ -32,6 +32,6 @@
 	- \#z/nochLernen - für Systeme, die ich schon festgelegt habe, aber die aktuell zu energieraubend zu lernen wären
 	- \#z/nurAktuell - System, welches ich nur für begrenzte Zeit nutze
 
-\#Lehre für Gedankengänge in Tagesnotiz, aus denen ich eine Lehre ziehe (also Fehler)
+\#Lehre für Gedankengänge in Tagesnotiz, aus denen ich eine Lehre ziehe (also Fehler) ^8c5d5b
 
-\#magischerMoment für sehr schöne, magische Momente, für die ich dankbar bin, an die ich mich erinnern möchte
+\#magischerMoment für sehr schöne, magische Momente, für die ich dankbar bin, an die ich mich erinnern möchte ^eba7c5
