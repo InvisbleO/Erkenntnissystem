@@ -146,3 +146,9 @@ Idee für RCs wäre Siri sagt laut ich träume
 Spinning kann man auch nutzen für neue Traumszene erzeugen
 
 Szene ändern geht auch mit dem Mindtrick, sich vorzustellen, ganze Welt wäre nur auf einem Bildschirm und ich hätte Fernbedienung für Channel Wechsel in der Hand
+
+Ich frage mich was der eine Mann meinte damit, dass er 5 Jahre Traum hatte - wahrscheinlich hat LaBerge Recht und die Leute sagen 5 Jahre, weil ihnen ein Instinkt sagt, dass es so lange war, aber sie haben selber gar nicht die ganze Zeit erlebt sondern nur ca. 30min bewusst davon, vllt wird ein weiterer Teil aber sogar als Erinnerung oder so ähnlich produziert, sodass man tatsächlich mehr Kontext hat als die 30min erlebte Zeit.
+
+
+Was ich machen will:
+- Essen Buffet
