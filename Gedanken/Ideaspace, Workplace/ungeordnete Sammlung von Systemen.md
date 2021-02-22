@@ -165,6 +165,8 @@ Mac produktiv nutzen:
 
 ## Mind-Systeme
 
+### Fokus
+
 Fokus während Arbeit: #z/testen
 - #z/testen wie lange Flow möglich ist mit Foci - falls lönger als Pomodoro, oder falls Pausen mich regelmäßig aus Flow rausholen, dann längere Arbeitszeiten
 - Allgemein:
@@ -182,12 +184,17 @@ Fokus während Arbeit: #z/testen
 	- Relaxation Biofeedback
 	- Grund für Abfolge ist, dass Müdigkeit von zu viel Nebengedanken kommt, es geht darum Gedanken leiser zu machen + Körper zu entspannen
 
-Ansonsten mit allen negativen Gedanken, Gefühlen umgehen durch Aufschreiben in Tagesnotiz, automatisch
+### Denken
+
+Ansonsten mit allen negativen Gedanken, Gefühlen umgehen durch Aufschreiben in Tagesnotiz, passiert automatisch
 
 Zeit für Entscheidungen lassen, nicht sofort nach einer passenden intuition entscheiden - Wie Elon immer wieder neue Ideen zu einem Thema haben und es mehrfach von verschiedenen Blickwinkeln zu betrachten, bevor ich es löse, ist einfach zuverlässigster Weg, nicht einseitig zu entscheiden
 
-### alle Gedanken aufschreiben in Tagesnotiz
--   Wenn mir abends noch Gedanken nach Gedankenanalyse kommen, dann diese in Handy noch in aktuelle Tagesnotiz bzw- Watch in Drafts eintragen und am nächsten Tag gemeinsam mit den Tagesgedanken analysieren, also immer das Ende des vorherigen Tages + aktuellen Tag + Drafts analysieren
+#### alle Gedanken aufschreiben in Tagesnotiz
+
+Ziel ist, dass ich immer einen möglichst freien Kopf habe, indem ich alle Gedanken aufschreibe um mir ihrer bewusst zu werden und dann so weit wie möglich bewusst mit ihnen umzugehen.
+
+-   Wenn mir abends noch Gedanken nach Gedankenanalyse kommen, dann diese nächste Tagesnotiz schreiben bzw- auf Watch in Drafts eintragen
 -   Gespräche mit anderen Personen zeichne ich erstmal nicht auf (Telefonate oder direkte Gesrpäche), weil TElefon kostet und aufwendig, stattdessen alle relevanten Gedanken von mir und Aussagen der anderen aufschreiben #Z/WirdGelernt 
 
 Habe viele eigentlich irrelevante nur ganz kurz aufpoppende gedanken, ist aber nicht ganz einfach, sie von wichtigeren auseinanderzuhalten, weil Übergang fließend ist
@@ -197,12 +204,12 @@ Mittelgruppe sind schon nicht so unwichtige Gedanken, welche aber eher Wiederhol
 - #z/testen während Nachdenken intuitiv aufschreiben und sehen wie gut dann Nachdenkflow ist - dabei ist es erlaubt, Gedanken die ich nicht so wichtig finde nicht aufzuschreiben, weil ich sonst Faden verlieren könnte weil aufschreiben zu lagne dauert
 - Ein Problem an Aufschreiben während Nachdenken ist, dass einzelne Gedanken locker 2-3 Sätze enthalten können, weil sie 1-2 Voraussetzungen mit 1-2 Schlussfogerungen verknüpfen und sie kommen mit einem Schlag und ich habe nur grobe Formulierung im Kopf, aber ich denke intuitiv aufschreiben ist trotzdem gut, da ich so gar nicht so schlecht nachdenken kann, solange ich nicht über Formulierung nachdenken muss -> intuitiv aufschreiben, an keine grammatischen oder logischen Regeln halten, Stichworte auch ok
 
-#### Analyse von Tagesnotizen
+##### Analyse von Tagesnotizen
 spezifische Tags, um Gedanken des Tages einzuordnen:
 ![[Wörterbuch#^8c5d5b]]
 ![[Wörterbuch#^eba7c5]]
 
-### Pausensystem: #z/testen
+#### Pausensystem: #z/testen
 -  Anfangs: Pomodoro mit 25min Arbeitsblöcken und 2x 5 min Pause und 1x 15min Pause - kann erstmal Pausenzeiten planen mit Tagesplaner, aber falls Flexibiltät wichtiger ist, Pomodoro Timer nutzen
 	-  intuitiv entscheiden ob hinlegen oder auf Laufband laufen, beides mit Binaural Beats
 	-  Falls ich unterwegs bin und mich nicht an den strikten Plan halten kann, dann intuitiv 5min Pausen machen, in denen ich auf nichts achten muss und wenn ich wiederkomme, dann 5in Pause und mit neuem großen Pomodoroblock Anfangen
@@ -394,6 +401,11 @@ Durch Nase atmen (bis auf bei Sport), wird generell als gesünder angesehen (ang
 - möchte ich aber nicht machen, weil ich mich nur auf ein paar einzelne Bereiche fokussieren will, und nicht so komplizierten Ablauf haben will und es ist nicht essenziell
 
 ### Hygiene
+#### Wäsche
+- alle Kleidungsstücke alle 2 Tage wechseln bis auf Hose (alle 4)
+
+Waschtrockner vor Anschalten mehrfach prüfen, ob Temperatur 30 Grad richtig angestellt ist (Beim Einstellen und nach Einstellen nochmal Blick drauf werfen und bestätigen) #Z/WirdGelernt
+
 Duschen:
 -   Alle 2 Tage allgemeine Empfehlung
 -   Vor Shampoo/Seife, heiß duschen um Poren zu öffnen (so dass man etwas schwitzt, geht auch mit vorher Sport machen)
