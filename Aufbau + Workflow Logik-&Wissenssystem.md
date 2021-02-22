@@ -98,7 +98,6 @@ Die konkretesten Dateien sind nach Möglichkeit immer die Quelle von Information
 	-   "file:" für Dateiname, "path:" für alle Dateien in einem Ordner, 
 -   Wenn ich eine Datei löschen muss, dann idealerweise vorher alle Links dazu aufheben, indem ich an den entsprechenden Stellen die Klammern entferne
 	-   ansonsten können Links auch nachträglich aufgehoben werden
--   Bald gibt es ein Update: Wenn ein Dateiname geändert wird, dann ändert sich auch der Name im Link - gilt es dann für alle Links? #z/irgendwann
 
 ### Mobile Workflow
 - #z/testen wird Tagesnotiz automatisch morgens erstellt? Mache ich vllt automatisch, da Traumjournal immer am Computer

@@ -54,8 +54,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Testen und Updaten!.md",
-            "mode": "preview"
+            "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#z/irgendwann",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testen und Updaten!.md",
+                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testen und Updaten!.md"
+                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md"
               }
             }
           },
@@ -168,22 +169,22 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 328
   },
   "lastOpenFiles": [
+    "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+    "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Bodybuilding und Sport.md",
+    "Aufbau + Workflow Logik-&Wissenssystem.md",
     "Testen und Updaten!.md",
     "Wörterbuch.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",
     "Gedanken/Ideaspace, Workplace/Todo.md",
-    "Aufbau + Workflow Logik-&Wissenssystem.md",
-    "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Mana Dokumenatation.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "Notizen zu Laberge Lucid Deraming.md"
+    "Untitled.md"
   ]
 }

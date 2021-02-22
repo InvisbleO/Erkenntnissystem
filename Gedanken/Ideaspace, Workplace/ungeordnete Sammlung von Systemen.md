@@ -183,7 +183,6 @@ Mac produktiv nutzen:
 Fokus während Arbeit: #z/testen
 - #z/testen wie lange Flow möglich ist mit Foci - falls lönger als Pomodoro, oder falls Pausen mich regelmäßig aus Flow rausholen, dann längere Arbeitszeiten
 - Allgemein:
-- #z/aktuell Foci nur bei Sitzender Arbeit oder liegender Pause tragen, bis kalibrierung fertiggestellt ist, dann
 - #z/testen Foci dauerhaft tragen bis auf bei Morgensport und sehen ob Fokus Erkennung zuverlässig ist
 - #z/todo/solangebisichFlowAtmungVerinnerlichtHabe mit Foci Breathing Audio arbeiten
 	- 2x einatmen, 1x ausatmen
@@ -321,7 +320,7 @@ alte morgenroutine, falls ich sie doch nochmal nutzen möchte #z/evtl
 -   5min: Erfolgsjournal schreiben und in Zeit die von Puffer übrig bleibt vergangene Erfolge ansehen
 -   Fenster auf, Schlafsachen anziehen, Zähne putzen, Deo, Zahnschiene, Posalbe, Kleidung für neuen Tag bereitlegen, ggf. Alte Kleidung in Wäsche, Küche Rollos runter, 1/2 Glas Wasser trinken
 -   Fenster zu, Rollos runter + Oura Ring anziehen + White Noise /Affirmation anschalten
--   #z/aktuell 20-30 min über leides Träumen informieren + Traumabsicht festlegen (Worüber träumen, was tun)
+-   #z/nurAktuell 20-30 min über leides Träumen informieren + Traumabsicht festlegen (Worüber träumen, was tun)
 -   ca. 21:55 Einschlafen mit 478 Methode + Körperteile bewusst entspannen
 -   Wenn Gedanken bei Einschlafen kommen, dann diese mit AppleWatch aufnehmen
 	-   Falls nach 20min nicht eingeschlafen, dann evtl noch etwas lesen, Hörbuch, allerdings nicht auf Screens mit blauem Licht schauen, nur Rot
