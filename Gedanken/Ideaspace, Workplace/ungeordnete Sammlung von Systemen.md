@@ -8,21 +8,17 @@
 Ich gehen vorerst so an mein Leben ran, dass ich möglichst alle Tätigkeiten plane, bzw. Ihnen zumindest einen Metarahmen gebe, damit ich weiß, wofür ich es mache, denn ich denke es ist sehr abwegig, das man neue Sachen nicht entdecken kann ohne die Absicht sie zu entdecken, selbst wenn man sie nicht kennt
 Selbst falls es irgendwie der Fall wäre, würde es viel zu viele Nachteile geben an etwas ganz planlos ranzugehen, würde alle anderen Systeme in Gefahr bringen, weil ich mich innerhalb der planlosen Situation dann nicht mehr daran halten müsste, ganz falsch
 
-Da alles verstrickt ist und sich viel ändern kann nach Überlegungsphase, erstmal mit Minimum an Systemen anfangen, um wesentliche Situationen gedeckt zu habenn, Rest vorerst intuitiv behandeln.
+Da alles verstrickt ist und sich viel ändern kann nach Überlegungsphase, erstmal mit Minimum an Systemen anfangen, um wesentliche Situationen gedeckt zu haben, Rest vorerst intuitiv behandeln.
 Simple is key
 
 Finde es aktuell ok, wenn auch die Systemnotiz eine Baustelle ist und manchmal geändert wird, weil ich viel ausrpobiere und hier auch Gedanken entwickle und noch keine Erfahrung damit habe, wie ich Systeme aufschreiben soll, daher brauche ich noch nicht so rangehen, dass es final ist
 
-Grundprinzip:
-Bei Erstellung von Systemen bestimmen, für welchen Zeitraum und unter welchen Voraussetzungen die Systeme gelten werden und entsprechend dieser Voraussetzungen abschätzen, welchen Wert das System haben wird und wie viel Aufwand ich darein investieren kann, damit es sich noch lohnt 
--  Bsp. unveränderte Tätigkeiten wie Hygiene, wo ich keine neuen Informationen erwarten kann, auf langen Zeitraum auslegen. Im Gegenzug Lampeninstallation in Wohnung bringt höchstens bis zum Auszugstermin etwas
-
-Vorläufig lege ich für mich 40€ Stundenlohn fest (weil ich zwar relativ wenig Geld habe, aber keine akuten Geldsorgen und mit intelligentem Investieren könnte ich vorerst ohne Geldverlust rauskommen und wenn das der Fall ist, dann ist meine normale Arbeit mindestens 40€ wert.
-Ich erwarte  nicht, den Zeitwert zu brauchen, weil ich in ncahdenkphase an keinen Geldsachen arbeiten will und danach neu festlegen muss.
-
 ## Allgemein, auch während anderen Systemen
 
 Auf eine Tätigkeit konzentrieren und ihr meine volle Energie geben in der Hinsicht, dass ich weiß, aus welchem Grund ich sie mache und welches Reslutat sie haben wird. #Z/WirdGelernt 
+
+Vorläufig lege ich für mich 40€ Stundenlohn fest (weil ich zwar relativ wenig Geld habe, aber keine akuten Geldsorgen und mit intelligentem Investieren könnte ich vorerst ohne Geldverlust rauskommen und wenn das der Fall ist, dann ist meine normale Arbeit mindestens 40€ wert.
+Ich erwarte  nicht, den Zeitwert zu brauchen, weil ich in ncahdenkphase an keinen Geldsachen arbeiten will und danach neu festlegen muss.
 
 **System für Erschaffung neuer Systeme und Änderung vorhandener Systeme:**
 aktuell keine allgemeinen Regeln für Erschaffung, einfach sicherstellen, dass es noch kein System für diese Situation gibt
