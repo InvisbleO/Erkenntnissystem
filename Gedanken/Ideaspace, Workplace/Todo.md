@@ -44,6 +44,8 @@ Alle Verknüpfungen ohne tags als zinf, generell alle nochmal anschauen
 Ladekabel ankleben oder in irgendeine gute Position
 Vor Gedankenanalyse 10 Minuten keybr
 
+Überlegen ob ich mir leisten kann, schon in diesem Monat zu traden (sollte eigentlich kein Problem sein, solange unter 450€ Gewinn realisiert?)
+
 -------
 Mit Simon entscheiden ob Obsidian oder Roam, dann ggf. GitHub fixen
 Dann Simon meine Notizen schicken

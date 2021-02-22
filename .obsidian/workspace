@@ -6,6 +6,7 @@
       {
         "id": "b2628efc250ee192",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -39,7 +40,6 @@
       {
         "id": "1edd08e7aba19499",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
+                "file": "Gedanken/Ideaspace, Workplace/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md"
+                "file": "Gedanken/Ideaspace, Workplace/Todo.md"
               }
             }
           },
@@ -175,6 +175,7 @@
     "width": 328
   },
   "lastOpenFiles": [
+    "Gedanken/Ideaspace, Workplace/Todo.md",
     "Gedanken/Ideaspace, Workplace/ungeordnete Sammlung von Systemen.md",
     "Untitled 2.md",
     "Körpersysteme.md",
@@ -182,7 +183,6 @@
     "Notizen zu Laberge Lucid Deraming.md",
     "Gedanken/Tagesnotizen/2021-02-22.md",
     "Aufbau + Workflow Logik-&Wissenssystem.md",
-    "Gedanken/Ideaspace, Workplace/Todo.md",
     "Wörterbuch.md",
     "Gedanken/Ideaspace, Workplace/Arbeit, Projekte/Bodybuilding und Sport.md"
   ]
