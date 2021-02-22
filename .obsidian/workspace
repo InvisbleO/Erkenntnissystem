@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notizen zu Laberge Lucid Deraming.md",
+            "file": "Gedanken/Tagesnotizen/2021-02-22.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notizen zu Laberge Lucid Deraming.md",
+                "file": "Gedanken/Tagesnotizen/2021-02-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notizen zu Laberge Lucid Deraming.md"
+                "file": "Gedanken/Tagesnotizen/2021-02-22.md"
               }
             }
           },
@@ -132,6 +132,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Gedanken/Tagesnotizen/2021-02-22.md",
     "Notizen zu Laberge Lucid Deraming.md",
     "Gedanken/Ideaspace, Workplace/Todo.md",
     "Gedanken/Tagesnotizen/2021-02-21.md",
@@ -140,7 +141,6 @@
     "Gedanken/Ideaspace, Workplace/Unsortierte Inspiration für Weltbild Nachdenkphase.md",
     "Gedanken/Tagesnotizen/2021-02-19.md",
     "Gedanken/Tagesnotizen/2021-02-18.md",
-    "Gedanken/Tagesnotizen/2021-02-17.md",
-    "Gedanken/Tagesnotizen/2021-02-16.md"
+    "Gedanken/Tagesnotizen/2021-02-17.md"
   ]
 }
