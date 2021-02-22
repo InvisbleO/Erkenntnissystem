@@ -55,7 +55,7 @@ viele konkrete und sich ändernde Informationen, daher siehe [[Bodybuilding und 
 
 **Lüften**
 Alle 4h lüften, Kompromiss aus Heizung und idealer CO2 Konzentration
-Ideale CO2-Konzentration würde alle 1,5-2h Lüften erfordern nach einfachen Berechnug
+Ideale CO2-Konzentration würde alle 1,5-2h Lüften erfordern nach einfachenr Verhältnisrechnung mit Raumvolumen, CO2 Gehalt von Außenluft und von Atemluft und Atemvolumen
 
 Durch Nase atmen (bis auf bei Sport), wird generell als gesünder angesehen (angeblich auch bei Sport möglich)
 

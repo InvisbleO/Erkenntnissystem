@@ -5,6 +5,9 @@
 ---
 # ungeordnete Sammlung von Systemen
 
+Erklärung zu Unterordnern:
+- Einteilung geschieht grob nach Thematik und wenn Thematik nicht eindeutig ist, dann danach, wann etwas passiert, z.B. Nootropics unter Ernährung und nicht unter Denken, Binaural Beats aber schon unter Denken
+
 Ich gehen vorerst so an mein Leben ran, dass ich möglichst alle Tätigkeiten plane, bzw. Ihnen zumindest einen Metarahmen gebe, damit ich weiß, wofür ich es mache, denn ich denke es ist sehr abwegig, das man neue Sachen nicht entdecken kann ohne die Absicht sie zu entdecken, selbst wenn man sie nicht kennt
 Selbst falls es irgendwie der Fall wäre, würde es viel zu viele Nachteile geben an etwas ganz planlos ranzugehen, würde alle anderen Systeme in Gefahr bringen, weil ich mich innerhalb der planlosen Situation dann nicht mehr daran halten müsste, ganz falsch
 
@@ -39,7 +42,10 @@ Arbeitsplatz:
 - #z/testen längere TExte zu sprechen und nicht tippen, aber Unterscheidung ist dann vllt zu aufwendig, dann lieber einfach schnell tippen lernen?
 - #z/testen ob Trackpad mir ausreicht
 
-Erreichbarkeit:
+#### Farben
+- #z/irgendwann Licht Farben: siehe Notiz (größtenteils grünes-blaues Licht und evtl. Zur Abwechslung auch gelb und orange (starkes orange und gelb wirken energetischer als grün und blau, daher evtl bei Sport oder nach oder während Pausen)
+
+#### Erreichbarkeit
 -   iPhone Mitteilungszentrale ist Posteingang für Erreichbarkeit aller Mitteilungen
 -   Mitteilungen von meisten Apps erlauben, aber nur in Mitteilungszentrale
 -   Telefon immer an
@@ -188,6 +194,13 @@ Fokus während Arbeit: #z/testen
 -   #z/evtl  in Pausen rhythmisch zu atmen (3s-6s) und darauf Fokus zu richten
 - Immer wenn Arbeit nicht ideal funktioniert, dann dokumentieren, Grund, Uhrzeit und andere mögliche Faktoren, falls es zu häufig vorkommt, dann liegt es an falscher Balance von Pausen-Arbeit oder etwas ähnlich
 
+#### Binaural Beats
+#z/testen
+1.  in Pausen Alpha
+2. Theta Pausen
+3. hohe Beta Frequenzen oder Gamma für kontinuierliches Arbeite, aber keine verschiedenen Frequenzen bei Arbeit
+4. sowohl für Arbeit als auch für Pausen Naturgeröusche wie Vogelzwitschern, Wellen, Bach...
+
 #z/evtl 
 - 10min Naps in Pausen? Für Effektivität genauso gut wie 20 min
 - Spaziergang oder ähnliches: Geändertes Umfeld steigert auch Kreativität
@@ -240,14 +253,3 @@ Nest-Szenen alle 30 Tage exportieren:
 	- 18.2. ca. 19:20-20 Uhr Telefonat Oskar mit Mutter (muss nicht ganzes sein)
 	- 19.2. ca. 19 uhr getanzt
 - dienen hauptsächlich Selbsterkenntnis #z/testen/geplant
-
-
-#### Binaural Beats
-#z/testen
-1.   in Pausen Alpha
-2.  Theta Pausen
-3. hohe Beta Frequenzen oder Gamma für kontinuierliches Arbeite, aber keine verschiedenen Frequenzen bei Arbeit
-4. sowohl für Arbeit als auch für Pausen Naturgeröusche wie Vogelzwitschern, Wellen, Bach...
-
-#### Farben
-- #z/testen Licht Farben: siehe Notiz (größtenteils grünes-blaues Licht und evtl. Zur Abwechslung auch gelb und orange (starkes orange und gelb wirken energetischer als grün und blau, daher evtl bei Sport oder nach oder während Pausen)
