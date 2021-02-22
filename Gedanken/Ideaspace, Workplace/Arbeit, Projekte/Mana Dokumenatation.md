@@ -22,9 +22,13 @@ Aktuell Sportperformance morgens sehr nachlassend, kann aber natürlich an nicht
 
 Bis jetzt 78+65 Portionen Pulver
 
+22.2
+Oskar
+9 Powder, 11.30 Powder, 14.30 600 Powder, 17 Powder, 19 Powder
+
 21.2
 Oskar
-9 Powder, 11.30 Powder, 14.30 600 Powder, 17 Drink, 19 Powder  + 20g Protein
+9 Powder, 11.30 Powder, 14.30 600 Powder, 17 Drink, 19 Powder
 
 20.2
 Oskar

@@ -22,9 +22,7 @@ Ich erwarte  nicht, den Zeitwert zu brauchen, weil ich in ncahdenkphase an keine
 
 ## Allgemein, auch während anderen Systemen
 
-Auf eine Tätigkeit konzentrieren und ihr meine volle Energie geben in der Hinsicht, dass ich weiß, aus welchem Grund ich sie mache und welches Reslutat sie haben wird. #Z/WirdGelernt
-Ausnahmen:
-- #z/todo
+Auf eine Tätigkeit konzentrieren und ihr meine volle Energie geben in der Hinsicht, dass ich weiß, aus welchem Grund ich sie mache und welches Reslutat sie haben wird. #Z/WirdGelernt 
 
 **System für Erschaffung neuer Systeme und Änderung vorhandener Systeme:**
 aktuell keine allgemeinen Regeln für Erschaffung, einfach sicherstellen, dass es noch kein System für diese Situation gibt
